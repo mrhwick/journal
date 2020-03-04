@@ -16,4 +16,4 @@ cp scripts/gitsyncertemplate.sh scripts/gitsyncer.sh
 sed -i.bu "s|PLACEHOLDER|${repo}|g" scripts/gitsyncer.sh
 crontab scripts/cron
 
-security add-generic-password -a default -s jrnl -w
+security add-generic-password -a default -s jrnl -U -w

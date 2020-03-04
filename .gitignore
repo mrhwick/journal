@@ -1,1 +1,4 @@
 **/**syncerlog
+**/**.bu
+scripts/gitsyncer.sh
+scripts/cron

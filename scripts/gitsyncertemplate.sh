@@ -1,6 +1,4 @@
-cd /Users/matt.hardwick/workspace/personal/jrnl
-
-pwd
+cd PLACEHOLDER
 
 git pull origin master
 git add .

@@ -1,1 +1,0 @@
-*/1 * * * * /Users/matt.hardwick/workspace/personal/jrnl/scripts/gitsyncer.sh 1> /Users/matt.hardwick/workspace/personal/jrnl/scripts/syncerlog 2> /Users/matt.hardwick/workspace/personal/jrnl/scripts/syncerlog

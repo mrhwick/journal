@@ -7,3 +7,6 @@ fatal: not a git repository (or any of the parent directories): .git
 fatal: not a git repository (or any of the parent directories): .git
 fatal: not a git repository (or any of the parent directories): .git
 fatal: not a git repository (or any of the parent directories): .git
+From github.com:mrhwick/journal
+ * branch            master     -> FETCH_HEAD
+Already up to date.

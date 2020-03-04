@@ -1,4 +1,4 @@
-**/**syncerlog
-**/**.bu
+**/syncerlog
+**/*.bu
 scripts/gitsyncer.sh
 scripts/cron

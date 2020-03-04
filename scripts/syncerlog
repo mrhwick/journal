@@ -10,3 +10,12 @@ fatal: not a git repository (or any of the parent directories): .git
 From github.com:mrhwick/journal
  * branch            master     -> FETCH_HEAD
 Already up to date.
+[master 23ba2e9] Adding new journals
+ 3 files changed, 10 insertions(+)
+ create mode 100644 scripts/cron.bu
+ create mode 100755 scripts/gitsyncer.sh.bu
+To github.com:mrhwick/journal.git
+   7362f51..23ba2e9  master -> master
+From github.com:mrhwick/journal
+ * branch            master     -> FETCH_HEAD
+Already up to date.

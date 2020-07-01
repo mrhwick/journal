@@ -3,3 +3,4 @@ scripts/gitsyncer.sh
 scripts/cron
 scripts/*.bu
 keyfile
+journal/.obsidian/cache

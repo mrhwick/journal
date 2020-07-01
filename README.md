@@ -24,4 +24,5 @@ This installer script automatically:
 ## Usage
 
 https://obsidian.md/
+
 https://github.com/AGWA/git-crypt

@@ -2,3 +2,4 @@ scripts/syncerlog
 scripts/gitsyncer.sh
 scripts/cron
 scripts/*.bu
+keyfile

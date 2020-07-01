@@ -7,4 +7,4 @@ git pull origin master
 git add journal
 git commit -m "Adding new journal data"
 git push origin master
-echo "\n"
+echo "\n\n"

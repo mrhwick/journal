@@ -1,1 +1,1 @@
-0 */3 * * * PLACEHOLDER/scripts/gitsyncer.sh 1>> PLACEHOLDER/scripts/syncerlog 2>> PLACEHOLDER/scripts/syncerlog
+0/20 * * * * PLACEHOLDER/scripts/gitsyncer.sh 1>> PLACEHOLDER/scripts/syncerlog 2>> PLACEHOLDER/scripts/syncerlog

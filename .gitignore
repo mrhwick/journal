@@ -4,3 +4,4 @@ scripts/cron
 scripts/*.bu
 keyfile
 journal/.obsidian/cache
+**/.DS_STORE

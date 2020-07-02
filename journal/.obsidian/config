@@ -18,15 +18,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1beea00dac1ef9d0",
+        "id": "6a18186977df807f",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "soil biology.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],

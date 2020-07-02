@@ -18,12 +18,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6a18186977df807f",
+        "id": "40599f02a94f80ee",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Terry Jones.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -90,11 +93,11 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "soil biology.md",
-    "mandarin.md",
-    "daily/2020-07-01.md",
-    "daily/2020-07-02.md",
-    "drilldown method.md"
+    "Terry Jones.md",
+    "media/Terry Jones younger portrait.png",
+    "media/Pasted image.png",
+    "media/Terry Jones.png",
+    "Pasted image 1.png"
   ],
   "hotkeys": {
     "backlink:open-backlinks": [

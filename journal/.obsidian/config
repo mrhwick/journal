@@ -18,13 +18,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5160e1fba63e6f4c",
+        "id": "1beea00dac1ef9d0",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "drilldown method.md",
+            "file": "soil biology.md",
             "mode": "source"
           }
         }
@@ -93,11 +93,11 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "drilldown method.md",
-    "Afforestation.md",
+    "soil biology.md",
+    "mandarin.md",
     "daily/2020-07-01.md",
-    "Roderick T. Long.md",
-    "Praxeology.md"
+    "daily/2020-07-02.md",
+    "drilldown method.md"
   ],
   "hotkeys": {
     "backlink:open-backlinks": [
@@ -118,5 +118,6 @@
     ]
   },
   "alwaysUpdateLinks": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "attachmentFolderPath": "media"
 }

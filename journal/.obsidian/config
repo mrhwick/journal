@@ -18,13 +18,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7d55284c65acbab2",
+        "id": "5160e1fba63e6f4c",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mandarin.md",
+            "file": "drilldown method.md",
             "mode": "source"
           }
         }
@@ -93,11 +93,11 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "mandarin.md",
-    "daily/2020-07-01.md",
-    "daily/2020-07-02.md",
     "drilldown method.md",
-    "journal repo.md"
+    "Afforestation.md",
+    "daily/2020-07-01.md",
+    "Roderick T. Long.md",
+    "Praxeology.md"
   ],
   "hotkeys": {
     "backlink:open-backlinks": [
@@ -118,6 +118,5 @@
     ]
   },
   "alwaysUpdateLinks": true,
-  "showLineNumber": false,
-  "attachmentFolderPath": "media"
+  "showLineNumber": false
 }

@@ -18,15 +18,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5160e1fba63e6f4c",
+        "id": "0897a9658ff68806",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Terry Jones.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],

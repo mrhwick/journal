@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "forest succession.md",
+            "file": "Afforestation.md",
             "mode": "source"
           }
         }
@@ -93,11 +93,11 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Afforestation.md",
     "forest succession.md",
     "Edible Forest Gardens.md",
     "Terry Jones.md",
-    "drilldown method.md",
-    "Afforestation.md"
+    "drilldown method.md"
   ],
   "hotkeys": {
     "backlink:open-backlinks": [

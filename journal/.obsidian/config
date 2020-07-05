@@ -22,8 +22,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "forest succession.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -90,11 +93,11 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "forest succession.md",
+    "Edible Forest Gardens.md",
     "Terry Jones.md",
     "drilldown method.md",
-    "Afforestation.md",
-    "daily/2020-07-01.md",
-    "Roderick T. Long.md"
+    "Afforestation.md"
   ],
   "hotkeys": {
     "backlink:open-backlinks": [

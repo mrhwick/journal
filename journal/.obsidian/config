@@ -18,15 +18,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ab19bf1d59307133",
+        "id": "5a8e63f582bdbc6c",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "edible forest gardens - chapter one.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -93,11 +90,11 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "edible forest gardens - chapter one.md",
-    "edible forest gardens - intro.md",
-    "Feynman technique.md",
-    "Edible Forest Gardens.md",
-    "daily/2020-07-05.md"
+    "Terry Jones.md",
+    "media/Terry Jones younger portrait.png",
+    "media/Pasted image.png",
+    "media/Terry Jones.png",
+    "Pasted image 1.png"
   ],
   "hotkeys": {
     "backlink:open-backlinks": [
@@ -119,5 +116,5 @@
   },
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
-  "fileSortOrder": "alphabetical"
+  "attachmentFolderPath": "media"
 }

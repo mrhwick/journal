@@ -22,8 +22,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "edible forest gardens - chapter one.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -90,11 +93,11 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "daily/2020-07-05.md",
-    "daily/2020-07-01.md",
-    "daily/2020-07-02.md",
+    "edible forest gardens - chapter one.md",
     "edible forest gardens - intro.md",
-    "Edible Forest Gardens.md"
+    "Feynman technique.md",
+    "Edible Forest Gardens.md",
+    "daily/2020-07-05.md"
   ],
   "hotkeys": {
     "backlink:open-backlinks": [

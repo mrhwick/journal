@@ -1,17 +1,17 @@
 {
   "theme": "moonstone",
   "pluginEnabledStatus": {
-    "File explorer": true,
-    "Search": true,
-    "Quick switcher": true,
-    "Graph view": true,
-    "Backlinks": true,
-    "Command palette": true,
-    "Markdown format importer": true,
-    "Word count": true,
-    "Daily notes": true,
-    "Page preview": true,
-    "Tag pane": true
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "daily-notes": true,
+    "page-preview": true,
+    "tag-pane": true
   },
   "hotkeys": {
     "backlink:open-backlinks": [

@@ -33,5 +33,6 @@
   },
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "attachmentFolderPath": "media"
 }

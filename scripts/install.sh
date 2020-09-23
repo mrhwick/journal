@@ -1,9 +1,22 @@
-brew install jrnl
+# install git-crypt and set it up
+brew install git-crypt
+if [ -e keyfile ]
+then
+    echo "keyfile found, setting up git-crypt"
+else
+    echo "keyfile not found, exiting.."
+    exit 1
+fi
 
-# Add the config
-mkdir -p ~/.config/jrnl
-cp config.yaml ~/.config/jrnl/jrnl.yaml
+git-crypt unlock keyfile
 
-# substitute the default jrnl with the file from this repo
-current=$(pwd)"/jrnl.text"
-sed -i.bu "s|PLACEHOLDER|${current}|g" ~/.config/jrnl/jrnl.yaml
+# substitue the syncer repo with this repo
+repo=$(pwd)
+cp scripts/synccrontemplate scripts/cron
+sed -i.bu "s|PLACEHOLDER|${repo}|g" scripts/cron
+cp scripts/gitsyncertemplate.sh scripts/gitsyncer.sh
+sed -i.bu "s|PLACEHOLDER|${repo}|g" scripts/gitsyncer.sh
+crontab scripts/cron
+
+git fetch origin
+git switch -c journal

@@ -1,5 +1,5 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "pluginEnabledStatus": {
     "file-explorer": true,
     "global-search": true,
@@ -11,7 +11,8 @@
     "word-count": true,
     "daily-notes": true,
     "page-preview": true,
-    "tag-pane": true
+    "tag-pane": true,
+    "workspaces": false
   },
   "hotkeys": {
     "backlink:open-backlinks": [

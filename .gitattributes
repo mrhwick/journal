@@ -1,3 +1,5 @@
 .gitattributes !filter !diff
 journal/** filter=git-crypt diff=git-crypt
 journal/.obsidian/config !filter !diff
+journal/.obsidian/workspace !filter !diff
+journal/.obsidian/workspaces.json !filter !diff

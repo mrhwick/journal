@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cryptography.md",
+            "file": "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cryptography.md"
+                "file": "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md"
               }
             }
           },
@@ -83,8 +83,8 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "cryptography.md",
     "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
+    "cryptography.md",
     "Managing Money in a Zero Interest Rate Environment.md",
     "Revisiting Do We Ever Really Get Out of Anarchy.md",
     "Untitled.md",

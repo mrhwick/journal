@@ -12,7 +12,7 @@
     "daily-notes": true,
     "page-preview": true,
     "tag-pane": true,
-    "workspaces": false
+    "workspaces": true
   },
   "hotkeys": {
     "backlink:open-backlinks": [

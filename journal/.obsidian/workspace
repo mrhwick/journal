@@ -39,9 +39,7 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {
-                "query": "tag:#investing"
-              }
+              "state": {}
             }
           }
         ]
@@ -72,7 +70,7 @@
             "id": "13c3b1f882cd92e2",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "empty",
               "state": {}
             }
           }
@@ -87,11 +85,6 @@
     "cryptography.md",
     "Managing Money in a Zero Interest Rate Environment.md",
     "Revisiting Do We Ever Really Get Out of Anarchy.md",
-    "Untitled.md",
-    "Ray Dalio.md",
-    "media/Terry Jones portrait.png",
-    "media/Roderick T Long portrait.png",
-    "media/Pasted image 20201017131358.png",
-    "media/Ray Dalio portrait.png"
+    "Untitled.md"
   ]
 }

@@ -39,7 +39,9 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": ""
+              }
             }
           }
         ]
@@ -71,6 +73,14 @@
             "type": "leaf",
             "state": {
               "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b7652a02c4a1a0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {}
             }
           }

@@ -12,15 +12,7 @@
     "daily-notes": true,
     "page-preview": true,
     "tag-pane": true,
-    "workspaces": true,
-    "File explorer": true,
-    "Search": true,
-    "Quick switcher": true,
-    "Graph view": true,
-    "Backlinks": true,
-    "Command palette": true,
-    "Markdown format importer": true,
-    "Word count": true
+    "workspaces": true
   },
   "hotkeys": {
     "backlink:open-backlinks": [

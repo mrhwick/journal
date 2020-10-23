@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
+            "file": "High Output Management - chapter 1.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md"
+                "file": "High Output Management - chapter 1.md"
               }
             }
           },
@@ -91,10 +91,14 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "High Output Management - chapter 1.md",
+    "High Output Management (book).md",
+    "Edible Forest Gardens.md",
+    "edible forest gardens - chapter 0.md",
+    "Untitled.md",
     "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
     "cryptography.md",
     "Managing Money in a Zero Interest Rate Environment.md",
-    "Revisiting Do We Ever Really Get Out of Anarchy.md",
-    "Untitled.md"
+    "Revisiting Do We Ever Really Get Out of Anarchy.md"
   ]
 }

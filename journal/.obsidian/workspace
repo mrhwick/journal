@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "tag:#investing"
               }
             }
           }
@@ -72,14 +72,6 @@
             "id": "13c3b1f882cd92e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4b7652a02c4a1a0f",
-            "type": "leaf",
-            "state": {
               "type": "tag",
               "state": {}
             }
@@ -92,13 +84,14 @@
   },
   "lastOpenFiles": [
     "High Output Management - chapter 1.md",
-    "High Output Management (book).md",
-    "Edible Forest Gardens.md",
-    "edible forest gardens - chapter 0.md",
-    "Untitled.md",
+    "edible forest gardens - chapter 1.md",
     "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
     "cryptography.md",
     "Managing Money in a Zero Interest Rate Environment.md",
-    "Revisiting Do We Ever Really Get Out of Anarchy.md"
+    "Revisiting Do We Ever Really Get Out of Anarchy.md",
+    "Untitled.md",
+    "Ray Dalio.md",
+    "media/Terry Jones portrait.png",
+    "media/Roderick T Long portrait.png"
   ]
 }

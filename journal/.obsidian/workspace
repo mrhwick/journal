@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
+            "file": "edible forest gardens - chapter 1.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md"
+                "file": "edible forest gardens - chapter 1.md"
               }
             }
           },
@@ -83,6 +83,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "edible forest gardens - chapter 1.md",
     "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
     "cryptography.md",
     "Managing Money in a Zero Interest Rate Environment.md",
@@ -91,7 +92,6 @@
     "Ray Dalio.md",
     "media/Terry Jones portrait.png",
     "media/Roderick T Long portrait.png",
-    "media/Pasted image 20201017131358.png",
-    "media/Ray Dalio portrait.png"
+    "media/Pasted image 20201017131358.png"
   ]
 }

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Probabilistic Programming Languages.md",
+            "file": "Continuation-Passing Style.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilistic Programming Languages.md"
+                "file": "Continuation-Passing Style.md"
               }
             }
           },

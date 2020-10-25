@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hidden Markov Model.md",
+            "file": "Probabilistic Context-Free Grammar.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hidden Markov Model.md"
+                "file": "Probabilistic Context-Free Grammar.md"
               }
             }
           },

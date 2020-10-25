@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ab19bf1d59307133",
+        "id": "f6d4cecd9f75029d",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Probabilistic Context-Free Grammar.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Probabilistic Context-Free Grammar.md"
-              }
+              "state": {}
             }
           },
           {
@@ -83,15 +78,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "High Output Management - chapter 1.md",
-    "edible forest gardens - chapter 1.md",
-    "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
-    "cryptography.md",
-    "Managing Money in a Zero Interest Rate Environment.md",
-    "Revisiting Do We Ever Really Get Out of Anarchy.md",
-    "Ray Dalio.md",
-    "media/Terry Jones portrait.png",
-    "media/Roderick T Long portrait.png"
+    "Molinari Institute.md",
+    "Roderick T. Long.md",
+    "Praxeology.md",
+    "obsidian notes.md",
+    "obsidian keyboard shortcuts.md",
+    "mandarin.md",
+    "intuition.md",
+    "Homebrewery.md",
+    "Hidden Markov Model.md",
+    "Probabilistic Context-Free Grammar.md"
   ]
 }

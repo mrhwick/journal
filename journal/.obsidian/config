@@ -35,5 +35,6 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "fileSortOrder": "alphabetical",
-  "attachmentFolderPath": "media"
+  "attachmentFolderPath": "media",
+  "enabledPlugins": []
 }

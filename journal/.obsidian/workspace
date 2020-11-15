@@ -37,11 +37,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#investing"
+                "query": "graft"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

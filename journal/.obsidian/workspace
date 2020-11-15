@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How to Have Impossible Conversations.md",
+            "file": "How to Have Impossible Conversations - Chapter 1.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Have Impossible Conversations.md"
+                "file": "How to Have Impossible Conversations - Chapter 1.md"
               }
             }
           },
@@ -83,15 +83,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "How to Have Impossible Conversations - Chapter 1.md",
+    "How to Have Impossible Conversations.md",
+    "When Conversations Seem Impossible.md",
     "Untitled.md",
     "Revisiting Do We Ever Really Get Out of Anarchy.md",
     "Molinari Institute.md",
     "Roderick T. Long.md",
     "Praxeology.md",
     "obsidian notes.md",
-    "obsidian keyboard shortcuts.md",
-    "mandarin.md",
-    "intuition.md",
-    "Homebrewery.md"
+    "obsidian keyboard shortcuts.md"
   ]
 }

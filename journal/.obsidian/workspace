@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Revisiting Do We Ever Really Get Out of Anarchy.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,11 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "graft"
+                "query": ""
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -60,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Revisiting Do We Ever Really Get Out of Anarchy.md"
+              }
             }
           },
           {
@@ -78,6 +84,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Revisiting Do We Ever Really Get Out of Anarchy.md",
     "Molinari Institute.md",
     "Roderick T. Long.md",
     "Praxeology.md",
@@ -86,7 +93,6 @@
     "mandarin.md",
     "intuition.md",
     "Homebrewery.md",
-    "Hidden Markov Model.md",
-    "Probabilistic Context-Free Grammar.md"
+    "Hidden Markov Model.md"
   ]
 }

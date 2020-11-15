@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Revisiting Do We Ever Really Get Out of Anarchy.md",
+            "file": "How to Have Impossible Conversations.md",
             "mode": "source"
           }
         }
@@ -44,8 +44,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -65,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revisiting Do We Ever Really Get Out of Anarchy.md"
+                "file": "How to Have Impossible Conversations.md"
               }
             }
           },
@@ -84,6 +83,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Revisiting Do We Ever Really Get Out of Anarchy.md",
     "Molinari Institute.md",
     "Roderick T. Long.md",
@@ -92,7 +92,6 @@
     "obsidian keyboard shortcuts.md",
     "mandarin.md",
     "intuition.md",
-    "Homebrewery.md",
-    "Hidden Markov Model.md"
+    "Homebrewery.md"
   ]
 }

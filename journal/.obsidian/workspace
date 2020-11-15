@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How to Have Impossible Conversations - Chapter 2.md",
+            "file": "parallel talk.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Have Impossible Conversations - Chapter 2.md"
+                "file": "parallel talk.md"
               }
             }
           },
@@ -83,6 +83,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "parallel talk.md",
     "How to Have Impossible Conversations - Chapter 2.md",
     "How to Have Impossible Conversations.md",
     "How to Have Impossible Conversations - Chapter 1.md",
@@ -91,7 +92,6 @@
     "Revisiting Do We Ever Really Get Out of Anarchy.md",
     "Molinari Institute.md",
     "Roderick T. Long.md",
-    "Praxeology.md",
-    "obsidian notes.md"
+    "Praxeology.md"
   ]
 }

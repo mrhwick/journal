@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f6d4cecd9f75029d",
+        "id": "a667f3d1faa05252",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "How to Have Impossible Conversations - Chapter 2.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "How to Have Impossible Conversations - Chapter 2.md"
-              }
+              "state": {}
             }
           },
           {

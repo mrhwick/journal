@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "How to Have Impossible Conversations - Chapter 2.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "tag:#investing"
               }
             }
           }
@@ -84,14 +84,14 @@
   },
   "lastOpenFiles": [
     "How to Have Impossible Conversations - Chapter 2.md",
-    "parallel talk.md",
-    "How to Have Impossible Conversations.md",
-    "How to Have Impossible Conversations - Chapter 1.md",
-    "When Conversations Seem Impossible.md",
-    "Untitled.md",
-    "Revisiting Do We Ever Really Get Out of Anarchy.md",
     "Molinari Institute.md",
     "Roderick T. Long.md",
-    "Praxeology.md"
+    "Praxeology.md",
+    "obsidian notes.md",
+    "obsidian keyboard shortcuts.md",
+    "mandarin.md",
+    "intuition.md",
+    "Homebrewery.md",
+    "Hidden Markov Model.md"
   ]
 }

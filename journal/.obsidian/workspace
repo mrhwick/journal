@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a667f3d1faa05252",
+        "id": "1b3e91af0efae655",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Turn the Senior Around.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Turn the Senior Around.md"
-              }
+              "state": {}
             }
           },
           {
@@ -83,6 +78,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Turn the Senior Around.md",
+    "Shai Mendel.md",
     "Untitled.md",
     "How to Have Impossible Conversations - Chapter 2.md",
     "Molinari Institute.md",
@@ -90,8 +87,6 @@
     "Praxeology.md",
     "obsidian notes.md",
     "obsidian keyboard shortcuts.md",
-    "mandarin.md",
-    "intuition.md",
-    "Homebrewery.md"
+    "mandarin.md"
   ]
 }

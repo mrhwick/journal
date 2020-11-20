@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Turn the Senior Around.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Turn the Senior Around.md"
+              }
             }
           },
           {
@@ -78,6 +83,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "How to Have Impossible Conversations - Chapter 2.md",
     "Molinari Institute.md",
     "Roderick T. Long.md",
@@ -86,7 +92,6 @@
     "obsidian keyboard shortcuts.md",
     "mandarin.md",
     "intuition.md",
-    "Homebrewery.md",
-    "Hidden Markov Model.md"
+    "Homebrewery.md"
   ]
 }

@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Human Capital.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Human Capital.md"
+              }
             }
           },
           {
@@ -78,9 +83,9 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Turn the Senior Around.md",
     "Shai Mendel.md",
-    "Untitled.md",
     "How to Have Impossible Conversations - Chapter 2.md",
     "Molinari Institute.md",
     "Roderick T. Long.md",

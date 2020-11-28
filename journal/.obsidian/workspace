@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1b3e91af0efae655",
+        "id": "f6d4cecd9f75029d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Human Capital.md",
+            "file": "Buying High, Selling Low.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#investing"
+                "query": ""
               }
             }
           }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Human Capital.md"
+                "file": "Buying High, Selling Low.md"
               }
             }
           },
@@ -83,15 +83,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Buying High, Selling Low.md",
+    "media/Pasted image 20201128174658.png",
     "Untitled.md",
-    "Turn the Senior Around.md",
-    "Shai Mendel.md",
     "How to Have Impossible Conversations - Chapter 2.md",
-    "Molinari Institute.md",
-    "Roderick T. Long.md",
-    "Praxeology.md",
-    "obsidian notes.md",
-    "obsidian keyboard shortcuts.md",
-    "mandarin.md"
+    "parallel talk.md",
+    "How to Have Impossible Conversations.md",
+    "How to Have Impossible Conversations - Chapter 1.md",
+    "When Conversations Seem Impossible.md",
+    "Revisiting Do We Ever Really Get Out of Anarchy.md",
+    "Molinari Institute.md"
   ]
 }

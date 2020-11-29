@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gaussian Processes.md",
+            "file": "Natural Language Processing (NLP).md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaussian Processes.md"
+                "file": "Natural Language Processing (NLP).md"
               }
             }
           },
@@ -83,6 +83,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Natural Language Processing (NLP).md",
     "Gaussian Processes.md",
     "distil.pub.md",
     "Bayesian Program Synthesis.md",
@@ -91,7 +92,6 @@
     "Modularity of Mental Functioning.md",
     "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
     "mental modules.md",
-    "forest succession.md",
-    "first note.md"
+    "forest succession.md"
   ]
 }

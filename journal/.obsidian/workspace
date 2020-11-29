@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4e26754838aec6fb",
+        "id": "fe41e4e50c273b37",
         "type": "leaf",
         "active": true,
         "state": {
@@ -78,6 +78,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "distil.pub.md",
     "Bayesian Program Synthesis.md",
     "Untitled.md",
     "Intuitive Ethics.md",
@@ -86,7 +87,6 @@
     "mental modules.md",
     "forest succession.md",
     "first note.md",
-    "Feynman technique.md",
-    "Molinari Institute.md"
+    "Feynman technique.md"
   ]
 }

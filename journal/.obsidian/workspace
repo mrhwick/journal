@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dual Process Theory of the Brain.md",
+            "file": "forest succession.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dual Process Theory of the Brain.md"
+                "file": "forest succession.md"
               }
             }
           },
@@ -83,15 +83,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "forest succession.md",
+    "first note.md",
+    "Feynman technique.md",
+    "Molinari Institute.md",
+    "obsidian keyboard shortcuts.md",
+    "obsidian notes.md",
+    "parallel talk.md",
     "Untitled.md",
     "Buying High, Selling Low.md",
-    "media/Pasted image 20201128174658.png",
-    "How to Have Impossible Conversations - Chapter 2.md",
-    "parallel talk.md",
-    "How to Have Impossible Conversations.md",
-    "How to Have Impossible Conversations - Chapter 1.md",
-    "When Conversations Seem Impossible.md",
-    "Revisiting Do We Ever Really Get Out of Anarchy.md",
-    "Molinari Institute.md"
+    "media/Pasted image 20201128174658.png"
   ]
 }

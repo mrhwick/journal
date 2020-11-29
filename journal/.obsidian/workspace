@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Gaussian Processes.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Gaussian Processes.md"
+              }
             }
           },
           {
@@ -78,6 +83,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Gaussian Processes.md",
     "distil.pub.md",
     "Bayesian Program Synthesis.md",
     "Untitled.md",
@@ -86,7 +92,6 @@
     "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
     "mental modules.md",
     "forest succession.md",
-    "first note.md",
-    "Feynman technique.md"
+    "first note.md"
   ]
 }

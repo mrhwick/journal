@@ -6,18 +6,18 @@
       {
         "id": "fe41e4e50c273b37",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Trigram Language Model.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
       {
         "id": "67feebf6dce79eb6",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markov Process.md"
+                "file": "Trigram Language Model.md"
               }
             }
           },
@@ -95,6 +95,7 @@
     "width": 245
   },
   "lastOpenFiles": [
+    "Trigram Language Model.md",
     "Markov Process.md",
     "Untitled 1.md",
     "Fourier Analysis.md",
@@ -103,7 +104,6 @@
     "distil.pub.md",
     "Bayesian Program Synthesis.md",
     "Untitled.md",
-    "Intuitive Ethics.md",
-    "Modularity of Mental Functioning.md"
+    "Intuitive Ethics.md"
   ]
 }

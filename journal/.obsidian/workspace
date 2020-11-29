@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f6d4cecd9f75029d",
+        "id": "2b920937b56dd7ee",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Modularity of Mental Functioning.md",
+            "file": "Intuitive Ethics.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modularity of Mental Functioning.md"
+                "file": "Intuitive Ethics.md"
               }
             }
           },
@@ -83,15 +83,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Intuitive Ethics.md",
+    "Modularity of Mental Functioning.md",
+    "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
+    "mental modules.md",
     "Untitled.md",
     "forest succession.md",
     "first note.md",
     "Feynman technique.md",
     "Molinari Institute.md",
-    "obsidian keyboard shortcuts.md",
-    "obsidian notes.md",
-    "parallel talk.md",
-    "Buying High, Selling Low.md",
-    "media/Pasted image 20201128174658.png"
+    "obsidian keyboard shortcuts.md"
   ]
 }

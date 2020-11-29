@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2b920937b56dd7ee",
+        "id": "4e26754838aec6fb",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bayesian Program Synthesis (BPS).md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Bayesian Program Synthesis (BPS).md"
-              }
+              "state": {}
             }
           },
           {

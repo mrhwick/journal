@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Natural Language Processing (NLP).md",
+            "file": "Fourier Analysis.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natural Language Processing (NLP).md"
+                "file": "Fourier Analysis.md"
               }
             }
           },
@@ -83,6 +83,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Fourier Analysis.md",
     "Natural Language Processing (NLP).md",
     "Gaussian Processes.md",
     "distil.pub.md",
@@ -91,7 +92,6 @@
     "Intuitive Ethics.md",
     "Modularity of Mental Functioning.md",
     "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
-    "mental modules.md",
-    "forest succession.md"
+    "mental modules.md"
   ]
 }

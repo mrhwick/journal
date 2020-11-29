@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intuitive Ethics.md",
+            "file": "Bayesian Program Synthesis (BPS).md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intuitive Ethics.md"
+                "file": "Bayesian Program Synthesis (BPS).md"
               }
             }
           },
@@ -83,15 +83,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Bayesian Program Synthesis.md",
+    "Untitled.md",
     "Intuitive Ethics.md",
     "Modularity of Mental Functioning.md",
     "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
     "mental modules.md",
-    "Untitled.md",
     "forest succession.md",
     "first note.md",
     "Feynman technique.md",
-    "Molinari Institute.md",
-    "obsidian keyboard shortcuts.md"
+    "Molinari Institute.md"
   ]
 }

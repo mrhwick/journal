@@ -6,11 +6,22 @@
       {
         "id": "fe41e4e50c273b37",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Trigram Language Model.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "67feebf6dce79eb6",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fourier Analysis.md",
+            "file": "Markov Process.md",
             "mode": "source"
           }
         }
@@ -48,7 +59,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2a14e92ad82be6ca",
@@ -64,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fourier Analysis.md"
+                "file": "Markov Process.md"
               }
             }
           },
@@ -80,9 +92,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 245
   },
   "lastOpenFiles": [
+    "Markov Process.md",
+    "Untitled 1.md",
     "Fourier Analysis.md",
     "Natural Language Processing (NLP).md",
     "Gaussian Processes.md",
@@ -90,8 +104,6 @@
     "Bayesian Program Synthesis.md",
     "Untitled.md",
     "Intuitive Ethics.md",
-    "Modularity of Mental Functioning.md",
-    "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
-    "mental modules.md"
+    "Modularity of Mental Functioning.md"
   ]
 }

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "forest succession.md",
+            "file": "Intuitive Ethics.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forest succession.md"
+                "file": "Intuitive Ethics.md"
               }
             }
           },
@@ -83,6 +83,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "forest succession.md",
     "first note.md",
     "Feynman technique.md",
@@ -90,7 +91,6 @@
     "obsidian keyboard shortcuts.md",
     "obsidian notes.md",
     "parallel talk.md",
-    "Untitled.md",
     "Buying High, Selling Low.md",
     "media/Pasted image 20201128174658.png"
   ]

@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fe41e4e50c273b37",
+        "id": "b28258979e633811",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Trigram Language Model.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "67feebf6dce79eb6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Markov Process.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -59,8 +45,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2a14e92ad82be6ca",
@@ -75,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Trigram Language Model.md"
-              }
+              "state": {}
             }
           },
           {

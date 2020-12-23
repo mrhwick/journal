@@ -37,7 +37,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -60,7 +65,13 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
@@ -68,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2020-09-26.md",
+            "file": "daily/2021-01-18.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2020-09-26.md"
+                "file": "daily/2021-01-18.md"
               }
             }
           },
@@ -83,6 +83,8 @@
     "width": 245
   },
   "lastOpenFiles": [
+    "daily/2021-01-18.md",
+    "templates/daily_note.md",
     "daily/2020-09-26.md",
     "Untitled 1.md",
     "Trigram Language Model.md",
@@ -90,8 +92,6 @@
     "Fourier Analysis.md",
     "Natural Language Processing (NLP).md",
     "Gaussian Processes.md",
-    "distil.pub.md",
-    "Bayesian Program Synthesis.md",
-    "Untitled.md"
+    "distil.pub.md"
   ]
 }

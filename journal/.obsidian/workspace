@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Immortality Key.md",
+            "file": "Psychedelics.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Immortality Key.md",
+                "file": "Psychedelics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
     "width": 245
   },
   "lastOpenFiles": [
+    "Psychedelics.md",
     "The Immortality Key.md",
     "Untitled 1.md",
     "zettelkasten feeding.md",
@@ -104,7 +105,6 @@
     "Shai Mendel.md",
     "soil biology.md",
     "Terry Jones.md",
-    "parallel talk.md",
-    "obsidian notes.md"
+    "parallel talk.md"
   ]
 }

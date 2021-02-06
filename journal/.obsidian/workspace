@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-01-18.md",
+            "file": "intuition.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-01-18.md",
+                "file": "intuition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,8 @@
     "width": 245
   },
   "lastOpenFiles": [
+    "intuition.md",
+    "Hierarchical Anarchy.md",
     "daily/2021-01-18.md",
     "templates/daily_note.md",
     "daily/2020-09-26.md",
@@ -103,8 +105,6 @@
     "Trigram Language Model.md",
     "Markov Process.md",
     "Fourier Analysis.md",
-    "Natural Language Processing (NLP).md",
-    "Gaussian Processes.md",
-    "distil.pub.md"
+    "Natural Language Processing (NLP).md"
   ]
 }

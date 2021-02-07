@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Psychedelics.md",
+            "file": "Plato.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychedelics.md",
+                "file": "Plato.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,9 +96,9 @@
     "width": 245
   },
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Psychedelics.md",
     "The Immortality Key.md",
-    "Untitled 1.md",
     "zettelkasten feeding.md",
     "Turn the Senior Around.md",
     "The presidential puzzle.md",

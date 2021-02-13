@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "edible forest gardens - chapter 2.md",
+            "file": "edible forest gardens - chapter 3.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "edible forest gardens - chapter 2.md",
+                "file": "edible forest gardens - chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,8 @@
     "width": 245
   },
   "lastOpenFiles": [
+    "edible forest gardens - chapter 3.md",
+    "Edible Forest Gardens.md",
     "edible forest gardens - chapter 2.md",
     "Untitled 1.md",
     "Psychedelics.md",
@@ -103,8 +105,6 @@
     "zettelkasten feeding.md",
     "Turn the Senior Around.md",
     "The presidential puzzle.md",
-    "Shai Mendel.md",
-    "soil biology.md",
-    "Terry Jones.md"
+    "Shai Mendel.md"
   ]
 }

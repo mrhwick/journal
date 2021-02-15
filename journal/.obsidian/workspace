@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b28258979e633811",
+        "id": "0f85d7ef8e1fddf8",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How to Direct Market Your Beef.md",
+            "file": "restoration agriculture.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Direct Market Your Beef.md",
+                "file": "restoration agriculture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
     "width": 245
   },
   "lastOpenFiles": [
+    "restoration agriculture.md",
+    "silvopasture.md",
     "Untitled 1.md",
+    "How to Direct Market Your Beef.md",
+    "Alabama Direct Farm Business Guide.md",
     "edible forest gardens - chapter 3.md",
     "orchard.md",
     "media/Pasted image 20210215003140.png",
     "woodlands we call orchards.md",
-    "media/Pasted image 20210215001221.png",
-    "media/Pasted image 20210213124712.png",
-    "edible forest gardens - chapter 1.md",
-    "edible forest gardens - chapter 2.md",
-    "Edible Forest Gardens.md"
+    "media/Pasted image 20210215001221.png"
   ]
 }

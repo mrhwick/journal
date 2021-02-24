@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The History of Japanese Economic Development.md",
+            "file": "The History of Japanese Economic Development - Ch. 1.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The History of Japanese Economic Development.md",
+                "file": "The History of Japanese Economic Development - Ch. 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
     "width": 245
   },
   "lastOpenFiles": [
+    "The History of Japanese Economic Development - Ch. 1.md",
     "The History of Japanese Economic Development.md",
     "Edible Forest Gardens.md",
     "High Output Management (book).md",
@@ -105,7 +106,6 @@
     "soil biology.md",
     "Reading List.md",
     "Japanese Economic Development.md",
-    "Untitled 1.md",
-    "edible forest gardens - chapter 3.md"
+    "Untitled 1.md"
   ]
 }

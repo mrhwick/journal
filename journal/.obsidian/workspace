@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Reading List.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,10 +96,10 @@
     "width": 245
   },
   "lastOpenFiles": [
+    "Untitled 1.md",
     "edible forest gardens - chapter 3.md",
     "restoration agriculture.md",
     "silvopasture.md",
-    "Untitled 1.md",
     "How to Direct Market Your Beef.md",
     "Alabama Direct Farm Business Guide.md",
     "orchard.md",

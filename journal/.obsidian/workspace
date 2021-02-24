@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The History of Japanese Economic Development - Ch. 1.md",
+            "file": "The History of Japanese Economic Development.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The History of Japanese Economic Development - Ch. 1.md",
+                "file": "The History of Japanese Economic Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,8 @@
     "width": 245
   },
   "lastOpenFiles": [
-    "The History of Japanese Economic Development - Ch. 1.md",
     "The History of Japanese Economic Development.md",
+    "The History of Japanese Economic Development - Ch. 1.md",
     "Edible Forest Gardens.md",
     "High Output Management (book).md",
     "How to Have Impossible Conversations.md",

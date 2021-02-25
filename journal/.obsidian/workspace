@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "haskell.md",
+            "file": "recursive internetwork architecture.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "haskell.md",
+                "file": "recursive internetwork architecture.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
     "width": 245
   },
   "lastOpenFiles": [
+    "recursive internet architecture.md",
     "haskell.md",
     "lambda calculus.md",
     "Haskell Book.md",
@@ -104,7 +105,6 @@
     "The History of Japanese Economic Development - Ch. 2.md",
     "The History of Japanese Economic Development - Ch. 1.md",
     "Edible Forest Gardens.md",
-    "High Output Management (book).md",
-    "How to Have Impossible Conversations.md"
+    "High Output Management (book).md"
   ]
 }

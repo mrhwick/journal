@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "recursion.md",
+            "file": "haskell.md",
             "mode": "source"
           }
         }
@@ -69,12 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recursion.md",
+                "file": "haskell.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -96,15 +96,15 @@
     "width": 245
   },
   "lastOpenFiles": [
+    "haskell.md",
+    "lambda calculus.md",
+    "Haskell Book.md",
     "recursion.md",
     "The History of Japanese Economic Development.md",
     "The History of Japanese Economic Development - Ch. 2.md",
     "The History of Japanese Economic Development - Ch. 1.md",
-    "Haskell Book.md",
     "Edible Forest Gardens.md",
     "High Output Management (book).md",
-    "How to Have Impossible Conversations.md",
-    "The Immortality Key.md",
-    "soil biology.md"
+    "How to Have Impossible Conversations.md"
   ]
 }

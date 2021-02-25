@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The History of Japanese Economic Development.md",
+            "file": "recursion.md",
             "mode": "source"
           }
         }
@@ -69,9 +69,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The History of Japanese Economic Development.md",
+                "file": "recursion.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -96,15 +96,15 @@
     "width": 245
   },
   "lastOpenFiles": [
+    "recursion.md",
     "The History of Japanese Economic Development.md",
+    "The History of Japanese Economic Development - Ch. 2.md",
     "The History of Japanese Economic Development - Ch. 1.md",
+    "Haskell Book.md",
     "Edible Forest Gardens.md",
     "High Output Management (book).md",
     "How to Have Impossible Conversations.md",
     "The Immortality Key.md",
-    "soil biology.md",
-    "Reading List.md",
-    "Japanese Economic Development.md",
-    "Untitled 1.md"
+    "soil biology.md"
   ]
 }

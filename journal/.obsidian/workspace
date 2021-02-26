@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c2d0fbc9e826480e",
+        "id": "5c5f33ea5c57ad78",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "recursive internetwork architecture.md",
+            "file": "cantillon effect.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#books",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,12 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recursive internetwork architecture.md",
+                "file": "cantillon effect.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -96,15 +96,15 @@
     "width": 245
   },
   "lastOpenFiles": [
-    "recursive internet architecture.md",
-    "haskell.md",
-    "lambda calculus.md",
-    "Haskell Book.md",
-    "recursion.md",
-    "The History of Japanese Economic Development.md",
-    "The History of Japanese Economic Development - Ch. 2.md",
-    "The History of Japanese Economic Development - Ch. 1.md",
-    "Edible Forest Gardens.md",
-    "High Output Management (book).md"
+    "cantillon effect.md",
+    "edible forest gardens - chapter 3.md",
+    "restoration agriculture.md",
+    "silvopasture.md",
+    "Untitled 1.md",
+    "How to Direct Market Your Beef.md",
+    "Alabama Direct Farm Business Guide.md",
+    "orchard.md",
+    "media/Pasted image 20210215003140.png",
+    "woodlands we call orchards.md"
   ]
 }

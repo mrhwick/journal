@@ -6,13 +6,9 @@
       {
         "id": "5c5f33ea5c57ad78",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled 2.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,10 +65,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,6 +92,7 @@
     "direction": "horizontal",
     "width": 245
   },
+  "active": "5c5f33ea5c57ad78",
   "lastOpenFiles": [
     "Untitled 2.md",
     "Untitled 1.md",

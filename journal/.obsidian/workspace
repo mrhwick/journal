@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "functional core.md",
+            "file": "functional programming.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functional core.md",
+                "file": "functional programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "5c5f33ea5c57ad78",
   "lastOpenFiles": [
+    "functional programming.md",
     "functional core.md",
     "Shai Mendel.md",
     "Turn the Senior Around.md",
@@ -106,7 +107,6 @@
     "The Immortality Key.md",
     "The Mysteries.md",
     "haskell.md",
-    "Haskell Book.md",
-    "Untitled 2.md"
+    "Haskell Book.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Event Streaming.md",
+            "file": "functional core.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Event Streaming.md",
+                "file": "functional core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "5c5f33ea5c57ad78",
   "lastOpenFiles": [
-    "Event Streaming.md",
-    "Untitled.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "cardano.md",
-    "The Mysteries.md",
+    "functional core.md",
+    "Shai Mendel.md",
+    "Turn the Senior Around.md",
+    "zettelkasten feeding.md",
+    "Trigram Language Model.md",
     "The Immortality Key.md",
-    "eleusis.md",
-    "the History of Japanese Economic Development - Ch. 3.md",
-    "The History of Japanese Economic Development - Ch. 2.md"
+    "The Mysteries.md",
+    "haskell.md",
+    "Haskell Book.md",
+    "Untitled 2.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bruce Tuckman.md",
+            "file": "Normalization of Deviance.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bruce Tuckman.md",
+                "file": "Normalization of Deviance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,10 +98,10 @@
   },
   "active": "5c5f33ea5c57ad78",
   "lastOpenFiles": [
+    "Untitled.md",
     "Bruce Tuckman.md",
     "Tuckerman's stages of group development.md",
     "Bruce Tuckerman.md",
-    "Untitled.md",
     "Event Streaming.md",
     "Untitled 2.md",
     "Untitled 1.md",

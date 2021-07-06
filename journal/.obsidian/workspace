@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tuckerman's stages of group development.md",
+            "file": "Bruce Tuckman.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tuckerman's stages of group development.md",
+                "file": "Bruce Tuckman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -98,15 +98,15 @@
   },
   "active": "5c5f33ea5c57ad78",
   "lastOpenFiles": [
+    "Bruce Tuckman.md",
+    "Tuckerman's stages of group development.md",
+    "Bruce Tuckerman.md",
     "Untitled.md",
     "Event Streaming.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "cardano.md",
     "The Mysteries.md",
-    "The Immortality Key.md",
-    "eleusis.md",
-    "the History of Japanese Economic Development - Ch. 3.md",
-    "The History of Japanese Economic Development - Ch. 2.md"
+    "The Immortality Key.md"
   ]
 }

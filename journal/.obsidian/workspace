@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7eaecc45a702bcbe",
+        "id": "5c5f33ea5c57ad78",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Tuckerman's stages of group development.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tuckerman's stages of group development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,17 +96,17 @@
     "direction": "horizontal",
     "width": 245
   },
-  "active": "7eaecc45a702bcbe",
+  "active": "5c5f33ea5c57ad78",
   "lastOpenFiles": [
-    "declarative shell.md",
-    "functional core.md",
-    "functional programming.md",
-    "Shai Mendel.md",
-    "Turn the Senior Around.md",
-    "zettelkasten feeding.md",
-    "Trigram Language Model.md",
-    "The Immortality Key.md",
+    "Untitled.md",
+    "Event Streaming.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "cardano.md",
     "The Mysteries.md",
-    "haskell.md"
+    "The Immortality Key.md",
+    "eleusis.md",
+    "the History of Japanese Economic Development - Ch. 3.md",
+    "The History of Japanese Economic Development - Ch. 2.md"
   ]
 }

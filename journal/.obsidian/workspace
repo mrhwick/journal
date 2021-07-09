@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "incident management.md",
+            "file": "daily/2021-01-18.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "incident management.md",
+                "file": "daily/2021-01-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -98,15 +98,15 @@
   },
   "active": "a8a4109b693bcd9e",
   "lastOpenFiles": [
-    "incident management.md",
-    "Untitled.md",
+    "daily/2021-01-18.md",
+    "daily/2020-09-26.md",
+    "daily/2020-07-05.md",
+    "daily/2020-07-02.md",
+    "daily/2020-07-01.md",
+    "daily/2020-06-30.md",
+    "Junfeng.md",
     "2021.md",
-    "Tennessee.md",
-    "Datadog.md",
-    "cryptocurrency.md",
-    "cardano.md",
-    "Bretton Woods.md",
-    "Buying High, Selling Low.md",
-    "cantillon effect.md"
+    "Untitled.md",
+    "俊凤-Junfeng.md"
   ]
 }

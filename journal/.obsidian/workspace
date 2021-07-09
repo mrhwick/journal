@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e26794a1eda198d",
+        "id": "060d58b7fbe673ed",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "monty python.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "monty python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +92,17 @@
     "direction": "horizontal",
     "width": 245
   },
-  "active": "1e26794a1eda198d",
+  "active": "060d58b7fbe673ed",
   "lastOpenFiles": [
-    "monty python.md",
     "Terry Jones.md",
+    "surrealism.md",
+    "monty python.md",
     "Leviathan Awakes.md",
     "third-person limited.md",
     "third-person omnicient.md",
     "Untitled.md",
     "daily/2021-07-09.md",
     "daily/2021-01-18.md",
-    "daily/2020-09-26.md",
-    "daily/2020-07-05.md"
+    "daily/2020-09-26.md"
   ]
 }

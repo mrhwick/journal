@@ -7,11 +7,8 @@
         "id": "060d58b7fbe673ed",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "permaculture.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "permaculture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +95,15 @@
   },
   "active": "060d58b7fbe673ed",
   "lastOpenFiles": [
+    "2020.md",
+    "Reading List.md",
     "permaculture.md",
+    "Permaculture A Designers Manual.md",
     "Turn the Senior Around.md",
     "engineering management.md",
     "engineering managers.md",
     "woodlands we call orchards.md",
     "Terry Jones.md",
-    "surrealism.md",
-    "monty python.md",
-    "Leviathan Awakes.md",
-    "third-person limited.md"
+    "surrealism.md"
   ]
 }

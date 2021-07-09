@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Terry Jones.md",
+            "file": "monty python.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terry Jones.md",
+                "file": "monty python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "1e26794a1eda198d",
   "lastOpenFiles": [
+    "monty python.md",
     "Terry Jones.md",
     "Leviathan Awakes.md",
     "third-person limited.md",
@@ -106,7 +107,6 @@
     "daily/2021-07-09.md",
     "daily/2021-01-18.md",
     "daily/2020-09-26.md",
-    "daily/2020-07-05.md",
-    "daily/2020-07-02.md"
+    "daily/2020-07-05.md"
   ]
 }

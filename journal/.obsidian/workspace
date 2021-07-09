@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "My Career Path.md",
+            "file": "Tennessee.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Career Path.md",
+                "file": "Tennessee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "5cb4919291a05719",
   "lastOpenFiles": [
+    "Tennessee.md",
     "Untitled.md",
+    "Datadog.md",
     "cryptocurrency.md",
     "cardano.md",
     "Bretton Woods.md",
     "Buying High, Selling Low.md",
     "cantillon effect.md",
     "Classical Antiquity.md",
-    "Cole Wehrle.md",
-    "Context-Free Grammar.md",
-    "declarative shell.md"
+    "Cole Wehrle.md"
   ]
 }

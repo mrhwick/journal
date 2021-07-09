@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a8a4109b693bcd9e",
+        "id": "1e26794a1eda198d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "third-person omnicient.md",
+            "file": "Terry Jones.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "third-person omnicient.md",
+                "file": "Terry Jones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +96,17 @@
     "direction": "horizontal",
     "width": 245
   },
-  "active": "a8a4109b693bcd9e",
+  "active": "1e26794a1eda198d",
   "lastOpenFiles": [
-    "third-person omnicient.md",
+    "Terry Jones.md",
     "Leviathan Awakes.md",
+    "third-person limited.md",
+    "third-person omnicient.md",
     "Untitled.md",
     "daily/2021-07-09.md",
     "daily/2021-01-18.md",
     "daily/2020-09-26.md",
     "daily/2020-07-05.md",
-    "daily/2020-07-02.md",
-    "daily/2020-07-01.md",
-    "daily/2020-06-30.md"
+    "daily/2020-07-02.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-01-18.md",
+            "file": "daily/2021-07-09.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-01-18.md",
+                "file": "daily/2021-07-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "a8a4109b693bcd9e",
   "lastOpenFiles": [
+    "daily/2021-07-09.md",
     "daily/2021-01-18.md",
     "daily/2020-09-26.md",
     "daily/2020-07-05.md",
@@ -106,7 +107,6 @@
     "daily/2020-06-30.md",
     "Junfeng.md",
     "2021.md",
-    "Untitled.md",
-    "俊凤-Junfeng.md"
+    "Untitled.md"
   ]
 }

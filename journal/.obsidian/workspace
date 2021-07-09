@@ -7,8 +7,11 @@
         "id": "060d58b7fbe673ed",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "permaculture.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -45,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "permaculture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,15 +99,15 @@
   },
   "active": "060d58b7fbe673ed",
   "lastOpenFiles": [
+    "permaculture.md",
+    "Turn the Senior Around.md",
+    "engineering management.md",
+    "engineering managers.md",
+    "woodlands we call orchards.md",
     "Terry Jones.md",
     "surrealism.md",
     "monty python.md",
     "Leviathan Awakes.md",
-    "third-person limited.md",
-    "third-person omnicient.md",
-    "Untitled.md",
-    "daily/2021-07-09.md",
-    "daily/2021-01-18.md",
-    "daily/2020-09-26.md"
+    "third-person limited.md"
   ]
 }

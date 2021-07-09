@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cole Wehrle.md",
+            "file": "Oath.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cole Wehrle.md",
+                "file": "Oath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "5cb4919291a05719",
   "lastOpenFiles": [
+    "Oath.md",
     "Untitled.md",
     "Bruce Tuckman.md",
     "declarative shell.md",
@@ -106,7 +107,6 @@
     "Shai Mendel.md",
     "Turn the Senior Around.md",
     "zettelkasten feeding.md",
-    "Trigram Language Model.md",
-    "The Immortality Key.md"
+    "Trigram Language Model.md"
   ]
 }

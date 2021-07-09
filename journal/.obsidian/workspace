@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021.md",
+            "file": "incident management.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021.md",
+                "file": "incident management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "a8a4109b693bcd9e",
   "lastOpenFiles": [
-    "2021.md",
+    "incident management.md",
     "Untitled.md",
+    "2021.md",
     "Tennessee.md",
     "Datadog.md",
     "cryptocurrency.md",
     "cardano.md",
     "Bretton Woods.md",
     "Buying High, Selling Low.md",
-    "cantillon effect.md",
-    "Classical Antiquity.md"
+    "cantillon effect.md"
   ]
 }

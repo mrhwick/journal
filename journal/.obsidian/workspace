@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Expanse.md",
+            "file": "third-person omnicient.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Expanse.md",
+                "file": "third-person omnicient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,8 @@
   },
   "active": "a8a4109b693bcd9e",
   "lastOpenFiles": [
+    "third-person omnicient.md",
+    "Leviathan Awakes.md",
     "Untitled.md",
     "daily/2021-07-09.md",
     "daily/2021-01-18.md",
@@ -105,8 +107,6 @@
     "daily/2020-07-05.md",
     "daily/2020-07-02.md",
     "daily/2020-07-01.md",
-    "daily/2020-06-30.md",
-    "Junfeng.md",
-    "2021.md"
+    "daily/2020-06-30.md"
   ]
 }

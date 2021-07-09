@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5cb4919291a05719",
+        "id": "a8a4109b693bcd9e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tennessee.md",
+            "file": "2021.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tennessee.md",
+                "file": "2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +96,17 @@
     "direction": "horizontal",
     "width": 245
   },
-  "active": "5cb4919291a05719",
+  "active": "a8a4109b693bcd9e",
   "lastOpenFiles": [
-    "Tennessee.md",
+    "2021.md",
     "Untitled.md",
+    "Tennessee.md",
     "Datadog.md",
     "cryptocurrency.md",
     "cardano.md",
     "Bretton Woods.md",
     "Buying High, Selling Low.md",
     "cantillon effect.md",
-    "Classical Antiquity.md",
-    "Cole Wehrle.md"
+    "Classical Antiquity.md"
   ]
 }

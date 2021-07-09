@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "060d58b7fbe673ed",
+        "id": "310e7ba3022d28e8",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -93,17 +93,17 @@
     "direction": "horizontal",
     "width": 245
   },
-  "active": "060d58b7fbe673ed",
+  "active": "310e7ba3022d28e8",
   "lastOpenFiles": [
-    "2020.md",
+    "ouroboros.md",
+    "Untitled.md",
     "Reading List.md",
+    "2020.md",
     "permaculture.md",
     "Permaculture A Designers Manual.md",
     "Turn the Senior Around.md",
     "engineering management.md",
     "engineering managers.md",
-    "woodlands we call orchards.md",
-    "Terry Jones.md",
-    "surrealism.md"
+    "woodlands we call orchards.md"
   ]
 }

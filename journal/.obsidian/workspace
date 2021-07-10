@@ -4,12 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "310e7ba3022d28e8",
+        "id": "5c5f33ea5c57ad78",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "zettelkasten feeding.md",
+=======
+            "file": "2021.md",
+>>>>>>> 492df4225782d9f8d22581b6f57f86e1d02dfe93
             "mode": "source"
           }
         }
@@ -48,8 +52,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +72,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "zettelkasten feeding.md",
+=======
+                "file": "2021.md",
+>>>>>>> 492df4225782d9f8d22581b6f57f86e1d02dfe93
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +104,9 @@
     "direction": "horizontal",
     "width": 245
   },
-  "active": "310e7ba3022d28e8",
+  "active": "5c5f33ea5c57ad78",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "zettelkasten feeding.md",
     "The Rational Reminder.md",
     "Cameron Passmore.md",
@@ -109,5 +117,17 @@
     "2020.md",
     "permaculture.md",
     "Permaculture A Designers Manual.md"
+=======
+    "2021.md",
+    "2020.md",
+    "Astoria.md",
+    "Untitled.md",
+    "Bruce Tuckman.md",
+    "Tuckerman's stages of group development.md",
+    "Bruce Tuckerman.md",
+    "Event Streaming.md",
+    "Untitled 2.md",
+    "Untitled 1.md"
+>>>>>>> 492df4225782d9f8d22581b6f57f86e1d02dfe93
   ]
 }

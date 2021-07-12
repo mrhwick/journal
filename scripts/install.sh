@@ -9,6 +9,12 @@ else
 fi
 
 git-crypt unlock keyfile
+
+sed -i.bu '[lfs "extension.git-crypt"]' .git/config
+sed -i.bu '	clean = git-crypt clean' .git/config
+sed -i.bu '	smudge = git-crypt smudge' .git/config
+sed -i.bu '	priority = 0' .git/config
+
 git switch journal
 
 # substitue the syncer repo with this repo

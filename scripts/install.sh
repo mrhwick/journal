@@ -15,8 +15,6 @@ echo "	clean = git-crypt clean" >> .git/config
 echo "	smudge = git-crypt smudge" >> .git/config
 echo "	priority = 0" >> .git/config
 
-git switch journal
-
 # substitue the syncer repo with this repo
 repo=$(pwd)
 cp scripts/synccrontemplate scripts/cron

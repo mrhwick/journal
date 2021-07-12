@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0d56f9f8bf825b8a",
+        "id": "9bab48c37dc5464b",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "0d56f9f8bf825b8a",
+  "active": "9bab48c37dc5464b",
   "lastOpenFiles": [
     "daily/2021-07-12.md",
+    "daily/2021-07-09.md",
+    "obsidian saved search notes.md",
+    "obsidian notes.md",
+    "obsidian.md",
+    "git-lfs.md",
+    "SOPS.md",
     "git LFS.md",
     "Guillaume Brizolier.md",
-    "git-crypt.md",
-    "Andy Matuschak.md",
-    "journal repo.md",
-    "media/cidr07p15.pdf",
-    "Life Beyond Distributed Transactions.md",
-    "Bretton Woods.md",
-    "Andy's Notes.md"
+    "git-crypt.md"
   ]
 }

@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "040b46cc6ae0d39c",
+        "id": "84f708152afb23d3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "templates/daily_note.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/daily_note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/daily_note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,17 +112,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "040b46cc6ae0d39c",
+  "active": "84f708152afb23d3",
   "lastOpenFiles": [
+    "2020.md",
+    "Native Americans.md",
+    "edible forest gardens - chapter 1.md",
+    "mycorrhiza.md",
+    "Edible Forest Gardens.md",
     "templates/daily_note.md",
     "templates/standard.md",
     "Oath.md",
     "History.md",
-    "Backus-Naur Form.md",
-    "Untitled.md",
-    "Cole Wehrle.md",
-    "zettelkasten feeding.md",
-    "The Rational Reminder.md",
-    "Cameron Passmore.md"
+    "Backus-Naur Form.md"
   ]
 }

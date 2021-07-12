@@ -7,10 +7,9 @@
         "id": "9bab48c37dc5464b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "projected isomorphic javascript.md",
-            "mode": "source"
+            "file": "media/Obsidian Homepage Screenshot.png"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projected isomorphic javascript.md",
+                "file": "media/Obsidian Homepage Screenshot.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projected isomorphic javascript.md",
+                "file": "media/Obsidian Homepage Screenshot.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projected isomorphic javascript.md"
+                "file": "media/Obsidian Homepage Screenshot.png"
               }
             }
           }
@@ -121,6 +120,8 @@
   },
   "active": "9bab48c37dc5464b",
   "lastOpenFiles": [
+    "media/Obsidian Homepage Screenshot.png",
+    "media/net primary production of ecosystems.png",
     "projected isomorphic javascript.md",
     "daily/2021-07-12.md",
     "isomorphic javascript.md",
@@ -128,8 +129,6 @@
     "obsidian saved search notes.md",
     "obsidian notes.md",
     "obsidian.md",
-    "git-lfs.md",
-    "SOPS.md",
-    "git LFS.md"
+    "git-lfs.md"
   ]
 }

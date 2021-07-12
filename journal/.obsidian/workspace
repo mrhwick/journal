@@ -7,9 +7,9 @@
         "id": "9bab48c37dc5464b",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "pdf",
           "state": {
-            "file": "media/Obsidian Homepage Screenshot.png"
+            "file": "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/Obsidian Homepage Screenshot.png",
+                "file": "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/Obsidian Homepage Screenshot.png",
+                "file": "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "media/Obsidian Homepage Screenshot.png"
+                "file": "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf"
               }
             }
           }
@@ -120,6 +120,8 @@
   },
   "active": "9bab48c37dc5464b",
   "lastOpenFiles": [
+    "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf",
+    "media/Ray Dalio portrait.png",
     "media/Obsidian Homepage Screenshot.png",
     "media/net primary production of ecosystems.png",
     "projected isomorphic javascript.md",
@@ -127,8 +129,6 @@
     "isomorphic javascript.md",
     "daily/2021-07-09.md",
     "obsidian saved search notes.md",
-    "obsidian notes.md",
-    "obsidian.md",
-    "git-lfs.md"
+    "obsidian notes.md"
   ]
 }

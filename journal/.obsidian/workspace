@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-12.md",
+            "file": "isomorphic javascript.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-12.md",
+                "file": "isomorphic javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-12.md",
+                "file": "isomorphic javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-12.md"
+                "file": "isomorphic javascript.md"
               }
             }
           }
@@ -121,6 +121,7 @@
   },
   "active": "9bab48c37dc5464b",
   "lastOpenFiles": [
+    "isomorphic javascript.md",
     "daily/2021-07-12.md",
     "daily/2021-07-09.md",
     "obsidian saved search notes.md",
@@ -129,7 +130,6 @@
     "git-lfs.md",
     "SOPS.md",
     "git LFS.md",
-    "Guillaume Brizolier.md",
-    "git-crypt.md"
+    "Guillaume Brizolier.md"
   ]
 }

@@ -7,9 +7,10 @@
         "id": "9bab48c37dc5464b",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf"
+            "file": "test.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf"
+                "file": "test.md"
               }
             }
           }
@@ -120,6 +121,7 @@
   },
   "active": "9bab48c37dc5464b",
   "lastOpenFiles": [
+    "test.md",
     "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf",
     "media/Ray Dalio portrait.png",
     "media/Obsidian Homepage Screenshot.png",
@@ -128,7 +130,6 @@
     "daily/2021-07-12.md",
     "isomorphic javascript.md",
     "daily/2021-07-09.md",
-    "obsidian saved search notes.md",
-    "obsidian notes.md"
+    "obsidian saved search notes.md"
   ]
 }

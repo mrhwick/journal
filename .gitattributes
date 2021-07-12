@@ -3,3 +3,4 @@ journal/** filter=git-crypt diff=git-crypt
 journal/.obsidian/config !filter !diff
 journal/.obsidian/workspace !filter !diff
 journal/.obsidian/workspaces.json !filter !diff
+journal/media/** filter=lfs diff=lfs merge=lfs -text

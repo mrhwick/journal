@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "84f708152afb23d3",
+        "id": "447b37086f009b32",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -112,17 +112,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "84f708152afb23d3",
+  "active": "447b37086f009b32",
   "lastOpenFiles": [
+    "Bretton Woods.md",
+    "Andy Matuschak.md",
+    "Andy's Notes.md",
     "2020.md",
     "Native Americans.md",
     "edible forest gardens - chapter 1.md",
     "mycorrhiza.md",
     "Edible Forest Gardens.md",
     "templates/daily_note.md",
-    "templates/standard.md",
-    "Oath.md",
-    "History.md",
-    "Backus-Naur Form.md"
+    "templates/standard.md"
   ]
 }

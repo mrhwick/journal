@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "240abcd6b5e6280b",
+        "id": "0d56f9f8bf825b8a",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -112,8 +112,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "240abcd6b5e6280b",
+  "active": "0d56f9f8bf825b8a",
   "lastOpenFiles": [
+    "journal repo.md",
     "media/cidr07p15.pdf",
     "Life Beyond Distributed Transactions.md",
     "git LFS.md",
@@ -122,7 +123,6 @@
     "Andy's Notes.md",
     "2020.md",
     "Native Americans.md",
-    "edible forest gardens - chapter 1.md",
-    "mycorrhiza.md"
+    "edible forest gardens - chapter 1.md"
   ]
 }

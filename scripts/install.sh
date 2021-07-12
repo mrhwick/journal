@@ -24,4 +24,4 @@ sed -i.bu "s|PLACEHOLDER|${repo}|g" scripts/gitsyncer.sh
 crontab scripts/cron
 
 git fetch origin
-git switch -c journal
+# git switch -c journal

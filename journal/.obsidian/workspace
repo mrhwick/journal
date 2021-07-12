@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7a61530f7309657",
+        "id": "240abcd6b5e6280b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "git LFS.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git LFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git LFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "git LFS.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -119,8 +112,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "f7a61530f7309657",
+  "active": "240abcd6b5e6280b",
   "lastOpenFiles": [
+    "media/cidr07p15.pdf",
+    "Life Beyond Distributed Transactions.md",
     "git LFS.md",
     "Bretton Woods.md",
     "Andy Matuschak.md",
@@ -128,8 +123,6 @@
     "2020.md",
     "Native Americans.md",
     "edible forest gardens - chapter 1.md",
-    "mycorrhiza.md",
-    "Edible Forest Gardens.md",
-    "templates/daily_note.md"
+    "mycorrhiza.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Andy Matuschak.md",
+            "file": "daily/2021-07-12.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak.md",
+                "file": "daily/2021-07-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andy Matuschak.md",
+                "file": "daily/2021-07-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andy Matuschak.md"
+                "file": "daily/2021-07-12.md"
               }
             }
           }
@@ -121,15 +121,15 @@
   },
   "active": "0d56f9f8bf825b8a",
   "lastOpenFiles": [
+    "daily/2021-07-12.md",
+    "git LFS.md",
+    "Guillaume Brizolier.md",
+    "git-crypt.md",
     "Andy Matuschak.md",
     "journal repo.md",
     "media/cidr07p15.pdf",
     "Life Beyond Distributed Transactions.md",
-    "git LFS.md",
     "Bretton Woods.md",
-    "Andy's Notes.md",
-    "2020.md",
-    "Native Americans.md",
-    "edible forest gardens - chapter 1.md"
+    "Andy's Notes.md"
   ]
 }

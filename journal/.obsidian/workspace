@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1ee9efd42f267ec4",
+        "id": "040b46cc6ae0d39c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Oath.md",
+            "file": "templates/daily_note.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oath.md",
+                "file": "templates/daily_note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,24 +89,45 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "47bd83804bc0b054",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/daily_note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3be7c2ea12de8505",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 245
+    "width": 313
   },
-  "active": "1ee9efd42f267ec4",
+  "active": "040b46cc6ae0d39c",
   "lastOpenFiles": [
+    "templates/daily_note.md",
+    "templates/standard.md",
     "Oath.md",
+    "History.md",
+    "Backus-Naur Form.md",
     "Untitled.md",
     "Cole Wehrle.md",
     "zettelkasten feeding.md",
     "The Rational Reminder.md",
-    "Cameron Passmore.md",
-    "The presidential puzzle.md",
-    "ouroboros.md",
-    "Reading List.md",
-    "2020.md"
+    "Cameron Passmore.md"
   ]
 }

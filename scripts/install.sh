@@ -9,6 +9,7 @@ else
 fi
 
 git-crypt unlock keyfile
+git switch journal
 
 # substitue the syncer repo with this repo
 repo=$(pwd)

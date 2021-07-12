@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "447b37086f009b32",
+        "id": "f7a61530f7309657",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "git LFS.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "git LFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "git LFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "git LFS.md"
+              }
             }
           }
         ],
@@ -112,8 +119,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "447b37086f009b32",
+  "active": "f7a61530f7309657",
   "lastOpenFiles": [
+    "git LFS.md",
     "Bretton Woods.md",
     "Andy Matuschak.md",
     "Andy's Notes.md",
@@ -122,7 +130,6 @@
     "edible forest gardens - chapter 1.md",
     "mycorrhiza.md",
     "Edible Forest Gardens.md",
-    "templates/daily_note.md",
-    "templates/standard.md"
+    "templates/daily_note.md"
   ]
 }

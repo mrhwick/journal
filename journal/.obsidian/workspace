@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "386060328ca03974",
+        "id": "56bcd1153e24f740",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Power of the Powerless.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,13 +65,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Power of the Powerless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Power of the Powerless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Power of the Powerless.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "386060328ca03974",
+  "active": "56bcd1153e24f740",
   "lastOpenFiles": [
-    "The Power of the Powerless.md",
+    "standford encyclopedia of philosophy.md",
     "Reading List.md",
+    "Software Lead Weekly.md",
+    "Putting Apache Kafka To Use. A Practical Guide to Building an Event Streaming Platform (Part 2).md",
+    "Putting Apache Kafka To Use A Practical Guide to Building an Event Streaming Platform (Part 1).md",
+    "I Heart Logs.md",
+    "The Log, What every software engineer should know about real-time data's unifying abstraction.md",
+    "The Power of the Powerless.md",
     "daily/2021-07-13.md",
-    "Designing Event-Driven Systems.md",
-    "Recipes.md",
-    "How to Have Impossible Conversations.md",
-    "The Art of Not Being Governed.md",
-    "A Thousand Plateaus, Capitalism and Schiizophrenia.md",
-    "Gilles Deleuze.md",
-    "Augmentation Means.md"
+    "Designing Event-Driven Systems.md"
   ]
 }

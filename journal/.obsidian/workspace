@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8671bf3070d6aa1d",
+        "id": "d124fcfd08414032",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -120,8 +120,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "8671bf3070d6aa1d",
+  "active": "d124fcfd08414032",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2021.md",
     "Memory System.md",
     "Feynman on Feynman Technique.md",
     "Feynman technique.md",
@@ -129,8 +131,6 @@
     "daily/2021-07-13.md",
     "The Immortality Key.md",
     "SOPS.md",
-    "sönke ahrens.md",
-    "silvopasture.md",
-    "soil biology.md"
+    "sönke ahrens.md"
   ]
 }

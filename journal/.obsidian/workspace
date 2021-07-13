@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-12.md",
+            "file": "daily/2021-07-13.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-12.md",
+                "file": "daily/2021-07-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-12.md",
+                "file": "daily/2021-07-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-12.md"
+                "file": "daily/2021-07-13.md"
               }
             }
           },
@@ -129,8 +129,8 @@
   },
   "active": "9fc328f2a5835cf1",
   "lastOpenFiles": [
-    "daily/2021-07-12.md",
     "daily/2021-07-13.md",
+    "daily/2021-07-12.md",
     "Untitled.md",
     "transmissionism.md",
     "media/Engelbart1962.pdf",

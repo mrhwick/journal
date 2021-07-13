@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf6fe0814c734bab",
+        "id": "f042f5b13623087d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Augmentation Means.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Augmentation Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Augmentation Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Augmentation Means.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,7 +120,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "bf6fe0814c734bab",
+  "active": "f042f5b13623087d",
   "lastOpenFiles": [
     "Augmentation Means.md",
     "Augmenting Human Intellect, A Conceptual Framework.md",

@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d124fcfd08414032",
+        "id": "70525076d9a2cab7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "templates/make reviewable template.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/make reviewable template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/make reviewable template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/make reviewable template.md"
+              }
             }
           },
           {
@@ -120,17 +127,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "d124fcfd08414032",
+  "active": "70525076d9a2cab7",
   "lastOpenFiles": [
+    "templates/make reviewable template.md",
+    "Memory System.md",
+    "Afforestation.md",
+    "recursion.md",
+    "templates/standard.md",
     "Untitled.md",
     "2021.md",
-    "Memory System.md",
     "Feynman on Feynman Technique.md",
     "Feynman technique.md",
-    "recursion.md",
-    "daily/2021-07-13.md",
-    "The Immortality Key.md",
-    "SOPS.md",
-    "sönke ahrens.md"
+    "daily/2021-07-13.md"
   ]
 }

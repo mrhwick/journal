@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d42a20cc6414f713",
+        "id": "9fc328f2a5835cf1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "daily/2021-07-12.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2021-07-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2021-07-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,27 +107,37 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "daily/2021-07-12.md"
+              }
+            }
+          },
+          {
+            "id": "8c9df9d9f06e8369",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 313
   },
-  "active": "d42a20cc6414f713",
+  "active": "9fc328f2a5835cf1",
   "lastOpenFiles": [
+    "daily/2021-07-12.md",
+    "daily/2021-07-13.md",
+    "Untitled.md",
+    "transmissionism.md",
     "media/Engelbart1962.pdf",
     "mycorrhiza.md",
-    "daily/2021-07-12.md",
     "test.md",
     "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf",
     "media/Ray Dalio portrait.png",
-    "media/Obsidian Homepage Screenshot.png",
-    "media/net primary production of ecosystems.png",
-    "projected isomorphic javascript.md",
-    "isomorphic javascript.md"
+    "media/Obsidian Homepage Screenshot.png"
   ]
 }

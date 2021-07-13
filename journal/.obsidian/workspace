@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9bab48c37dc5464b",
+        "id": "a4e26342cbd347c9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-12.md",
+            "file": "Andy Matuschak.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-12.md",
+                "file": "Andy Matuschak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-12.md",
+                "file": "Andy Matuschak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-12.md"
+                "file": "Andy Matuschak.md"
               }
             }
           }
@@ -119,8 +119,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "9bab48c37dc5464b",
+  "active": "a4e26342cbd347c9",
   "lastOpenFiles": [
+    "Andy Matuschak.md",
+    "mycorrhiza.md",
     "daily/2021-07-12.md",
     "media/Obsidian Homepage Screenshot.png",
     "media/do_we_ever_really_get_out_of_anarchy.pdf",
@@ -128,8 +130,6 @@
     "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf",
     "media/Ray Dalio portrait.png",
     "media/net primary production of ecosystems.png",
-    "projected isomorphic javascript.md",
-    "isomorphic javascript.md",
-    "daily/2021-07-09.md"
+    "projected isomorphic javascript.md"
   ]
 }

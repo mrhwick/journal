@@ -6,10 +6,20 @@
       {
         "id": "14d82a06d9bc3bd5",
         "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "empty",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "6a7499100dc283dd",
+        "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading List.md",
+            "file": "recursion.md",
             "mode": "source"
           }
         }
@@ -68,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading List.md",
+                "file": "recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading List.md",
+                "file": "recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,28 +118,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading List.md"
+                "file": "recursion.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 313
   },
-  "active": "14d82a06d9bc3bd5",
+  "active": "6a7499100dc283dd",
   "lastOpenFiles": [
+    "recursion.md",
+    "recursive internetwork architecture.md",
+    "restoration agriculture.md",
+    "mandarin.md",
+    "Markov Process.md",
+    "How to Direct Market Your Beef.md",
     "Reading List.md",
     "media/Engelbart1962.pdf",
     "media/Kay1989.pdf",
-    "Andy Matuschak.md",
-    "mycorrhiza.md",
-    "daily/2021-07-12.md",
-    "media/Obsidian Homepage Screenshot.png",
-    "media/do_we_ever_really_get_out_of_anarchy.pdf",
-    "test.md",
-    "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf"
+    "Andy Matuschak.md"
   ]
 }

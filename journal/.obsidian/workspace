@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8cfd4ee3607c7aa4",
+        "id": "bf6fe0814c734bab",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "daily/2021-07-13.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/2021-07-13.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,17 +120,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "8cfd4ee3607c7aa4",
+  "active": "bf6fe0814c734bab",
   "lastOpenFiles": [
+    "media/Engelbart1962.pdf",
+    "Reading List.md",
+    "continuous integration.md",
     "daily/2021-07-13.md",
     "metacognition.md",
     "daily/2021-07-12.md",
     "Untitled.md",
     "transmissionism.md",
-    "media/Engelbart1962.pdf",
     "mycorrhiza.md",
-    "test.md",
-    "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf",
-    "media/Ray Dalio portrait.png"
+    "test.md"
   ]
 }

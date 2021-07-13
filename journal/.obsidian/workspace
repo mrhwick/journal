@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3df22769e03064b9",
+        "id": "d19c72081cef0bda",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "recursion.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "recursion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,8 +120,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "3df22769e03064b9",
+  "active": "d19c72081cef0bda",
   "lastOpenFiles": [
+    "Feynman on Feynman Technique.md",
+    "Feynman technique.md",
     "recursion.md",
     "daily/2021-07-13.md",
     "The Immortality Key.md",
@@ -136,8 +131,6 @@
     "sönke ahrens.md",
     "silvopasture.md",
     "soil biology.md",
-    "recursive internetwork architecture.md",
-    "Recipes.md",
-    "restoration agriculture.md"
+    "recursive internetwork architecture.md"
   ]
 }

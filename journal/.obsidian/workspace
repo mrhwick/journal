@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Augmenting Human Intellect, A Conceptual Framework.md",
+            "file": "Augmentation Means.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Augmenting Human Intellect, A Conceptual Framework.md",
+                "file": "Augmentation Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Augmenting Human Intellect, A Conceptual Framework.md",
+                "file": "Augmentation Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Augmenting Human Intellect, A Conceptual Framework.md"
+                "file": "Augmentation Means.md"
               }
             }
           },
@@ -129,6 +129,7 @@
   },
   "active": "bf6fe0814c734bab",
   "lastOpenFiles": [
+    "Augmentation Means.md",
     "Augmenting Human Intellect, A Conceptual Framework.md",
     "media/Engelbart1962.pdf",
     "Reading List.md",
@@ -137,7 +138,6 @@
     "metacognition.md",
     "daily/2021-07-12.md",
     "Untitled.md",
-    "transmissionism.md",
-    "mycorrhiza.md"
+    "transmissionism.md"
   ]
 }

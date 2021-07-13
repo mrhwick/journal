@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a4e26342cbd347c9",
+        "id": "14d82a06d9bc3bd5",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "media/Engelbart1962.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/Engelbart1962.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/Engelbart1962.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "media/Engelbart1962.pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -118,9 +112,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "a4e26342cbd347c9",
+  "active": "14d82a06d9bc3bd5",
   "lastOpenFiles": [
     "media/Engelbart1962.pdf",
+    "media/Kay1989.pdf",
     "Reading List.md",
     "Andy Matuschak.md",
     "mycorrhiza.md",
@@ -128,7 +123,6 @@
     "media/Obsidian Homepage Screenshot.png",
     "media/do_we_ever_really_get_out_of_anarchy.pdf",
     "test.md",
-    "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf",
-    "media/Ray Dalio portrait.png"
+    "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf"
   ]
 }

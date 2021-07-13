@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-13.md",
+            "file": "recursion.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-13.md",
+                "file": "recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-13.md",
+                "file": "recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-13.md"
+                "file": "recursion.md"
               }
             }
           },
@@ -129,8 +129,8 @@
   },
   "active": "3df22769e03064b9",
   "lastOpenFiles": [
-    "daily/2021-07-13.md",
     "recursion.md",
+    "daily/2021-07-13.md",
     "The Immortality Key.md",
     "SOPS.md",
     "sönke ahrens.md",

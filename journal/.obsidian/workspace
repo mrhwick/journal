@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Designing Event-Driven Systems.md",
+            "file": "daily/2021-07-13.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Designing Event-Driven Systems.md",
+                "file": "daily/2021-07-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Designing Event-Driven Systems.md",
+                "file": "daily/2021-07-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Designing Event-Driven Systems.md"
+                "file": "daily/2021-07-13.md"
               }
             }
           },
@@ -128,6 +128,7 @@
   },
   "active": "56bcd1153e24f740",
   "lastOpenFiles": [
+    "daily/2021-07-13.md",
     "Designing Event-Driven Systems.md",
     "standford encyclopedia of philosophy.md",
     "Reading List.md",
@@ -136,7 +137,6 @@
     "Putting Apache Kafka To Use A Practical Guide to Building an Event Streaming Platform (Part 1).md",
     "I Heart Logs.md",
     "The Log, What every software engineer should know about real-time data's unifying abstraction.md",
-    "The Power of the Powerless.md",
-    "daily/2021-07-13.md"
+    "The Power of the Powerless.md"
   ]
 }

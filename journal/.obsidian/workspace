@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9bab48c37dc5464b",
+        "id": "d42a20cc6414f713",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "media/Engelbart1962.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/Engelbart1962.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/Engelbart1962.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "media/Engelbart1962.pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -118,7 +112,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "9bab48c37dc5464b",
+  "active": "d42a20cc6414f713",
   "lastOpenFiles": [
     "media/Engelbart1962.pdf",
     "mycorrhiza.md",

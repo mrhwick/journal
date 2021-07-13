@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-13.md",
+            "file": "metacognition.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-13.md",
+                "file": "metacognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-13.md",
+                "file": "metacognition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-13.md"
+                "file": "metacognition.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -129,6 +129,7 @@
   },
   "active": "9fc328f2a5835cf1",
   "lastOpenFiles": [
+    "metacognition.md",
     "daily/2021-07-13.md",
     "daily/2021-07-12.md",
     "Untitled.md",
@@ -137,7 +138,6 @@
     "mycorrhiza.md",
     "test.md",
     "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf",
-    "media/Ray Dalio portrait.png",
-    "media/Obsidian Homepage Screenshot.png"
+    "media/Ray Dalio portrait.png"
   ]
 }

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d19c72081cef0bda",
+        "id": "8671bf3070d6aa1d",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -120,8 +120,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "d19c72081cef0bda",
+  "active": "8671bf3070d6aa1d",
   "lastOpenFiles": [
+    "Memory System.md",
     "Feynman on Feynman Technique.md",
     "Feynman technique.md",
     "recursion.md",
@@ -130,7 +131,6 @@
     "SOPS.md",
     "sönke ahrens.md",
     "silvopasture.md",
-    "soil biology.md",
-    "recursive internetwork architecture.md"
+    "soil biology.md"
   ]
 }

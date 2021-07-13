@@ -7,10 +7,9 @@
         "id": "a4e26342cbd347c9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Andy Matuschak.md",
-            "mode": "source"
+            "file": "media/Engelbart1962.pdf"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak.md",
+                "file": "media/Engelbart1962.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andy Matuschak.md",
+                "file": "media/Engelbart1962.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Andy Matuschak.md"
+                "file": "media/Engelbart1962.pdf"
               }
             }
           }
@@ -121,6 +120,8 @@
   },
   "active": "a4e26342cbd347c9",
   "lastOpenFiles": [
+    "media/Engelbart1962.pdf",
+    "Reading List.md",
     "Andy Matuschak.md",
     "mycorrhiza.md",
     "daily/2021-07-12.md",
@@ -128,8 +129,6 @@
     "media/do_we_ever_really_get_out_of_anarchy.pdf",
     "test.md",
     "media/Revisiting Do We Ever Really Get Out of Anarchy.pdf",
-    "media/Ray Dalio portrait.png",
-    "media/net primary production of ecosystems.png",
-    "projected isomorphic javascript.md"
+    "media/Ray Dalio portrait.png"
   ]
 }

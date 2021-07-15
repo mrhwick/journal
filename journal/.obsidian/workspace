@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ff1020f83126fa8d",
+        "id": "bd8b8462aea9a6d4",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "giftless",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "8c9df9d9f06e8369",
+            "id": "5e890321048f22e4",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -120,17 +120,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "ff1020f83126fa8d",
+  "active": "bd8b8462aea9a6d4",
   "lastOpenFiles": [
     "Augmentation Means (for human functioning).md",
+    "spaced repetition.md",
+    "Mnemonic Essay.md",
+    "templates/make reviewable template.md",
     "Memory System.md",
-    "daily/2021-07-14.md",
-    "daily/2021-07-13.md",
-    "media/nihms157603.pdf",
-    "Normalization of Deviance.md",
-    "Designing Event-Driven Systems.md",
-    "standford encyclopedia of philosophy.md",
-    "Reading List.md",
-    "Software Lead Weekly.md"
+    "Afforestation.md",
+    "recursion.md",
+    "templates/standard.md",
+    "Untitled.md",
+    "2021.md"
   ]
 }

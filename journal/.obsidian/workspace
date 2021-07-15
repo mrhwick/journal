@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading List.md",
+            "file": "Oath.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading List.md",
+                "file": "Oath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading List.md",
+                "file": "Oath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading List.md"
+                "file": "Oath.md"
               }
             }
           },
@@ -129,6 +129,7 @@
   },
   "active": "5084430f4310db9e",
   "lastOpenFiles": [
+    "Oath.md",
     "Reading List.md",
     "partial function application.md",
     "daily/2021-07-14.md",
@@ -137,7 +138,6 @@
     "spaced repetition.md",
     "Mnemonic Essay.md",
     "templates/make reviewable template.md",
-    "Memory System.md",
-    "Afforestation.md"
+    "Memory System.md"
   ]
 }

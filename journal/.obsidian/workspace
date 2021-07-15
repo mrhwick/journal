@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9df6764bb60369a6",
+        "id": "ff1020f83126fa8d",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -113,14 +113,17 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 313
   },
-  "active": "9df6764bb60369a6",
+  "active": "ff1020f83126fa8d",
   "lastOpenFiles": [
+    "Augmentation Means (for human functioning).md",
+    "Memory System.md",
     "daily/2021-07-14.md",
     "daily/2021-07-13.md",
     "media/nihms157603.pdf",
@@ -128,8 +131,6 @@
     "Designing Event-Driven Systems.md",
     "standford encyclopedia of philosophy.md",
     "Reading List.md",
-    "Software Lead Weekly.md",
-    "Putting Apache Kafka To Use. A Practical Guide to Building an Event Streaming Platform (Part 2).md",
-    "Putting Apache Kafka To Use A Practical Guide to Building an Event Streaming Platform (Part 1).md"
+    "Software Lead Weekly.md"
   ]
 }

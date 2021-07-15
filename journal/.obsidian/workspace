@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Oath.md",
+            "file": "daily/2021-07-14.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oath.md",
+                "file": "daily/2021-07-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oath.md",
+                "file": "daily/2021-07-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oath.md"
+                "file": "daily/2021-07-14.md"
               }
             }
           },
@@ -129,10 +129,10 @@
   },
   "active": "5084430f4310db9e",
   "lastOpenFiles": [
+    "daily/2021-07-14.md",
     "Oath.md",
     "Reading List.md",
     "partial function application.md",
-    "daily/2021-07-14.md",
     "currying.md",
     "Augmentation Means (for human functioning).md",
     "spaced repetition.md",

@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd8b8462aea9a6d4",
+        "id": "5084430f4310db9e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "currying.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "currying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "currying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "currying.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,8 +120,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "bd8b8462aea9a6d4",
+  "active": "5084430f4310db9e",
   "lastOpenFiles": [
+    "partial function application.md",
+    "daily/2021-07-14.md",
     "currying.md",
     "Augmentation Means (for human functioning).md",
     "spaced repetition.md",
@@ -136,8 +131,6 @@
     "templates/make reviewable template.md",
     "Memory System.md",
     "Afforestation.md",
-    "recursion.md",
-    "templates/standard.md",
-    "Untitled.md"
+    "recursion.md"
   ]
 }

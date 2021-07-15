@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ae40f81762cea8f2",
+        "id": "878bf58cb77129df",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "daily/2021-07-15.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "giftless",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2021-07-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2021-07-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,11 +107,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2021-07-15.md"
+              }
             }
           },
           {
-            "id": "5e890321048f22e4",
+            "id": "8c9df9d9f06e8369",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -120,17 +127,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "ae40f81762cea8f2",
+  "active": "878bf58cb77129df",
   "lastOpenFiles": [
-    "daily/2021-07-14.md",
-    "Oath.md",
-    "Reading List.md",
+    "daily/2021-07-15.md",
     "partial function application.md",
-    "currying.md",
+    "transmissionism.md",
     "Augmentation Means (for human functioning).md",
-    "spaced repetition.md",
-    "Mnemonic Essay.md",
-    "templates/make reviewable template.md",
-    "Memory System.md"
+    "Memory System.md",
+    "daily/2021-07-14.md",
+    "daily/2021-07-13.md",
+    "media/nihms157603.pdf",
+    "Normalization of Deviance.md",
+    "Designing Event-Driven Systems.md"
   ]
 }

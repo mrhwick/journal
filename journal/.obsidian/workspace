@@ -7,8 +7,11 @@
         "id": "1191e560e54b40a6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "daily/2021-07-16.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2021-07-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2021-07-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -103,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2021-07-16.md"
+              }
             }
           },
           {
@@ -122,9 +129,9 @@
   },
   "active": "1191e560e54b40a6",
   "lastOpenFiles": [
+    "daily/2021-07-16.md",
     "stoicism.md",
     "Molinari Institute.md",
-    "daily/2021-07-16.md",
     "partial function application.md",
     "Muhan Guclu.md",
     "daily/2021-07-14.md",

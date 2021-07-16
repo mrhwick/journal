@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "878bf58cb77129df",
+        "id": "efe5f7111a977ac5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "the flip side newsletter.md",
+            "file": "daily/2021-07-16.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the flip side newsletter.md",
+                "file": "daily/2021-07-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the flip side newsletter.md",
+                "file": "daily/2021-07-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the flip side newsletter.md"
+                "file": "daily/2021-07-16.md"
               }
             }
           },
@@ -127,17 +127,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "878bf58cb77129df",
+  "active": "efe5f7111a977ac5",
   "lastOpenFiles": [
-    "the flip side newsletter.md",
     "daily/2021-07-16.md",
+    "metacognition.md",
+    "Afforestation.md",
+    "the flip side newsletter.md",
     "daily/2021-07-15.md",
     "templates/daily_note.md",
     "daily/2021-07-14.md",
     "partial function application.md",
     "transmissionism.md",
-    "Augmentation Means (for human functioning).md",
-    "Memory System.md",
-    "daily/2021-07-13.md"
+    "Augmentation Means (for human functioning).md"
   ]
 }

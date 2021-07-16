@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-16.md",
+            "file": "stoicism.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-16.md",
+                "file": "stoicism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-16.md",
+                "file": "stoicism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-16.md"
+                "file": "stoicism.md"
               }
             }
           },
@@ -129,6 +129,7 @@
   },
   "active": "fce71bc2fa29ab21",
   "lastOpenFiles": [
+    "stoicism.md",
     "daily/2021-07-16.md",
     "partial function application.md",
     "Muhan Guclu.md",
@@ -137,7 +138,6 @@
     "Reading List.md",
     "currying.md",
     "Augmentation Means (for human functioning).md",
-    "spaced repetition.md",
-    "Mnemonic Essay.md"
+    "spaced repetition.md"
   ]
 }

@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fce71bc2fa29ab21",
+        "id": "1191e560e54b40a6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "stoicism.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#philosophy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stoicism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stoicism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "stoicism.md"
-              }
+              "state": {}
             }
           },
           {
@@ -120,16 +114,16 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 313
   },
-  "active": "fce71bc2fa29ab21",
+  "active": "1191e560e54b40a6",
   "lastOpenFiles": [
     "stoicism.md",
+    "Molinari Institute.md",
     "daily/2021-07-16.md",
     "partial function application.md",
     "Muhan Guclu.md",
@@ -137,7 +131,6 @@
     "Oath.md",
     "Reading List.md",
     "currying.md",
-    "Augmentation Means (for human functioning).md",
-    "spaced repetition.md"
+    "Augmentation Means (for human functioning).md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-15.md",
+            "file": "daily/2021-07-16.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-15.md",
+                "file": "daily/2021-07-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-15.md",
+                "file": "daily/2021-07-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-15.md"
+                "file": "daily/2021-07-16.md"
               }
             }
           },
@@ -129,6 +129,7 @@
   },
   "active": "878bf58cb77129df",
   "lastOpenFiles": [
+    "daily/2021-07-16.md",
     "daily/2021-07-15.md",
     "templates/daily_note.md",
     "daily/2021-07-14.md",
@@ -137,7 +138,6 @@
     "Augmentation Means (for human functioning).md",
     "Memory System.md",
     "daily/2021-07-13.md",
-    "media/nihms157603.pdf",
-    "Normalization of Deviance.md"
+    "media/nihms157603.pdf"
   ]
 }

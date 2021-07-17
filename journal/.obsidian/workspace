@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zeno of Citium.md",
+            "file": "History of Teleological Arguments.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeno of Citium.md",
+                "file": "History of Teleological Arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zeno of Citium.md",
+                "file": "History of Teleological Arguments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zeno of Citium.md"
+                "file": "History of Teleological Arguments.md"
               }
             }
           },
@@ -129,15 +129,15 @@
   },
   "active": "4baa301e13bf886f",
   "lastOpenFiles": [
+    "History of Teleological Arguments.md",
+    "History of Teleological Design.md",
+    "History of Teleological Argument.md",
+    "teleological argument.md",
     "Zeno of Citium.md",
     "stoicism.md",
     "recursion.md",
     "Memory System.md",
     "daily/2021-07-16.md",
-    "Molinari Institute.md",
-    "partial function application.md",
-    "Muhan Guclu.md",
-    "daily/2021-07-14.md",
-    "Oath.md"
+    "Molinari Institute.md"
   ]
 }

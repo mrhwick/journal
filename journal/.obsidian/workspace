@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophy of Cynics.md",
+            "file": "nomos.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy of Cynics.md",
+                "file": "nomos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy of Cynics.md",
+                "file": "nomos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy of Cynics.md"
+                "file": "nomos.md"
               }
             }
           },
@@ -129,15 +129,15 @@
   },
   "active": "df5dd6b1de9bc7c5",
   "lastOpenFiles": [
+    "nomos.md",
     "Philosophy of Cynics.md",
+    "ponos.md",
     "equanimity.md",
     "parrhesia.md",
     "arete.md",
     "Hellenistic Period.md",
     "cynicism.md",
     "Zeno of Citium.md",
-    "Crates of Thebes.md",
-    "Philosophy of Crates of Thebes.md",
-    "daily/2021-07-16.md"
+    "Crates of Thebes.md"
   ]
 }

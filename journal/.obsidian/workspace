@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1191e560e54b40a6",
+        "id": "4baa301e13bf886f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-16.md",
+            "file": "stoicism.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-16.md",
+                "file": "stoicism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-16.md",
+                "file": "stoicism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-16.md"
+                "file": "stoicism.md"
               }
             }
           },
@@ -127,17 +127,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "1191e560e54b40a6",
+  "active": "4baa301e13bf886f",
   "lastOpenFiles": [
-    "daily/2021-07-16.md",
     "stoicism.md",
+    "recursion.md",
+    "Memory System.md",
+    "daily/2021-07-16.md",
     "Molinari Institute.md",
     "partial function application.md",
     "Muhan Guclu.md",
     "daily/2021-07-14.md",
     "Oath.md",
-    "Reading List.md",
-    "currying.md",
-    "Augmentation Means (for human functioning).md"
+    "Reading List.md"
   ]
 }

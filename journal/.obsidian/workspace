@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ffe5326df88bea21",
+        "id": "7ca4a221c1b8ed33",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -127,9 +127,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "ffe5326df88bea21",
+  "active": "7ca4a221c1b8ed33",
   "lastOpenFiles": [
     "Philosophy of Crates of Thebes.md",
+    "spoudaiogeloion.md",
     "Crates of Thebes.md",
     "Zeno of Citium.md",
     "cynicism.md",
@@ -137,7 +138,6 @@
     "History of Teleological Arguments.md",
     "History of Teleological Design.md",
     "History of Teleological Argument.md",
-    "stoicism.md",
-    "recursion.md"
+    "stoicism.md"
   ]
 }

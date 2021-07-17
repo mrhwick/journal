@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7ca4a221c1b8ed33",
+        "id": "df5dd6b1de9bc7c5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophy of Crates of Thebes.md",
+            "file": "cynicism.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy of Crates of Thebes.md",
+                "file": "cynicism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy of Crates of Thebes.md",
+                "file": "cynicism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy of Crates of Thebes.md"
+                "file": "cynicism.md"
               }
             }
           },
@@ -127,15 +127,15 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "7ca4a221c1b8ed33",
+  "active": "df5dd6b1de9bc7c5",
   "lastOpenFiles": [
-    "Philosophy of Crates of Thebes.md",
-    "Crates of Thebes.md",
     "cynicism.md",
+    "Zeno of Citium.md",
+    "Crates of Thebes.md",
+    "Philosophy of Crates of Thebes.md",
     "daily/2021-07-16.md",
     "stoicism.md",
     "Hellenistic Period.md",
-    "Zeno of Citium.md",
     "spoudaiogeloion.md",
     "teleological argument.md",
     "History of Teleological Arguments.md"

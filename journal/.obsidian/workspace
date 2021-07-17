@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "stoicism.md",
+            "file": "Zeno of Citium.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stoicism.md",
+                "file": "Zeno of Citium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stoicism.md",
+                "file": "Zeno of Citium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stoicism.md"
+                "file": "Zeno of Citium.md"
               }
             }
           },
@@ -129,6 +129,7 @@
   },
   "active": "4baa301e13bf886f",
   "lastOpenFiles": [
+    "Zeno of Citium.md",
     "stoicism.md",
     "recursion.md",
     "Memory System.md",
@@ -137,7 +138,6 @@
     "partial function application.md",
     "Muhan Guclu.md",
     "daily/2021-07-14.md",
-    "Oath.md",
-    "Reading List.md"
+    "Oath.md"
   ]
 }

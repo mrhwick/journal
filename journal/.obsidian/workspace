@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "df5dd6b1de9bc7c5",
+        "id": "d721c7fa53d71600",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "stoicism.md",
+            "file": "Philosophy of Zeno of Citium.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stoicism.md",
+                "file": "Philosophy of Zeno of Citium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stoicism.md",
+                "file": "Philosophy of Zeno of Citium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stoicism.md"
+                "file": "Philosophy of Zeno of Citium.md"
               }
             }
           },
@@ -127,17 +127,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "df5dd6b1de9bc7c5",
+  "active": "d721c7fa53d71600",
   "lastOpenFiles": [
+    "Philosophy of Zeno of Citium.md",
+    "Zeno of Citium.md",
+    "nomos.md",
     "stoicism.md",
     "cynicism.md",
     "Philosophy of Cynics.md",
-    "nomos.md",
-    "Zeno of Citium.md",
     "daily/2021-07-16.md",
     "daily/2021-07-17.md",
     "ponos.md",
-    "equanimity.md",
-    "parrhesia.md"
+    "equanimity.md"
   ]
 }

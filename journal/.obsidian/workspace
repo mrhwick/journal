@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cynicism.md",
+            "file": "Philosophy of Cynics.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "526d8fe149078e79",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "arete.md",
             "mode": "source"
           }
         }
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cynicism.md",
+                "file": "arete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cynicism.md",
+                "file": "arete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cynicism.md"
+                "file": "arete.md"
               }
             }
           },
@@ -127,17 +138,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "df5dd6b1de9bc7c5",
+  "active": "526d8fe149078e79",
   "lastOpenFiles": [
+    "arete.md",
+    "Philosophy of Cynics.md",
+    "Hellenistic Period.md",
     "cynicism.md",
     "Zeno of Citium.md",
     "Crates of Thebes.md",
     "Philosophy of Crates of Thebes.md",
     "daily/2021-07-16.md",
     "stoicism.md",
-    "Hellenistic Period.md",
-    "spoudaiogeloion.md",
-    "teleological argument.md",
-    "History of Teleological Arguments.md"
+    "spoudaiogeloion.md"
   ]
 }

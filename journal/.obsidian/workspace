@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophy of Zeno of Citium.md",
+            "file": "stoicism.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy of Zeno of Citium.md",
+                "file": "stoicism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy of Zeno of Citium.md",
+                "file": "stoicism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy of Zeno of Citium.md"
+                "file": "stoicism.md"
               }
             }
           },
@@ -129,11 +129,11 @@
   },
   "active": "d721c7fa53d71600",
   "lastOpenFiles": [
+    "stoicism.md",
+    "Zeno of Citium.md",
     "Philosophy of Zeno of Citium.md",
     "cynicism.md",
-    "Zeno of Citium.md",
     "nomos.md",
-    "stoicism.md",
     "Philosophy of Cynics.md",
     "daily/2021-07-16.md",
     "daily/2021-07-17.md",

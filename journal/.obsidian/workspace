@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4baa301e13bf886f",
+        "id": "ffe5326df88bea21",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History of Teleological Arguments.md",
+            "file": "Crates of Thebes.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History of Teleological Arguments.md",
+                "file": "Crates of Thebes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History of Teleological Arguments.md",
+                "file": "Crates of Thebes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History of Teleological Arguments.md"
+                "file": "Crates of Thebes.md"
               }
             }
           },
@@ -127,17 +127,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "4baa301e13bf886f",
+  "active": "ffe5326df88bea21",
   "lastOpenFiles": [
+    "Crates of Thebes.md",
+    "Zeno of Citium.md",
+    "cynicism.md",
+    "teleological argument.md",
     "History of Teleological Arguments.md",
     "History of Teleological Design.md",
     "History of Teleological Argument.md",
-    "teleological argument.md",
-    "Zeno of Citium.md",
     "stoicism.md",
     "recursion.md",
-    "Memory System.md",
-    "daily/2021-07-16.md",
-    "Molinari Institute.md"
+    "Memory System.md"
   ]
 }

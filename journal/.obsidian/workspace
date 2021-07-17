@@ -7,8 +7,11 @@
         "id": "df5dd6b1de9bc7c5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "stoicism.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "stoicism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "stoicism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -103,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "stoicism.md"
+              }
             }
           },
           {
@@ -122,13 +129,13 @@
   },
   "active": "df5dd6b1de9bc7c5",
   "lastOpenFiles": [
+    "stoicism.md",
     "cynicism.md",
     "Philosophy of Cynics.md",
+    "nomos.md",
     "Zeno of Citium.md",
-    "stoicism.md",
     "daily/2021-07-16.md",
     "daily/2021-07-17.md",
-    "nomos.md",
     "ponos.md",
     "equanimity.md",
     "parrhesia.md"

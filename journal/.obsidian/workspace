@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-17.md",
+            "file": "evergreen notes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-17.md",
+                "file": "evergreen notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-17.md",
+                "file": "evergreen notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-17.md"
+                "file": "evergreen notes.md"
               }
             }
           },
@@ -128,6 +128,7 @@
   },
   "active": "67ff7939c03afc7a",
   "lastOpenFiles": [
+    "evergreen notes.md",
     "daily/2021-07-17.md",
     "daily/2021-07-13.md",
     "0000 Reading List.md",
@@ -136,7 +137,6 @@
     "Lessons in Stoicism Book Chapter 1.md",
     "Zeno of Citium.md",
     "parametric polymorphism.md",
-    "ad hoc polymorphism.md",
-    "journal repo.md"
+    "ad hoc polymorphism.md"
   ]
 }

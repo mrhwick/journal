@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten feeding as a form of gardening.md",
+            "file": "Feynman technique.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten feeding as a form of gardening.md",
+                "file": "Feynman technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten feeding as a form of gardening.md",
+                "file": "Feynman technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten feeding as a form of gardening.md"
+                "file": "Feynman technique.md"
               }
             }
           },
@@ -128,15 +128,15 @@
   },
   "active": "67ff7939c03afc7a",
   "lastOpenFiles": [
-    "zettelkasten feeding as a form of gardening.md",
+    "Feynman technique.md",
     "zettelkasten feeding.md",
+    "zettelkasten feeding as a form of gardening.md",
     "similarities and differences between evergreen notes and zettlekasten.md",
     "evergreen notes.md",
     "daily/2021-07-17.md",
     "daily/2021-07-13.md",
     "0000 Reading List.md",
     "Lessons in Stoicism Book Chapter 2.md",
-    "Lessons in Stoicism Book.md",
-    "Lessons in Stoicism Book Chapter 1.md"
+    "Lessons in Stoicism Book.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Feynman technique.md",
+            "file": "API.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feynman technique.md",
+                "file": "API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feynman technique.md",
+                "file": "API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feynman technique.md"
+                "file": "API.md"
               }
             }
           },
@@ -129,15 +129,15 @@
   },
   "active": "67ff7939c03afc7a",
   "lastOpenFiles": [
+    "api.md",
+    "Write notes in your own words instead of summarizing others.md",
+    "evergreen notes.md",
+    "similarities and differences between evergreen notes and zettlekasten.md",
     "Feynman technique.md",
+    "drilldown method.md",
     "intuition.md",
     "daily/2021-07-17.md",
-    "evergreen notes.md",
     "The Log, What every software engineer should know about real-time data's unifying abstraction.md",
-    "zettelkasten feeding as a form of gardening.md",
-    "zettelkasten feeding.md",
-    "similarities and differences between evergreen notes and zettlekasten.md",
-    "0000 Reading List.md",
-    "ESAI.md"
+    "zettelkasten feeding as a form of gardening.md"
   ]
 }

@@ -7,11 +7,8 @@
         "id": "d721c7fa53d71600",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "0000 Reading List.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0000 Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0000 Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0000 Reading List.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,6 +121,7 @@
   },
   "active": "d721c7fa53d71600",
   "lastOpenFiles": [
+    "L-value.md",
     "0000 Reading List.md",
     "2020.md",
     "2021.md",
@@ -136,7 +130,6 @@
     "P.A.R.A..md",
     "templates/daily_note.md",
     "Cole Wehrle.md",
-    "Philosophy of Stoicism.md",
-    "compatibilism.md"
+    "Philosophy of Stoicism.md"
   ]
 }

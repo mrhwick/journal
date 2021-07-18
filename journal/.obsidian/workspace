@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d721c7fa53d71600",
+        "id": "7dfa8f075fdbf805",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "parametric polymorphism.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#philosophy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "parametric polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "parametric polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "parametric polymorphism.md"
+              }
             }
           },
           {
@@ -119,17 +126,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "d721c7fa53d71600",
+  "active": "7dfa8f075fdbf805",
   "lastOpenFiles": [
+    "parametric polymorphism.md",
+    "ad hoc polymorphism.md",
+    "journal repo.md",
+    "git-lfs.md",
+    "git-crypt.md",
     "L-value.md",
     "0000 Reading List.md",
     "2020.md",
     "2021.md",
-    "Reading List.md",
-    "daily/2021-07-17.md",
-    "P.A.R.A..md",
-    "templates/daily_note.md",
-    "Cole Wehrle.md",
-    "Philosophy of Stoicism.md"
+    "Reading List.md"
   ]
 }

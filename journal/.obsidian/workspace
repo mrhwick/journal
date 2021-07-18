@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d087ac0af968f9ed",
+        "id": "05cabb038d4361dd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "daily/2021-07-17.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/2021-07-17.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,8 +119,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "d087ac0af968f9ed",
+  "active": "05cabb038d4361dd",
   "lastOpenFiles": [
+    "templates/daily_note.md",
     "daily/2021-07-17.md",
     "goals.md",
     "ESAI (Software Process Activities).md",
@@ -136,7 +130,6 @@
     "Write notes in your own words instead of summarizing others.md",
     "Feynman technique.md",
     "api.md",
-    "evergreen notes.md",
-    "similarities and differences between evergreen notes and zettlekasten.md"
+    "evergreen notes.md"
   ]
 }

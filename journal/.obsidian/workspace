@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "API.md",
+            "file": "Write notes in your own words instead of summarizing others.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API.md",
+                "file": "Write notes in your own words instead of summarizing others.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API.md",
+                "file": "Write notes in your own words instead of summarizing others.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API.md"
+                "file": "Write notes in your own words instead of summarizing others.md"
               }
             }
           },
@@ -120,8 +120,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,11 +128,11 @@
   },
   "active": "67ff7939c03afc7a",
   "lastOpenFiles": [
-    "api.md",
     "Write notes in your own words instead of summarizing others.md",
+    "Feynman technique.md",
+    "api.md",
     "evergreen notes.md",
     "similarities and differences between evergreen notes and zettlekasten.md",
-    "Feynman technique.md",
     "drilldown method.md",
     "intuition.md",
     "daily/2021-07-17.md",

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Feynman technique.md",
+            "file": "ad hoc polymorphism.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feynman technique.md",
+                "file": "ad hoc polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feynman technique.md",
+                "file": "ad hoc polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feynman technique.md"
+                "file": "ad hoc polymorphism.md"
               }
             }
           },
@@ -129,15 +129,15 @@
   },
   "active": "2fbd5f1a41954c82",
   "lastOpenFiles": [
-    "Feynman technique.md",
-    "Lessons in Stoicism Book Chapter 2.md",
-    "Lessons in Stoicism Book.md",
-    "0000 Reading List.md",
-    "no-knead bread.md",
-    "Recipes.md",
-    "twitter as a form of zettelkasten.md",
-    "evergreen notes.md",
-    "zettelkasten.md",
-    "Niklas Luhman.md"
+    "ad hoc polymorphism.md",
+    "parametric polymorphism.md",
+    "Augmentation Means (for human functioning).md",
+    "teleological argument.md",
+    "continuous integration.md",
+    "arete.md",
+    "parrhesia.md",
+    "equanimity.md",
+    "ponos.md",
+    "compatibilism.md"
   ]
 }

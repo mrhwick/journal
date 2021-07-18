@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05cabb038d4361dd",
+        "id": "74b9997212425bff",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "People who write extensively about advice rarely have a serious context of use for that advice.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People who write extensively about advice rarely have a serious context of use for that advice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People who write extensively about advice rarely have a serious context of use for that advice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "People who write extensively about advice rarely have a serious context of use for that advice.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,8 +119,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "05cabb038d4361dd",
+  "active": "74b9997212425bff",
   "lastOpenFiles": [
+    "zettelkasten.md",
+    "Niklas Luhman.md",
     "People who write extensively about advice rarely have a serious context of use for that advice.md",
     "templates/daily_note.md",
     "daily/2021-07-17.md",
@@ -135,8 +130,6 @@
     "ESAI (Software Process Activities).md",
     "software process.md",
     "collecting information is an incentive trap.md",
-    "Write notes in your own words instead of summarizing others.md",
-    "Feynman technique.md",
-    "api.md"
+    "Write notes in your own words instead of summarizing others.md"
   ]
 }

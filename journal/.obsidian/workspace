@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0000 Reading List.md",
+            "file": "Lessons in Stoicism Book Chapter 2.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0000 Reading List.md",
+                "file": "Lessons in Stoicism Book Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0000 Reading List.md",
+                "file": "Lessons in Stoicism Book Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0000 Reading List.md"
+                "file": "Lessons in Stoicism Book Chapter 2.md"
               }
             }
           },
@@ -120,8 +120,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,15 +128,15 @@
   },
   "active": "39a2666e58099869",
   "lastOpenFiles": [
+    "Lessons in Stoicism Book Chapter 2.md",
+    "Lessons in Stoicism Book.md",
+    "Lessons in Stoicism Book Chapter 1.md",
+    "High Output Management - chapter 1.md",
     "0000 Reading List.md",
     "haskell.md",
     "Haskell Book.md",
     "media/haskellbook_haskell-programming-1.0-screen.pdf",
-    "Lessons in Stoicism Book Chapter 1.md",
     "daily/2021-07-18.md",
-    "daily/2021-07-17.md",
-    "templates/daily_note.md",
-    "Lessons in Stoicism Book.md",
-    "ad hoc polymorphism.md"
+    "daily/2021-07-17.md"
   ]
 }

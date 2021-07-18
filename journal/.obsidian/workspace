@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "edit this daily templat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,14 +129,14 @@
   "active": "a75748db74ff8537",
   "lastOpenFiles": [
     "templates/daily_note.md",
+    "Kinds of inequality.md",
+    "daily/2021-07-18.md",
     "todo.md",
     "media/Planning projects in PARA.png",
     "0002 Projects.md",
     "0000 Reading List.md",
     "0001 my weekly review process.md",
     "P.A.R.A..md",
-    "media/Pasted image 20210718172714.png",
-    "0003 Areas.md",
-    "daily/2021-07-18.md"
+    "media/Pasted image 20210718172714.png"
   ]
 }

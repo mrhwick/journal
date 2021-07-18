@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Write notes in your own words instead of summarizing others.md",
+            "file": "collecting information is an incentive trap.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write notes in your own words instead of summarizing others.md",
+                "file": "collecting information is an incentive trap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write notes in your own words instead of summarizing others.md",
+                "file": "collecting information is an incentive trap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write notes in your own words instead of summarizing others.md"
+                "file": "collecting information is an incentive trap.md"
               }
             }
           },
@@ -128,6 +128,7 @@
   },
   "active": "67ff7939c03afc7a",
   "lastOpenFiles": [
+    "collecting information is an incentive trap.md",
     "Write notes in your own words instead of summarizing others.md",
     "Feynman technique.md",
     "api.md",
@@ -136,7 +137,6 @@
     "drilldown method.md",
     "intuition.md",
     "daily/2021-07-17.md",
-    "The Log, What every software engineer should know about real-time data's unifying abstraction.md",
-    "zettelkasten feeding as a form of gardening.md"
+    "The Log, What every software engineer should know about real-time data's unifying abstraction.md"
   ]
 }

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "152905d8abbd4787",
+        "id": "39a2666e58099869",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -127,17 +127,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "152905d8abbd4787",
+  "active": "39a2666e58099869",
   "lastOpenFiles": [
     "0000 Reading List.md",
+    "haskell.md",
+    "Haskell Book.md",
+    "media/haskellbook_haskell-programming-1.0-screen.pdf",
     "Lessons in Stoicism Book Chapter 1.md",
     "daily/2021-07-18.md",
     "daily/2021-07-17.md",
     "templates/daily_note.md",
     "Lessons in Stoicism Book.md",
-    "ad hoc polymorphism.md",
-    "parametric polymorphism.md",
-    "Augmentation Means (for human functioning).md",
-    "teleological argument.md"
+    "ad hoc polymorphism.md"
   ]
 }

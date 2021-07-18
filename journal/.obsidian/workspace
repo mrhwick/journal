@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lessons in Stoicism Book Chapter 1.md",
+            "file": "daily/2021-07-17.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons in Stoicism Book Chapter 1.md",
+                "file": "daily/2021-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons in Stoicism Book Chapter 1.md",
+                "file": "daily/2021-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons in Stoicism Book Chapter 1.md"
+                "file": "daily/2021-07-17.md"
               }
             }
           },
@@ -128,15 +128,15 @@
   },
   "active": "67ff7939c03afc7a",
   "lastOpenFiles": [
+    "daily/2021-07-17.md",
+    "daily/2021-07-13.md",
+    "0000 Reading List.md",
+    "Lessons in Stoicism Book Chapter 2.md",
+    "Lessons in Stoicism Book.md",
     "Lessons in Stoicism Book Chapter 1.md",
     "Zeno of Citium.md",
-    "Lessons in Stoicism Book.md",
     "parametric polymorphism.md",
     "ad hoc polymorphism.md",
-    "journal repo.md",
-    "git-lfs.md",
-    "git-crypt.md",
-    "L-value.md",
-    "0000 Reading List.md"
+    "journal repo.md"
   ]
 }

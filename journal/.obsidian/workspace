@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "similarities and differences between evergreen notes and zettlekasten.md",
+            "file": "daily/2021-07-17.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "similarities and differences between evergreen notes and zettlekasten.md",
+                "file": "daily/2021-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "similarities and differences between evergreen notes and zettlekasten.md",
+                "file": "daily/2021-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "similarities and differences between evergreen notes and zettlekasten.md"
+                "file": "daily/2021-07-17.md"
               }
             }
           },
@@ -128,9 +128,9 @@
   },
   "active": "67ff7939c03afc7a",
   "lastOpenFiles": [
+    "daily/2021-07-17.md",
     "similarities and differences between evergreen notes and zettlekasten.md",
     "evergreen notes.md",
-    "daily/2021-07-17.md",
     "daily/2021-07-13.md",
     "0000 Reading List.md",
     "Lessons in Stoicism Book Chapter 2.md",

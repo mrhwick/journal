@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lessons in Stoicism Book Chapter 1.md",
+            "file": "0000 Reading List.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons in Stoicism Book Chapter 1.md",
+                "file": "0000 Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons in Stoicism Book Chapter 1.md",
+                "file": "0000 Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons in Stoicism Book Chapter 1.md"
+                "file": "0000 Reading List.md"
               }
             }
           },
@@ -129,12 +129,12 @@
   },
   "active": "152905d8abbd4787",
   "lastOpenFiles": [
+    "0000 Reading List.md",
     "Lessons in Stoicism Book Chapter 1.md",
     "daily/2021-07-18.md",
     "daily/2021-07-17.md",
     "templates/daily_note.md",
     "Lessons in Stoicism Book.md",
-    "0000 Reading List.md",
     "ad hoc polymorphism.md",
     "parametric polymorphism.md",
     "Augmentation Means (for human functioning).md",

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/daily_note.md",
+            "file": "Lessons in Stoicism Book Chapter 1.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/daily_note.md",
+                "file": "Lessons in Stoicism Book Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/daily_note.md",
+                "file": "Lessons in Stoicism Book Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/daily_note.md"
+                "file": "Lessons in Stoicism Book Chapter 1.md"
               }
             }
           },
@@ -129,15 +129,15 @@
   },
   "active": "152905d8abbd4787",
   "lastOpenFiles": [
+    "Lessons in Stoicism Book Chapter 1.md",
+    "daily/2021-07-18.md",
+    "daily/2021-07-17.md",
     "templates/daily_note.md",
     "Lessons in Stoicism Book.md",
     "0000 Reading List.md",
     "ad hoc polymorphism.md",
     "parametric polymorphism.md",
     "Augmentation Means (for human functioning).md",
-    "teleological argument.md",
-    "continuous integration.md",
-    "arete.md",
-    "parrhesia.md"
+    "teleological argument.md"
   ]
 }

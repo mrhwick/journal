@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lessons in Stoicism Book Chapter 2.md",
+            "file": "Feynman technique.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons in Stoicism Book Chapter 2.md",
+                "file": "Feynman technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons in Stoicism Book Chapter 2.md",
+                "file": "Feynman technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons in Stoicism Book Chapter 2.md"
+                "file": "Feynman technique.md"
               }
             }
           },
@@ -129,6 +129,7 @@
   },
   "active": "2fbd5f1a41954c82",
   "lastOpenFiles": [
+    "Feynman technique.md",
     "Lessons in Stoicism Book Chapter 2.md",
     "Lessons in Stoicism Book.md",
     "0000 Reading List.md",
@@ -137,7 +138,6 @@
     "twitter as a form of zettelkasten.md",
     "evergreen notes.md",
     "zettelkasten.md",
-    "Niklas Luhman.md",
-    "People who write extensively about advice rarely have a serious context of use for that advice.md"
+    "Niklas Luhman.md"
   ]
 }

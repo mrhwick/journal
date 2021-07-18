@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-18.md",
+            "file": "templates/daily_note.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-18.md",
+                "file": "templates/daily_note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-18.md",
+                "file": "templates/daily_note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-18.md"
+                "file": "templates/daily_note.md"
               }
             }
           },
@@ -128,6 +128,8 @@
   },
   "active": "39a2666e58099869",
   "lastOpenFiles": [
+    "templates/daily_note.md",
+    "0001 my weekly review process.md",
     "daily/2021-07-18.md",
     "Lessons in Stoicism Book Chapter 2.md",
     "Lessons in Stoicism Book.md",
@@ -135,8 +137,6 @@
     "High Output Management - chapter 1.md",
     "0000 Reading List.md",
     "haskell.md",
-    "Haskell Book.md",
-    "media/haskellbook_haskell-programming-1.0-screen.pdf",
-    "daily/2021-07-17.md"
+    "Haskell Book.md"
   ]
 }

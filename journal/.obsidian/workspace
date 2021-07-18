@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-17.md",
+            "file": "P.A.R.A..md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-17.md",
+                "file": "P.A.R.A..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-17.md",
+                "file": "P.A.R.A..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-17.md"
+                "file": "P.A.R.A..md"
               }
             }
           },
@@ -128,15 +128,15 @@
   },
   "active": "d721c7fa53d71600",
   "lastOpenFiles": [
+    "P.A.R.A..md",
     "daily/2021-07-17.md",
+    "templates/daily_note.md",
     "Cole Wehrle.md",
     "Philosophy of Stoicism.md",
     "compatibilism.md",
     "stoicism.md",
     "Zeno of Citium.md",
     "Philosophy of Zeno of Citium.md",
-    "cynicism.md",
-    "nomos.md",
-    "Philosophy of Cynics.md"
+    "cynicism.md"
   ]
 }

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "67ff7939c03afc7a",
+        "id": "d087ac0af968f9ed",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "collecting information is an incentive trap.md",
+            "file": "daily/2021-07-17.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "collecting information is an incentive trap.md",
+                "file": "daily/2021-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "collecting information is an incentive trap.md",
+                "file": "daily/2021-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collecting information is an incentive trap.md"
+                "file": "daily/2021-07-17.md"
               }
             }
           },
@@ -126,17 +126,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "67ff7939c03afc7a",
+  "active": "d087ac0af968f9ed",
   "lastOpenFiles": [
+    "daily/2021-07-17.md",
+    "goals.md",
+    "ESAI (Software Process Activities).md",
+    "software process.md",
     "collecting information is an incentive trap.md",
     "Write notes in your own words instead of summarizing others.md",
     "Feynman technique.md",
     "api.md",
     "evergreen notes.md",
-    "similarities and differences between evergreen notes and zettlekasten.md",
-    "drilldown method.md",
-    "intuition.md",
-    "daily/2021-07-17.md",
-    "The Log, What every software engineer should know about real-time data's unifying abstraction.md"
+    "similarities and differences between evergreen notes and zettlekasten.md"
   ]
 }

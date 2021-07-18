@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "P.A.R.A..md",
+            "file": "daily/2021-07-17.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P.A.R.A..md",
+                "file": "daily/2021-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P.A.R.A..md",
+                "file": "daily/2021-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P.A.R.A..md"
+                "file": "daily/2021-07-17.md"
               }
             }
           },
@@ -128,8 +128,8 @@
   },
   "active": "d721c7fa53d71600",
   "lastOpenFiles": [
-    "P.A.R.A..md",
     "daily/2021-07-17.md",
+    "P.A.R.A..md",
     "templates/daily_note.md",
     "Cole Wehrle.md",
     "Philosophy of Stoicism.md",

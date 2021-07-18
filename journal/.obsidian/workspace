@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "no-knead bread.md",
+            "file": "Lessons in Stoicism Book Chapter 2.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "no-knead bread.md",
+                "file": "Lessons in Stoicism Book Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "no-knead bread.md",
+                "file": "Lessons in Stoicism Book Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "no-knead bread.md"
+                "file": "Lessons in Stoicism Book Chapter 2.md"
               }
             }
           },
@@ -129,15 +129,15 @@
   },
   "active": "2fbd5f1a41954c82",
   "lastOpenFiles": [
+    "Lessons in Stoicism Book Chapter 2.md",
+    "Lessons in Stoicism Book.md",
+    "0000 Reading List.md",
     "no-knead bread.md",
     "Recipes.md",
     "twitter as a form of zettelkasten.md",
     "evergreen notes.md",
     "zettelkasten.md",
     "Niklas Luhman.md",
-    "People who write extensively about advice rarely have a serious context of use for that advice.md",
-    "templates/daily_note.md",
-    "daily/2021-07-17.md",
-    "goals.md"
+    "People who write extensively about advice rarely have a serious context of use for that advice.md"
   ]
 }

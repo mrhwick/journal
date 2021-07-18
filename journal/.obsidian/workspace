@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "evergreen notes.md",
+            "file": "similarities and differences between evergreen notes and zettlekasten.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "evergreen notes.md",
+                "file": "similarities and differences between evergreen notes and zettlekasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "evergreen notes.md",
+                "file": "similarities and differences between evergreen notes and zettlekasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "evergreen notes.md"
+                "file": "similarities and differences between evergreen notes and zettlekasten.md"
               }
             }
           },
@@ -128,6 +128,7 @@
   },
   "active": "67ff7939c03afc7a",
   "lastOpenFiles": [
+    "similarities and differences between evergreen notes and zettlekasten.md",
     "evergreen notes.md",
     "daily/2021-07-17.md",
     "daily/2021-07-13.md",
@@ -136,7 +137,6 @@
     "Lessons in Stoicism Book.md",
     "Lessons in Stoicism Book Chapter 1.md",
     "Zeno of Citium.md",
-    "parametric polymorphism.md",
-    "ad hoc polymorphism.md"
+    "parametric polymorphism.md"
   ]
 }

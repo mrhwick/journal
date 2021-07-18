@@ -7,8 +7,11 @@
         "id": "2fbd5f1a41954c82",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "no-knead bread.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "no-knead bread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "no-knead bread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "no-knead bread.md"
+              }
             }
           },
           {
@@ -122,6 +129,8 @@
   },
   "active": "2fbd5f1a41954c82",
   "lastOpenFiles": [
+    "no-knead bread.md",
+    "Recipes.md",
     "twitter as a form of zettelkasten.md",
     "evergreen notes.md",
     "zettelkasten.md",
@@ -129,8 +138,6 @@
     "People who write extensively about advice rarely have a serious context of use for that advice.md",
     "templates/daily_note.md",
     "daily/2021-07-17.md",
-    "goals.md",
-    "ESAI (Software Process Activities).md",
-    "software process.md"
+    "goals.md"
   ]
 }

@@ -7,8 +7,11 @@
         "id": "261d5c2e9c7f40cb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Rene Girard.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rene Girard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rene Girard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rene Girard.md"
+              }
             }
           },
           {
@@ -121,6 +128,7 @@
   },
   "active": "261d5c2e9c7f40cb",
   "lastOpenFiles": [
+    "Rene Girard.md",
     "0000 Reading List.md",
     "0001 my weekly review process.md",
     "progressive summarization.md",
@@ -129,7 +137,6 @@
     "daily/2021-07-18.md",
     "todo.md",
     "media/Planning projects in PARA.png",
-    "0002 Projects.md",
-    "P.A.R.A..md"
+    "0002 Projects.md"
   ]
 }

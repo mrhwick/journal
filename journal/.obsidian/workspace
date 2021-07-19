@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Lead Weekly.md",
+            "file": "daily/2021-07-19.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Lead Weekly.md",
+                "file": "daily/2021-07-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Lead Weekly.md",
+                "file": "daily/2021-07-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Lead Weekly.md"
+                "file": "daily/2021-07-19.md"
               }
             }
           },
@@ -129,8 +129,8 @@
   },
   "active": "efe5f7111a977ac5",
   "lastOpenFiles": [
-    "Software Lead Weekly.md",
     "daily/2021-07-19.md",
+    "Software Lead Weekly.md",
     "daily/2021-07-16.md",
     "metacognition.md",
     "Afforestation.md",

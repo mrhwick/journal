@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-19.md",
+            "file": "macrocognition.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-19.md",
+                "file": "macrocognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-19.md",
+                "file": "macrocognition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-19.md"
+                "file": "macrocognition.md"
               }
             }
           },
@@ -129,6 +129,7 @@
   },
   "active": "441834c0dbdb3b85",
   "lastOpenFiles": [
+    "macrocognition.md",
     "daily/2021-07-19.md",
     "parametric polymorphism.md",
     "arete.md",
@@ -137,7 +138,6 @@
     "Zeno of Citium.md",
     "cynicism.md",
     "currying.md",
-    "Feynman technique.md",
-    "Software Lead Weekly.md"
+    "Feynman technique.md"
   ]
 }

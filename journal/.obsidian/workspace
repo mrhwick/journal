@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "261d5c2e9c7f40cb",
+        "id": "4c1544120a2c4a0a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rene Girard.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rene Girard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rene Girard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rene Girard.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "261d5c2e9c7f40cb",
+  "active": "4c1544120a2c4a0a",
   "lastOpenFiles": [
     "Rene Girard.md",
     "0000 Reading List.md",

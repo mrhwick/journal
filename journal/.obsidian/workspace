@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "efe5f7111a977ac5",
+        "id": "441834c0dbdb3b85",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -127,17 +127,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "efe5f7111a977ac5",
+  "active": "441834c0dbdb3b85",
   "lastOpenFiles": [
     "daily/2021-07-19.md",
-    "Software Lead Weekly.md",
-    "daily/2021-07-16.md",
-    "metacognition.md",
-    "Afforestation.md",
-    "the flip side newsletter.md",
-    "daily/2021-07-15.md",
-    "templates/daily_note.md",
-    "daily/2021-07-14.md",
-    "partial function application.md"
+    "parametric polymorphism.md",
+    "arete.md",
+    "equanimity.md",
+    "ponos.md",
+    "Zeno of Citium.md",
+    "cynicism.md",
+    "currying.md",
+    "Feynman technique.md",
+    "Software Lead Weekly.md"
   ]
 }

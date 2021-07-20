@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0003 Areas.md",
+            "file": "daily/2021-07-20.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0003 Areas.md",
+                "file": "daily/2021-07-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0003 Areas.md",
+                "file": "daily/2021-07-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0003 Areas.md"
+                "file": "daily/2021-07-20.md"
               }
             }
           },
@@ -128,10 +128,10 @@
   },
   "active": "9fd3b9307aaae422",
   "lastOpenFiles": [
+    "daily/2021-07-20.md",
     "0003 Areas.md",
     "0002 Projects.md",
     "media/Planning projects in PARA.png",
-    "daily/2021-07-20.md",
     "daily/2021-07-19.md",
     "naturalistic decision-making.md",
     "service level objective.md",

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Macrocognition; Klein, 2003.md",
+            "file": "Recognition-Primed-Decision Model.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macrocognition; Klein, 2003.md",
+                "file": "Recognition-Primed-Decision Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Macrocognition; Klein, 2003.md",
+                "file": "Recognition-Primed-Decision Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Macrocognition; Klein, 2003.md"
+                "file": "Recognition-Primed-Decision Model.md"
               }
             }
           },
@@ -129,6 +129,7 @@
   },
   "active": "441834c0dbdb3b85",
   "lastOpenFiles": [
+    "Recognition-Primed-Decision Model.md",
     "Macrocognition; Klein, 2003.md",
     "macrocognition.md",
     "daily/2021-07-19.md",
@@ -137,7 +138,6 @@
     "equanimity.md",
     "ponos.md",
     "Zeno of Citium.md",
-    "cynicism.md",
-    "currying.md"
+    "cynicism.md"
   ]
 }

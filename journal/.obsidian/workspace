@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-20.md",
+            "file": "daily/2021-07-18.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "giftless",
+                "query": "loops",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-20.md",
+                "file": "daily/2021-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-20.md",
+                "file": "daily/2021-07-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-20.md"
+                "file": "daily/2021-07-18.md"
               }
             }
           },
@@ -128,6 +128,7 @@
   },
   "active": "9fd3b9307aaae422",
   "lastOpenFiles": [
+    "daily/2021-07-18.md",
     "daily/2021-07-20.md",
     "0003 Areas.md",
     "0002 Projects.md",
@@ -136,7 +137,6 @@
     "naturalistic decision-making.md",
     "service level objective.md",
     "P.A.R.A..md",
-    "parrhesia.md",
-    "ponos.md"
+    "parrhesia.md"
   ]
 }

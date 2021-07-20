@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-20.md",
+            "file": "0002 Projects.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-20.md",
+                "file": "0002 Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-20.md",
+                "file": "0002 Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-20.md"
+                "file": "0002 Projects.md"
               }
             }
           },
@@ -120,8 +120,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,6 +128,8 @@
   },
   "active": "9fd3b9307aaae422",
   "lastOpenFiles": [
+    "0002 Projects.md",
+    "media/Planning projects in PARA.png",
     "daily/2021-07-20.md",
     "daily/2021-07-19.md",
     "naturalistic decision-making.md",
@@ -136,8 +137,6 @@
     "P.A.R.A..md",
     "parrhesia.md",
     "ponos.md",
-    "macrocognition.md",
-    "Augmentation Means (for human functioning).md",
-    "spoudaiogeloion.md"
+    "macrocognition.md"
   ]
 }

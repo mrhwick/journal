@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Recognition-Primed-Decision Model.md",
+            "file": "Feynman technique.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recognition-Primed-Decision Model.md",
+                "file": "Feynman technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recognition-Primed-Decision Model.md",
+                "file": "Feynman technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recognition-Primed-Decision Model.md"
+                "file": "Feynman technique.md"
               }
             }
           },
@@ -129,6 +129,7 @@
   },
   "active": "441834c0dbdb3b85",
   "lastOpenFiles": [
+    "Feynman technique.md",
     "Recognition-Primed-Decision Model.md",
     "Macrocognition; Klein, 2003.md",
     "macrocognition.md",
@@ -137,7 +138,6 @@
     "arete.md",
     "equanimity.md",
     "ponos.md",
-    "Zeno of Citium.md",
-    "cynicism.md"
+    "Zeno of Citium.md"
   ]
 }

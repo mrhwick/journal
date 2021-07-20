@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "service level objectives.md",
+            "file": "naturalistic decision-making.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "service level objectives.md",
+                "file": "naturalistic decision-making.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "service level objectives.md",
+                "file": "naturalistic decision-making.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "service level objectives.md"
+                "file": "naturalistic decision-making.md"
               }
             }
           },
@@ -129,6 +129,7 @@
   },
   "active": "116f6600ec4bef14",
   "lastOpenFiles": [
+    "naturalistic decision-making.md",
     "service level objective.md",
     "P.A.R.A..md",
     "parrhesia.md",
@@ -137,7 +138,6 @@
     "Augmentation Means (for human functioning).md",
     "spoudaiogeloion.md",
     "Feynman technique.md",
-    "Recognition-Primed-Decision Model.md",
-    "Macrocognition; Klein, 2003.md"
+    "Recognition-Primed-Decision Model.md"
   ]
 }

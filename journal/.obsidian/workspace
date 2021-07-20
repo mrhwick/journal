@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "theory of special relativity.md",
+            "file": "Einsteins Space-Time An Introduction to Special and General Relativity by Rafael Ferraro.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory of special relativity.md",
+                "file": "Einsteins Space-Time An Introduction to Special and General Relativity by Rafael Ferraro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory of special relativity.md",
+                "file": "Einsteins Space-Time An Introduction to Special and General Relativity by Rafael Ferraro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory of special relativity.md"
+                "file": "Einsteins Space-Time An Introduction to Special and General Relativity by Rafael Ferraro.md"
               }
             }
           },
@@ -128,6 +128,7 @@
   },
   "active": "be31eb8e110c204e",
   "lastOpenFiles": [
+    "Einsteins Space-Time An Introduction to Special and General Relativity by Rafael Ferraro.md",
     "theory of special relativity.md",
     "Annus Mirabilis Papers.md",
     "Feynman technique.md",
@@ -136,7 +137,6 @@
     "daily/2021-07-19.md",
     "media/Pasted image 20210719232519.png",
     "Rene Girard.md",
-    "0000 Reading List.md",
-    "0001 my weekly review process.md"
+    "0000 Reading List.md"
   ]
 }

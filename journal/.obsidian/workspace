@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "441834c0dbdb3b85",
+        "id": "116f6600ec4bef14",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Feynman technique.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feynman technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feynman technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Feynman technique.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,17 +120,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "441834c0dbdb3b85",
+  "active": "116f6600ec4bef14",
   "lastOpenFiles": [
+    "P.A.R.A..md",
+    "parrhesia.md",
+    "ponos.md",
+    "macrocognition.md",
+    "Augmentation Means (for human functioning).md",
+    "spoudaiogeloion.md",
     "Feynman technique.md",
     "Recognition-Primed-Decision Model.md",
     "Macrocognition; Klein, 2003.md",
-    "macrocognition.md",
-    "daily/2021-07-19.md",
-    "parametric polymorphism.md",
-    "arete.md",
-    "equanimity.md",
-    "ponos.md",
-    "Zeno of Citium.md"
+    "daily/2021-07-19.md"
   ]
 }

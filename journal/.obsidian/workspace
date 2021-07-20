@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "08a727137107959d",
+        "id": "be31eb8e110c204e",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -119,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "08a727137107959d",
+  "active": "be31eb8e110c204e",
   "lastOpenFiles": [
     "Feynman technique.md",
     "Macrocognition; Klein, 2003.md",

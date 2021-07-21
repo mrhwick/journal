@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Macrocognition, From Theory to Toolbox.md",
+            "file": "Recognition-Primed-Decision Model.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macrocognition, From Theory to Toolbox.md",
+                "file": "Recognition-Primed-Decision Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Macrocognition, From Theory to Toolbox.md",
+                "file": "Recognition-Primed-Decision Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Macrocognition, From Theory to Toolbox.md"
+                "file": "Recognition-Primed-Decision Model.md"
               }
             }
           },
@@ -128,6 +128,8 @@
   },
   "active": "a47ce2fda47c7081",
   "lastOpenFiles": [
+    "Recognition-Primed-Decision Model.md",
+    "daily/2021-07-21.md",
     "Macrocognition, From Theory to Toolbox.md",
     "Macrocognition; Klein, 2003.md",
     "naturalistic decision-making.md",
@@ -135,8 +137,6 @@
     "Google SRE Workbook.md",
     "service level objectives.md",
     "ad hoc polymorphism.md",
-    "teleological argument.md",
-    "nomos.md",
-    "Closing open loops.md"
+    "teleological argument.md"
   ]
 }

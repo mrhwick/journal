@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "what three words.md",
+            "file": "Google SRE Workbook, Chapter 2.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "what three words.md",
+                "file": "Google SRE Workbook, Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "what three words.md",
+                "file": "Google SRE Workbook, Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "what three words.md"
+                "file": "Google SRE Workbook, Chapter 2.md"
               }
             }
           },
@@ -128,15 +128,15 @@
   },
   "active": "b314c2d51e260ff4",
   "lastOpenFiles": [
+    "Google SRE Workbook, Chapter 2.md",
+    "Google SRE Workbook.md",
+    "service level objectives.md",
     "what three words.md",
     "daily/2021-07-21.md",
     "Recognition-Primed-Decision Model.md",
     "Macrocognition, From Theory to Toolbox.md",
     "Macrocognition; Klein, 2003.md",
     "naturalistic decision-making.md",
-    "Google SRE Workbook, Chapter 2.md",
-    "Google SRE Workbook.md",
-    "service level objectives.md",
     "ad hoc polymorphism.md"
   ]
 }

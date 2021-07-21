@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a47ce2fda47c7081",
+        "id": "b314c2d51e260ff4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Recognition-Primed-Decision Model.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recognition-Primed-Decision Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recognition-Primed-Decision Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Recognition-Primed-Decision Model.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "a47ce2fda47c7081",
+  "active": "b314c2d51e260ff4",
   "lastOpenFiles": [
     "Recognition-Primed-Decision Model.md",
     "daily/2021-07-21.md",

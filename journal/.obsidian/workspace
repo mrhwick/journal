@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Google SRE Workbook, Chapter 2.md",
+            "file": "Macrocognition, From Theory to Toolbox.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google SRE Workbook, Chapter 2.md",
+                "file": "Macrocognition, From Theory to Toolbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google SRE Workbook, Chapter 2.md",
+                "file": "Macrocognition, From Theory to Toolbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google SRE Workbook, Chapter 2.md"
+                "file": "Macrocognition, From Theory to Toolbox.md"
               }
             }
           },
@@ -128,15 +128,15 @@
   },
   "active": "a47ce2fda47c7081",
   "lastOpenFiles": [
+    "Macrocognition, From Theory to Toolbox.md",
+    "Macrocognition; Klein, 2003.md",
+    "naturalistic decision-making.md",
     "Google SRE Workbook, Chapter 2.md",
     "Google SRE Workbook.md",
     "service level objectives.md",
     "ad hoc polymorphism.md",
     "teleological argument.md",
     "nomos.md",
-    "Closing open loops.md",
-    "Augmentation Means (for human functioning).md",
-    "compatibilism.md",
-    "We Need To Talk A Memoir About Wealth by Jennifer Risher.md"
+    "Closing open loops.md"
   ]
 }

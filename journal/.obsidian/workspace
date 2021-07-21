@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "We Need To Talk A Memoir About Wealth by Jennifer Risher.md",
+            "file": "Augmentation Means (for human functioning).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "We Need To Talk A Memoir About Wealth by Jennifer Risher.md",
+                "file": "Augmentation Means (for human functioning).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "We Need To Talk A Memoir About Wealth by Jennifer Risher.md",
+                "file": "Augmentation Means (for human functioning).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "We Need To Talk A Memoir About Wealth by Jennifer Risher.md"
+                "file": "Augmentation Means (for human functioning).md"
               }
             }
           },
@@ -128,15 +128,15 @@
   },
   "active": "21a8ebdfc21fce59",
   "lastOpenFiles": [
+    "Augmentation Means (for human functioning).md",
+    "compatibilism.md",
+    "service level objectives.md",
     "We Need To Talk A Memoir About Wealth by Jennifer Risher.md",
     "daily/2021-07-21.md",
     "daily/2021-07-20.md",
     "Closing open loops.md",
     "daily/2021-07-18.md",
     "0003 Areas.md",
-    "0002 Projects.md",
-    "media/Planning projects in PARA.png",
-    "daily/2021-07-19.md",
-    "naturalistic decision-making.md"
+    "0002 Projects.md"
   ]
 }

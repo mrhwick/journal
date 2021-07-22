@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56a4441121121005",
+        "id": "b754d08dd650e647",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Google SRE Workbook, Chapter 2.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google SRE Workbook, Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google SRE Workbook, Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Google SRE Workbook, Chapter 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "56a4441121121005",
+  "active": "b754d08dd650e647",
   "lastOpenFiles": [
+    "transmissionism.md",
+    "arete.md",
+    "equanimity.md",
+    "Closing open loops.md",
+    "Augmentation Means (for human functioning).md",
+    "macrocognition.md",
+    "Recognition-Primed-Decision Model.md",
+    "cynicism.md",
     "Google SRE Workbook, Chapter 2.md",
-    "0000 Reading List.md",
-    "media/Kay1989.pdf",
-    "media/Iverson1979.pdf",
-    "media/Engelbart1962.pdf",
-    "daily/2021-07-22.md",
-    "Caliban's War.md",
-    "daily/2021-07-21.md",
-    "Google SRE Book, Chapter 3.md",
-    "Google SRE Book.md"
+    "0000 Reading List.md"
   ]
 }

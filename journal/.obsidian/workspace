@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b314c2d51e260ff4",
+        "id": "56a4441121121005",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-21.md",
+            "file": "0000 Reading List.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-21.md",
+                "file": "0000 Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-07-21.md",
+                "file": "0000 Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-21.md"
+                "file": "0000 Reading List.md"
               }
             }
           },
@@ -126,17 +126,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "b314c2d51e260ff4",
+  "active": "56a4441121121005",
   "lastOpenFiles": [
+    "0000 Reading List.md",
+    "media/Kay1989.pdf",
+    "media/Iverson1979.pdf",
+    "media/Engelbart1962.pdf",
+    "daily/2021-07-22.md",
+    "Caliban's War.md",
     "daily/2021-07-21.md",
     "Google SRE Workbook, Chapter 2.md",
     "Google SRE Book, Chapter 3.md",
-    "Google SRE Book.md",
-    "Google SRE Workbook.md",
-    "service level objectives.md",
-    "what three words.md",
-    "Recognition-Primed-Decision Model.md",
-    "Macrocognition, From Theory to Toolbox.md",
-    "Macrocognition; Klein, 2003.md"
+    "Google SRE Book.md"
   ]
 }

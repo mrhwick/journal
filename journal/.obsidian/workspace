@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Google SRE Workbook, Chapter 2.md",
+            "file": "daily/2021-07-21.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google SRE Workbook, Chapter 2.md",
+                "file": "daily/2021-07-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google SRE Workbook, Chapter 2.md",
+                "file": "daily/2021-07-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google SRE Workbook, Chapter 2.md"
+                "file": "daily/2021-07-21.md"
               }
             }
           },
@@ -128,13 +128,13 @@
   },
   "active": "b314c2d51e260ff4",
   "lastOpenFiles": [
+    "daily/2021-07-21.md",
     "Google SRE Workbook, Chapter 2.md",
     "Google SRE Book, Chapter 3.md",
     "Google SRE Book.md",
     "Google SRE Workbook.md",
     "service level objectives.md",
     "what three words.md",
-    "daily/2021-07-21.md",
     "Recognition-Primed-Decision Model.md",
     "Macrocognition, From Theory to Toolbox.md",
     "Macrocognition; Klein, 2003.md"

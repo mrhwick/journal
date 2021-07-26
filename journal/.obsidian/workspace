@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "be31eb8e110c204e",
+        "id": "bbead9e9e16ad610",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "We Need To Talk A Memoir About Wealth by Jennifer Risher.md",
+            "file": "daily/2021-07-26.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "edit this daily templat",
+                "query": "loops",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "We Need To Talk A Memoir About Wealth by Jennifer Risher.md",
+                "file": "daily/2021-07-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "We Need To Talk A Memoir About Wealth by Jennifer Risher.md",
+                "file": "daily/2021-07-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,12 +108,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "We Need To Talk A Memoir About Wealth by Jennifer Risher.md"
+                "file": "daily/2021-07-26.md"
               }
             }
           },
           {
-            "id": "5e890321048f22e4",
+            "id": "8c9df9d9f06e8369",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -126,17 +126,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "be31eb8e110c204e",
+  "active": "bbead9e9e16ad610",
   "lastOpenFiles": [
-    "We Need To Talk A Memoir About Wealth by Jennifer Risher.md",
-    "Einsteins Space-Time, Chapter 1.md",
-    "Einsteins Space-Time An Introduction to Special and General Relativity by Rafael Ferraro.md",
-    "theory of special relativity.md",
-    "Annus Mirabilis Papers.md",
+    "daily/2021-07-26.md",
+    "transmissionism.md",
+    "partial function application.md",
+    "Memory System.md",
+    "Closing open loops.md",
     "Feynman technique.md",
-    "Macrocognition; Klein, 2003.md",
-    "macrocognition.md",
-    "daily/2021-07-19.md",
-    "media/Pasted image 20210719232519.png"
+    "ad hoc polymorphism.md",
+    "Bicameralism.md",
+    "Afforestation.md",
+    "service level objectives.md"
   ]
 }

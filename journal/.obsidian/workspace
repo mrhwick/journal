@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2c9aecce637e641c",
+        "id": "43f2ba9408d46aeb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "helical engine.md",
+            "file": "daily/2021-07-29.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "helical engine.md",
+                "file": "daily/2021-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "helical engine.md",
+                "file": "daily/2021-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "helical engine.md"
+                "file": "daily/2021-07-29.md"
               }
             }
           },
@@ -126,17 +126,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "2c9aecce637e641c",
+  "active": "43f2ba9408d46aeb",
   "lastOpenFiles": [
+    "daily/2021-07-29.md",
+    "P.A.R.A..md",
+    "equanimity.md",
+    "ponos.md",
+    "Augmentation Means (for human functioning).md",
     "helical engine.md",
     "daily/2021-07-28.md",
     "teleological argument.md",
     "parrhesia.md",
-    "Augmentation Means (for human functioning).md",
-    "metacognition.md",
-    "cynicism.md",
-    "daily/2021-07-27.md",
-    "daily/2021-07-26.md",
-    "templates/daily_note.md"
+    "metacognition.md"
   ]
 }

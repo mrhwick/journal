@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0cc16faeec54d422",
+        "id": "6d643ec8f2530c1d",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "0cc16faeec54d422",
+  "active": "6d643ec8f2530c1d",
   "lastOpenFiles": [
+    "Augmentation Means (for human functioning).md",
+    "currying.md",
     "recursion.md",
     "parametric polymorphism.md",
     "Bicameralism.md",
     "arete.md",
-    "Augmentation Means (for human functioning).md",
     "macrocognition.md",
     "We Need To Talk A Memoir About Wealth by Jennifer Risher.md",
     "Einsteins Space-Time, Chapter 1.md",
-    "Einsteins Space-Time An Introduction to Special and General Relativity by Rafael Ferraro.md",
-    "theory of special relativity.md"
+    "Einsteins Space-Time An Introduction to Special and General Relativity by Rafael Ferraro.md"
   ]
 }

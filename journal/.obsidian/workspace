@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6d643ec8f2530c1d",
+        "id": "3642a5952d83c920",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-08-02.md",
+            "file": "p-zombie.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "edit this daily templat",
+                "query": "loops",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-08-02.md",
+                "file": "p-zombie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-08-02.md",
+                "file": "p-zombie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,12 +108,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-08-02.md"
+                "file": "p-zombie.md"
               }
             }
           },
           {
-            "id": "5e890321048f22e4",
+            "id": "8c9df9d9f06e8369",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -126,17 +126,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "6d643ec8f2530c1d",
+  "active": "3642a5952d83c920",
   "lastOpenFiles": [
-    "daily/2021-08-02.md",
-    "3x+1 problem.md",
+    "p-zombie.md",
+    "The Origin of Consciousness in the Breakdown of the Bicameral Mind.md",
+    "daily/2021-07-30.md",
     "Augmentation Means (for human functioning).md",
-    "currying.md",
-    "recursion.md",
-    "parametric polymorphism.md",
-    "Bicameralism.md",
-    "arete.md",
-    "macrocognition.md",
-    "We Need To Talk A Memoir About Wealth by Jennifer Risher.md"
+    "spoudaiogeloion.md",
+    "compatibilism.md",
+    "Recognition-Primed-Decision Model.md",
+    "Feynman technique.md",
+    "daily/2021-07-29.md",
+    "P.A.R.A..md"
   ]
 }

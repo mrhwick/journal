@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3642a5952d83c920",
+        "id": "601ecd049f30876e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "p-zombie.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "p-zombie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "p-zombie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "p-zombie.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,9 +119,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "3642a5952d83c920",
+  "active": "601ecd049f30876e",
   "lastOpenFiles": [
     "p-zombie.md",
+    "Zeno of Citium.md",
     "The Origin of Consciousness in the Breakdown of the Bicameral Mind.md",
     "daily/2021-07-30.md",
     "Augmentation Means (for human functioning).md",
@@ -136,7 +130,6 @@
     "compatibilism.md",
     "Recognition-Primed-Decision Model.md",
     "Feynman technique.md",
-    "daily/2021-07-29.md",
-    "P.A.R.A..md"
+    "daily/2021-07-29.md"
   ]
 }

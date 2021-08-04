@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DD New Grad Design Interview.md",
+            "file": "daily/2021-08-04.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DD New Grad Design Interview.md",
+                "file": "daily/2021-08-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DD New Grad Design Interview.md",
+                "file": "daily/2021-08-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DD New Grad Design Interview.md"
+                "file": "daily/2021-08-04.md"
               }
             }
           },
@@ -128,6 +128,7 @@
   },
   "active": "601ecd049f30876e",
   "lastOpenFiles": [
+    "daily/2021-08-04.md",
     "DD New Grad Design Interview.md",
     "p-zombie.md",
     "Zeno of Citium.md",
@@ -136,7 +137,6 @@
     "Augmentation Means (for human functioning).md",
     "spoudaiogeloion.md",
     "compatibilism.md",
-    "Recognition-Primed-Decision Model.md",
-    "Feynman technique.md"
+    "Recognition-Primed-Decision Model.md"
   ]
 }

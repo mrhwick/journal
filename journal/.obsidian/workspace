@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "601ecd049f30876e",
+        "id": "6d643ec8f2530c1d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2021.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "loops",
+                "query": "edit this daily templat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,11 +107,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2021.md"
+              }
             }
           },
           {
-            "id": "8c9df9d9f06e8369",
+            "id": "5e890321048f22e4",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -119,17 +126,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "601ecd049f30876e",
+  "active": "6d643ec8f2530c1d",
   "lastOpenFiles": [
-    "p-zombie.md",
-    "Zeno of Citium.md",
-    "The Origin of Consciousness in the Breakdown of the Bicameral Mind.md",
-    "daily/2021-07-30.md",
+    "2021.md",
+    "daily/2021-08-04.md",
+    "daily/2021-08-02.md",
+    "3x+1 problem.md",
     "Augmentation Means (for human functioning).md",
-    "spoudaiogeloion.md",
-    "compatibilism.md",
-    "Recognition-Primed-Decision Model.md",
-    "Feynman technique.md",
-    "daily/2021-07-29.md"
+    "currying.md",
+    "recursion.md",
+    "parametric polymorphism.md",
+    "Bicameralism.md",
+    "arete.md"
   ]
 }

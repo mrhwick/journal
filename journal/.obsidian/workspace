@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d643ec8f2530c1d",
+        "id": "0678261ed08b0def",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "p-zombie.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "p-zombie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "p-zombie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "p-zombie.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "6d643ec8f2530c1d",
+  "active": "0678261ed08b0def",
   "lastOpenFiles": [
+    "Closing open loops.md",
+    "Recognition-Primed-Decision Model.md",
+    "continuous integration.md",
+    "Feynman technique.md",
+    "transmissionism.md",
     "p-zombie.md",
     "nomos.md",
     "compatibilism.md",
     "Augmentation Means (for human functioning).md",
-    "spoudaiogeloion.md",
-    "Zeno of Citium.md",
-    "daily/2021-08-04.md",
-    "2021.md",
-    "daily/2021-08-02.md",
-    "3x+1 problem.md"
+    "spoudaiogeloion.md"
   ]
 }

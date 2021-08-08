@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0678261ed08b0def",
+        "id": "d35f2e565b7f8fa4",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,8 +119,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "0678261ed08b0def",
+  "active": "d35f2e565b7f8fa4",
   "lastOpenFiles": [
+    "naturalistic decision-making.md",
     "Closing open loops.md",
     "Recognition-Primed-Decision Model.md",
     "continuous integration.md",
@@ -129,7 +130,6 @@
     "p-zombie.md",
     "nomos.md",
     "compatibilism.md",
-    "Augmentation Means (for human functioning).md",
-    "spoudaiogeloion.md"
+    "Augmentation Means (for human functioning).md"
   ]
 }

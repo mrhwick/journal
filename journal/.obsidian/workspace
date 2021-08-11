@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d35f2e565b7f8fa4",
+        "id": "1ea1f67177dec88a",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "edit this daily templat",
+                "query": "loops",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "5e890321048f22e4",
+            "id": "8c9df9d9f06e8369",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "d35f2e565b7f8fa4",
+  "active": "1ea1f67177dec88a",
   "lastOpenFiles": [
-    "naturalistic decision-making.md",
-    "Closing open loops.md",
-    "Recognition-Primed-Decision Model.md",
-    "continuous integration.md",
-    "Feynman technique.md",
-    "transmissionism.md",
+    "daily/2021-08-04.md",
+    "DD New Grad Design Interview.md",
     "p-zombie.md",
-    "nomos.md",
+    "Zeno of Citium.md",
+    "The Origin of Consciousness in the Breakdown of the Bicameral Mind.md",
+    "daily/2021-07-30.md",
+    "Augmentation Means (for human functioning).md",
+    "spoudaiogeloion.md",
     "compatibilism.md",
-    "Augmentation Means (for human functioning).md"
+    "Recognition-Primed-Decision Model.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-08-12.md",
+            "file": "People who write extensively about advice rarely have a serious context of use for that advice.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-08-12.md",
+                "file": "People who write extensively about advice rarely have a serious context of use for that advice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-08-12.md",
+                "file": "People who write extensively about advice rarely have a serious context of use for that advice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-08-12.md"
+                "file": "People who write extensively about advice rarely have a serious context of use for that advice.md"
               }
             }
           },
@@ -128,6 +128,7 @@
   },
   "active": "d435a6ed9fecd596",
   "lastOpenFiles": [
+    "People who write extensively about advice rarely have a serious context of use for that advice.md",
     "daily/2021-08-12.md",
     "Augmentation Means (for human functioning).md",
     "service level objectives.md",
@@ -136,7 +137,6 @@
     "cynicism.md",
     "daily/2021-08-04.md",
     "DD New Grad Design Interview.md",
-    "p-zombie.md",
-    "Zeno of Citium.md"
+    "p-zombie.md"
   ]
 }

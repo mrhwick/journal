@@ -7,8 +7,11 @@
         "id": "d435a6ed9fecd596",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "daily/2021-08-12.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2021-08-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2021-08-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2021-08-12.md"
+              }
             }
           },
           {
@@ -121,6 +128,7 @@
   },
   "active": "d435a6ed9fecd596",
   "lastOpenFiles": [
+    "daily/2021-08-12.md",
     "Augmentation Means (for human functioning).md",
     "service level objectives.md",
     "ad hoc polymorphism.md",
@@ -129,7 +137,6 @@
     "daily/2021-08-04.md",
     "DD New Grad Design Interview.md",
     "p-zombie.md",
-    "Zeno of Citium.md",
-    "The Origin of Consciousness in the Breakdown of the Bicameral Mind.md"
+    "Zeno of Citium.md"
   ]
 }

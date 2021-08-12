@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d435a6ed9fecd596",
+        "id": "7d8eae144cd7a9ca",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "People who write extensively about advice rarely have a serious context of use for that advice.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People who write extensively about advice rarely have a serious context of use for that advice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People who write extensively about advice rarely have a serious context of use for that advice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "People who write extensively about advice rarely have a serious context of use for that advice.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "d435a6ed9fecd596",
+  "active": "7d8eae144cd7a9ca",
   "lastOpenFiles": [
     "People who write extensively about advice rarely have a serious context of use for that advice.md",
     "daily/2021-08-12.md",

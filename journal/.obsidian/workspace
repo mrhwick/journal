@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1ea1f67177dec88a",
+        "id": "d435a6ed9fecd596",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "1ea1f67177dec88a",
+  "active": "d435a6ed9fecd596",
   "lastOpenFiles": [
+    "Augmentation Means (for human functioning).md",
+    "service level objectives.md",
+    "ad hoc polymorphism.md",
+    "ponos.md",
+    "cynicism.md",
     "daily/2021-08-04.md",
     "DD New Grad Design Interview.md",
     "p-zombie.md",
     "Zeno of Citium.md",
-    "The Origin of Consciousness in the Breakdown of the Bicameral Mind.md",
-    "daily/2021-07-30.md",
-    "Augmentation Means (for human functioning).md",
-    "spoudaiogeloion.md",
-    "compatibilism.md",
-    "Recognition-Primed-Decision Model.md"
+    "The Origin of Consciousness in the Breakdown of the Bicameral Mind.md"
   ]
 }

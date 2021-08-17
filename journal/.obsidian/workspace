@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c1f04a70132a108c",
+        "id": "7f9b4b43f833d3eb",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "edit this daily templat",
+                "query": "arrian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,9 +127,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "c1f04a70132a108c",
+  "active": "7f9b4b43f833d3eb",
   "lastOpenFiles": [
     "Lessons in Stoicism Book Chapter 3.md",
+    "Arrian.md",
     "Lessons in Stoicism Book.md",
     "Lessons in Stoicism Book Chapter 2.md",
     "Augmentation Means (for human functioning).md",
@@ -136,7 +138,6 @@
     "equanimity.md",
     "naturalistic decision-making.md",
     "Closing open loops.md",
-    "Recognition-Primed-Decision Model.md",
-    "continuous integration.md"
+    "Recognition-Primed-Decision Model.md"
   ]
 }

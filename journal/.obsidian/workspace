@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lessons in Stoicism Book Chapter 3.md",
+            "file": "Lessons in Stoicism Book.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons in Stoicism Book Chapter 3.md",
+                "file": "Lessons in Stoicism Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons in Stoicism Book Chapter 3.md",
+                "file": "Lessons in Stoicism Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons in Stoicism Book Chapter 3.md"
+                "file": "Lessons in Stoicism Book.md"
               }
             }
           },
@@ -129,10 +129,10 @@
   },
   "active": "7f9b4b43f833d3eb",
   "lastOpenFiles": [
+    "Lessons in Stoicism Book.md",
     "Lessons in Stoicism Book Chapter 3.md",
     "Lucius Annaeus Seneca.md",
     "Arrian.md",
-    "Lessons in Stoicism Book.md",
     "Lessons in Stoicism Book Chapter 2.md",
     "Augmentation Means (for human functioning).md",
     "Bicameralism.md",

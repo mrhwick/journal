@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7d8eae144cd7a9ca",
+        "id": "c1f04a70132a108c",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "loops",
+                "query": "edit this daily templat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "8c9df9d9f06e8369",
+            "id": "5e890321048f22e4",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "7d8eae144cd7a9ca",
+  "active": "c1f04a70132a108c",
   "lastOpenFiles": [
-    "People who write extensively about advice rarely have a serious context of use for that advice.md",
-    "daily/2021-08-12.md",
     "Augmentation Means (for human functioning).md",
-    "service level objectives.md",
-    "ad hoc polymorphism.md",
-    "ponos.md",
-    "cynicism.md",
-    "daily/2021-08-04.md",
-    "DD New Grad Design Interview.md",
+    "Bicameralism.md",
+    "equanimity.md",
+    "naturalistic decision-making.md",
+    "Closing open loops.md",
+    "Recognition-Primed-Decision Model.md",
+    "continuous integration.md",
+    "Feynman technique.md",
+    "transmissionism.md",
     "p-zombie.md"
   ]
 }

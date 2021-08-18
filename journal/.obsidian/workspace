@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Long Now Foundation.md",
+            "file": "Gwern.net.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Long Now Foundation.md",
+                "file": "Gwern.net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Long Now Foundation.md",
+                "file": "Gwern.net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Long Now Foundation.md"
+                "file": "Gwern.net.md"
               }
             }
           },
@@ -128,6 +128,7 @@
   },
   "active": "624af020e2f478cd",
   "lastOpenFiles": [
+    "Gwern.net.md",
     "Long Now Foundation.md",
     "p-zombie.md",
     "Lessons in Stoicism Book.md",
@@ -136,7 +137,6 @@
     "Arrian.md",
     "Lessons in Stoicism Book Chapter 2.md",
     "Augmentation Means (for human functioning).md",
-    "Bicameralism.md",
-    "equanimity.md"
+    "Bicameralism.md"
   ]
 }

@@ -7,8 +7,11 @@
         "id": "624af020e2f478cd",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Long Now Foundation.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Long Now Foundation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Long Now Foundation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Long Now Foundation.md"
+              }
             }
           },
           {
@@ -121,6 +128,7 @@
   },
   "active": "624af020e2f478cd",
   "lastOpenFiles": [
+    "Long Now Foundation.md",
     "p-zombie.md",
     "Lessons in Stoicism Book.md",
     "Lessons in Stoicism Book Chapter 3.md",
@@ -129,7 +137,6 @@
     "Lessons in Stoicism Book Chapter 2.md",
     "Augmentation Means (for human functioning).md",
     "Bicameralism.md",
-    "equanimity.md",
-    "naturalistic decision-making.md"
+    "equanimity.md"
   ]
 }

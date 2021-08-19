@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9510e8a08e96775a",
+        "id": "691f6833babc8e75",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "the purpose of this journal.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the purpose of this journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the purpose of this journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "the purpose of this journal.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,8 +119,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "9510e8a08e96775a",
+  "active": "691f6833babc8e75",
   "lastOpenFiles": [
+    "Benford's Law.md",
     "the purpose of this journal.md",
     "parchive.md",
     "bup.md",
@@ -136,7 +130,6 @@
     "p-zombie.md",
     "Lessons in Stoicism Book.md",
     "Lessons in Stoicism Book Chapter 3.md",
-    "Lucius Annaeus Seneca.md",
-    "Arrian.md"
+    "Lucius Annaeus Seneca.md"
   ]
 }

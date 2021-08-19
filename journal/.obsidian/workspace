@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e09c7b6ec7b652c1",
+        "id": "83be9382c1dd1d0d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Benford's Law.md",
+            "file": "declarative shell.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benford's Law.md",
+                "file": "declarative shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benford's Law.md",
+                "file": "declarative shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benford's Law.md"
+                "file": "declarative shell.md"
               }
             }
           },
@@ -120,24 +120,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 313
   },
-  "active": "e09c7b6ec7b652c1",
+  "active": "83be9382c1dd1d0d",
   "lastOpenFiles": [
-    "Benford's Law.md",
-    "daily/2021-08-19.md",
-    "daily/2021-07-28.md",
-    "daily/2021-07-29.md",
-    "daily/2021-07-30.md",
-    "daily/2021-08-02.md",
-    "daily/2021-08-04.md",
-    "daily/2021-08-12.md",
-    "俊凤-Junfeng.md",
-    "Junfeng.md"
+    "declarative shell.md",
+    "Continuation-Passing Style.md",
+    "continuous integration.md",
+    "Chattanooga.md",
+    "Classical Antiquity.md",
+    "Closing open loops.md",
+    "Cole Wehrle.md",
+    "cantillon effect.md",
+    "Buying High, Selling Low.md",
+    "bup.md"
   ]
 }

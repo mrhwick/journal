@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Robin Hanson.md",
+            "file": "Extended Mind Thesis.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robin Hanson.md",
+                "file": "Extended Mind Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robin Hanson.md",
+                "file": "Extended Mind Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robin Hanson.md"
+                "file": "Extended Mind Thesis.md"
               }
             }
           },
@@ -128,6 +128,7 @@
   },
   "active": "691f6833babc8e75",
   "lastOpenFiles": [
+    "Extended Mind Thesis.md",
     "Robin Hanson.md",
     "Benford's Law.md",
     "the purpose of this journal.md",
@@ -136,7 +137,6 @@
     "Gwern.net.md",
     "Long Now Foundation.md",
     "p-zombie.md",
-    "Lessons in Stoicism Book.md",
-    "Lessons in Stoicism Book Chapter 3.md"
+    "Lessons in Stoicism Book.md"
   ]
 }

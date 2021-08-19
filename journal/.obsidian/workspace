@@ -7,8 +7,11 @@
         "id": "9fca24734269d375",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "0000 Reading List.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0000 Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0000 Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0000 Reading List.md"
+              }
             }
           },
           {
@@ -121,9 +128,9 @@
   },
   "active": "9fca24734269d375",
   "lastOpenFiles": [
+    "0000 Reading List.md",
     "media/The Strategy of Conflict With a New Preface by the Author by Thomas C. Schelling (z-lib.org).pdf",
     "Strategy of Conflict.md",
-    "0000 Reading List.md",
     "0003 Areas.md",
     "0002 Projects.md",
     "0001 my weekly review process.md",

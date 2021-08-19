@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9fca24734269d375",
+        "id": "45d0201cf0e169ed",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "0000 Reading List.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0000 Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0000 Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0000 Reading List.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,8 +119,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "9fca24734269d375",
+  "active": "45d0201cf0e169ed",
   "lastOpenFiles": [
+    "Decision Theory.md",
     "0000 Reading List.md",
     "media/The Strategy of Conflict With a New Preface by the Author by Thomas C. Schelling (z-lib.org).pdf",
     "Strategy of Conflict.md",
@@ -136,7 +130,6 @@
     "0001 my weekly review process.md",
     "media/Kay1989.pdf",
     "murder-ghandi.md",
-    "Extended Mind Thesis.md",
-    "Robin Hanson.md"
+    "Extended Mind Thesis.md"
   ]
 }

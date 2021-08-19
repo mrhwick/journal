@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-08-19.md",
+            "file": "Benford's Law.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-08-19.md",
+                "file": "Benford's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-08-19.md",
+                "file": "Benford's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-08-19.md"
+                "file": "Benford's Law.md"
               }
             }
           },
@@ -120,7 +120,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -128,6 +129,7 @@
   },
   "active": "e09c7b6ec7b652c1",
   "lastOpenFiles": [
+    "Benford's Law.md",
     "daily/2021-08-19.md",
     "daily/2021-07-28.md",
     "daily/2021-07-29.md",
@@ -136,7 +138,6 @@
     "daily/2021-08-04.md",
     "daily/2021-08-12.md",
     "俊凤-Junfeng.md",
-    "Junfeng.md",
-    "Benford's Law.md"
+    "Junfeng.md"
   ]
 }

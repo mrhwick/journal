@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "691f6833babc8e75",
+        "id": "9fca24734269d375",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "murder-gandhi and the slippery slope.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arrian",
+                "query": "tag:#books",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "murder-gandhi and the slippery slope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "murder-gandhi and the slippery slope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "murder-gandhi and the slippery slope.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "691f6833babc8e75",
+  "active": "9fca24734269d375",
   "lastOpenFiles": [
+    "media/The Strategy of Conflict With a New Preface by the Author by Thomas C. Schelling (z-lib.org).pdf",
+    "Strategy of Conflict.md",
+    "0000 Reading List.md",
+    "0003 Areas.md",
+    "0002 Projects.md",
+    "0001 my weekly review process.md",
+    "media/Kay1989.pdf",
     "murder-ghandi.md",
     "Extended Mind Thesis.md",
-    "Robin Hanson.md",
-    "Benford's Law.md",
-    "the purpose of this journal.md",
-    "parchive.md",
-    "bup.md",
-    "Gwern.net.md",
-    "Long Now Foundation.md",
-    "p-zombie.md"
+    "Robin Hanson.md"
   ]
 }

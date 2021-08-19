@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Extended Mind Thesis.md",
+            "file": "murder-gandhi and the slippery slope.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extended Mind Thesis.md",
+                "file": "murder-gandhi and the slippery slope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extended Mind Thesis.md",
+                "file": "murder-gandhi and the slippery slope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extended Mind Thesis.md"
+                "file": "murder-gandhi and the slippery slope.md"
               }
             }
           },
@@ -128,6 +128,7 @@
   },
   "active": "691f6833babc8e75",
   "lastOpenFiles": [
+    "murder-ghandi.md",
     "Extended Mind Thesis.md",
     "Robin Hanson.md",
     "Benford's Law.md",
@@ -136,7 +137,6 @@
     "bup.md",
     "Gwern.net.md",
     "Long Now Foundation.md",
-    "p-zombie.md",
-    "Lessons in Stoicism Book.md"
+    "p-zombie.md"
   ]
 }

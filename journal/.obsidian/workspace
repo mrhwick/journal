@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "free energy principle.md",
+            "file": "0000 Reading List.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "free energy principle.md",
+                "file": "0000 Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "free energy principle.md",
+                "file": "0000 Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "free energy principle.md"
+                "file": "0000 Reading List.md"
               }
             }
           },
@@ -128,15 +128,15 @@
   },
   "active": "ffeb5688f6ece329",
   "lastOpenFiles": [
+    "0000 Reading List.md",
+    "0001 my weekly review process.md",
+    "0002 Projects.md",
     "free energy principle.md",
     "Heraclitus.md",
     "Socrates.md",
     "man and river.md",
     "media/Einsteins Space-Time An Introduction to Special and General Relativity by Rafael Ferraro (z-lib.org).pdf",
     "Top 5 Regrets of the Dying.md",
-    "daily/2021-08-19.md",
-    "declarative shell.md",
-    "Continuation-Passing Style.md",
-    "continuous integration.md"
+    "daily/2021-08-19.md"
   ]
 }

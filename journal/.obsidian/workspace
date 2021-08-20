@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e788d59a2984dd00",
+        "id": "e02ba4258b15de31",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bayesian Program Synthesis (BPS).md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bayesian Program Synthesis (BPS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bayesian Program Synthesis (BPS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bayesian Program Synthesis (BPS).md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "e788d59a2984dd00",
+  "active": "e02ba4258b15de31",
   "lastOpenFiles": [
     "Bayesian Program Synthesis (BPS).md",
     "Continuation-Passing Style.md",

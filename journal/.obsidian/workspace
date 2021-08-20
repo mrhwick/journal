@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "13517d08909882c8",
+        "id": "e788d59a2984dd00",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0002 Projects.md",
+            "file": "Bayesian Program Synthesis (BPS).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0002 Projects.md",
+                "file": "Bayesian Program Synthesis (BPS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0002 Projects.md",
+                "file": "Bayesian Program Synthesis (BPS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0002 Projects.md"
+                "file": "Bayesian Program Synthesis (BPS).md"
               }
             }
           },
@@ -126,17 +126,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "13517d08909882c8",
+  "active": "e788d59a2984dd00",
   "lastOpenFiles": [
+    "Bayesian Program Synthesis (BPS).md",
+    "Continuation-Passing Style.md",
+    "teleological argument.md",
+    "Bretton Woods.md",
     "0002 Projects.md",
     "0000 Reading List.md",
     "0001 my weekly review process.md",
     "0003 Areas.md",
     "weekly/2021-W34.md",
-    "Untitled.md",
-    "templates/daily_note.md",
-    "free energy principle.md",
-    "Heraclitus.md",
-    "Socrates.md"
+    "Untitled.md"
   ]
 }

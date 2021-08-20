@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f11660024dd6dc5",
+        "id": "ffeb5688f6ece329",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Heraclitus.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heraclitus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heraclitus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Heraclitus.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,9 +119,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "8f11660024dd6dc5",
+  "active": "ffeb5688f6ece329",
   "lastOpenFiles": [
     "Heraclitus.md",
+    "Socrates.md",
     "man and river.md",
     "media/Einsteins Space-Time An Introduction to Special and General Relativity by Rafael Ferraro (z-lib.org).pdf",
     "Top 5 Regrets of the Dying.md",
@@ -136,7 +130,6 @@
     "declarative shell.md",
     "Continuation-Passing Style.md",
     "continuous integration.md",
-    "Chattanooga.md",
-    "Classical Antiquity.md"
+    "Chattanooga.md"
   ]
 }

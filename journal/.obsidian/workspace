@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e02ba4258b15de31",
+        "id": "84d2394a6c29d617",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "e02ba4258b15de31",
+  "active": "84d2394a6c29d617",
   "lastOpenFiles": [
+    "P.A.R.A..md",
+    "API.md",
+    "Benford's Law.md",
     "Bayesian Program Synthesis (BPS).md",
     "Continuation-Passing Style.md",
     "teleological argument.md",
     "Bretton Woods.md",
     "0002 Projects.md",
     "0000 Reading List.md",
-    "0001 my weekly review process.md",
-    "0003 Areas.md",
-    "weekly/2021-W34.md",
-    "Untitled.md"
+    "0001 my weekly review process.md"
   ]
 }

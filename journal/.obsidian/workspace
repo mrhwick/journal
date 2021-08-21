@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "84d2394a6c29d617",
+        "id": "04f1f3ee7a367327",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -126,9 +126,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "84d2394a6c29d617",
+  "active": "04f1f3ee7a367327",
   "lastOpenFiles": [
     "0002 Projects.md",
+    "daily/2021-08-21.md",
     "projected isomorphic javascript.md",
     "P.A.R.A..md",
     "API.md",
@@ -136,7 +137,6 @@
     "Bayesian Program Synthesis (BPS).md",
     "Continuation-Passing Style.md",
     "teleological argument.md",
-    "Bretton Woods.md",
-    "0000 Reading List.md"
+    "Bretton Woods.md"
   ]
 }

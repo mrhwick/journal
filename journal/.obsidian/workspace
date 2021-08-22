@@ -7,9 +7,10 @@
         "id": "e77c5ded308499b7",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "media/Pasted image 20210821192438.png"
+            "file": "P1-A.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/Pasted image 20210821192438.png",
+                "file": "P1-A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/Pasted image 20210821192438.png",
+                "file": "P1-A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "media/Pasted image 20210821192438.png"
+                "file": "P1-A.md"
               }
             }
           },
@@ -127,15 +128,15 @@
   },
   "active": "e77c5ded308499b7",
   "lastOpenFiles": [
-    "media/Pasted image 20210821192438.png",
     "P1-A.md",
+    "media/Pasted image 20210821192844.png",
+    "media/Pasted image 20210821192821.png",
+    "media/duck prosciutto - aged two weeks.png",
+    "media/Pasted image 20210821192805.png",
+    "media/Pasted image 20210821192451.png",
+    "media/Pasted image 20210821192438.png",
     "media/Pasted image 20210821192132.png",
     "media/Pasted image 20210821191519.png",
-    "media/Pasted image 20210821191514.png",
-    "media/Pasted image 20210821191325.png",
-    "media/Pasted image 20210821183504.png",
-    "0002 Projects.md",
-    "Objective 1, Project 1.md",
-    "daily/2021-08-21.md"
+    "media/Pasted image 20210821191514.png"
   ]
 }

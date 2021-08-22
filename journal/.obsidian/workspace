@@ -7,10 +7,9 @@
         "id": "e77c5ded308499b7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "P1-A.md",
-            "mode": "source"
+            "file": "media/Pasted image 20210821192438.png"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P1-A.md",
+                "file": "media/Pasted image 20210821192438.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P1-A.md",
+                "file": "media/Pasted image 20210821192438.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P1-A.md"
+                "file": "media/Pasted image 20210821192438.png"
               }
             }
           },
@@ -128,15 +127,15 @@
   },
   "active": "e77c5ded308499b7",
   "lastOpenFiles": [
+    "media/Pasted image 20210821192438.png",
     "P1-A.md",
+    "media/Pasted image 20210821192132.png",
     "media/Pasted image 20210821191519.png",
     "media/Pasted image 20210821191514.png",
     "media/Pasted image 20210821191325.png",
     "media/Pasted image 20210821183504.png",
     "0002 Projects.md",
     "Objective 1, Project 1.md",
-    "daily/2021-08-21.md",
-    "projected isomorphic javascript.md",
-    "P.A.R.A..md"
+    "daily/2021-08-21.md"
   ]
 }

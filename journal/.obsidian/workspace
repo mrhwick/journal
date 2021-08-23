@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8822c709f4f47bdd",
+        "id": "2db3fc3866145281",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,8 +119,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "8822c709f4f47bdd",
+  "active": "2db3fc3866145281",
   "lastOpenFiles": [
+    "0001 my weekly review process.md",
+    "todo.md",
     "urbit.md",
     "Curtis Yarvin.md",
     "P-2-A; Build a home server NAS.md",
@@ -128,8 +130,6 @@
     "templates/project_template.md",
     "Continuation-Passing Style.md",
     "modafinil.md",
-    "Augmentation Means (for human functioning).md",
-    "macrocognition.md",
-    "0000 Reading List.md"
+    "Augmentation Means (for human functioning).md"
   ]
 }

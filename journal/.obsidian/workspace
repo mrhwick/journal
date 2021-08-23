@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eede56b216475741",
+        "id": "62336b44542805e6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "deepl.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deepl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deepl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "deepl.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,8 +119,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "eede56b216475741",
+  "active": "62336b44542805e6",
   "lastOpenFiles": [
+    "media/中国底层访谈录 (文字版 上) by 老威（廖亦武） (z-lib.org).pdf",
     "deepl.md",
     "freedns.md",
     "daily/2021-08-23.md",
@@ -136,7 +130,6 @@
     "urbit.md",
     "Curtis Yarvin.md",
     "P-2-A; Build a home server NAS.md",
-    "0002 Projects.md",
-    "templates/project_template.md"
+    "0002 Projects.md"
   ]
 }

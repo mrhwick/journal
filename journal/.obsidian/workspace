@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0002 Projects.md",
+            "file": "0000 Reading List.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0002 Projects.md",
+                "file": "0000 Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0002 Projects.md",
+                "file": "0000 Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0002 Projects.md"
+                "file": "0000 Reading List.md"
               }
             }
           },
@@ -128,15 +128,15 @@
   },
   "active": "0f0ad4f85aba74cb",
   "lastOpenFiles": [
+    "0000 Reading List.md",
+    "Specifying Systems.md",
+    "Mathematical Notation, A Guide for Engineers and Scientists.md",
+    "Introductory Logic and Sets for Computer Scientists.md",
+    "Understanding Formal Methods.md",
+    "Software Engineering Mathematics.md",
     "0002 Projects.md",
     "project_template.md",
     "P-1-B; Capicola.md",
-    "P-1-A; Duck Prosciutto.md",
-    "P-1-B.md",
-    "P-1-A.md",
-    "Untitled.md",
-    "P1-A.md",
-    "media/Pasted image 20210821193200.png",
-    "media/Pasted image 20210821193155.png"
+    "P-1-A; Duck Prosciutto.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "P-2-A; Build a home server NAS.md",
+            "file": "Curtis Yarvin.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P-2-A; Build a home server NAS.md",
+                "file": "Curtis Yarvin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P-2-A; Build a home server NAS.md",
+                "file": "Curtis Yarvin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P-2-A; Build a home server NAS.md"
+                "file": "Curtis Yarvin.md"
               }
             }
           },
@@ -128,6 +128,8 @@
   },
   "active": "e4776af60e125263",
   "lastOpenFiles": [
+    "Curtis Yarvin.md",
+    "urbit.md",
     "P-2-A; Build a home server NAS.md",
     "0002 Projects.md",
     "templates/project_template.md",
@@ -135,8 +137,6 @@
     "modafinil.md",
     "Augmentation Means (for human functioning).md",
     "macrocognition.md",
-    "urbit.md",
-    "0000 Reading List.md",
-    "Specifying Systems.md"
+    "0000 Reading List.md"
   ]
 }

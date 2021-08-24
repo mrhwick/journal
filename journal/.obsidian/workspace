@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "62336b44542805e6",
+        "id": "6f1bc617731d6691",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,10 +119,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "62336b44542805e6",
+  "active": "6f1bc617731d6691",
   "lastOpenFiles": [
     "media/中国底层访谈录 (文字版 上) by 老威（廖亦武） (z-lib.org).pdf",
-    "deepl.md",
     "freedns.md",
     "daily/2021-08-23.md",
     "0001 my weekly review process.md",
@@ -130,6 +129,7 @@
     "urbit.md",
     "Curtis Yarvin.md",
     "P-2-A; Build a home server NAS.md",
-    "0002 Projects.md"
+    "0002 Projects.md",
+    "templates/project_template.md"
   ]
 }

@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f1bc617731d6691",
+        "id": "8f555e590826e795",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cyclically Adjusted Price-to-Earnings Ratio.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyclically Adjusted Price-to-Earnings Ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyclically Adjusted Price-to-Earnings Ratio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cyclically Adjusted Price-to-Earnings Ratio.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "6f1bc617731d6691",
+  "active": "8f555e590826e795",
   "lastOpenFiles": [
     "Cyclically Adjusted Price-to-Earnings Ratio.md",
     "Mental accounting bias makes people prefer dividends to capital gains.md",

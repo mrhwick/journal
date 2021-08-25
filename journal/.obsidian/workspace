@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8f555e590826e795",
+        "id": "62336b44542805e6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "really nice setting art.md",
+            "file": "Backus-Naur Form.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "really nice setting art.md",
+                "file": "Backus-Naur Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "really nice setting art.md",
+                "file": "Backus-Naur Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "really nice setting art.md"
+                "file": "Backus-Naur Form.md"
               }
             }
           },
@@ -126,17 +126,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "8f555e590826e795",
+  "active": "62336b44542805e6",
   "lastOpenFiles": [
-    "really nice setting art.md",
-    "Cyclically Adjusted Price-to-Earnings Ratio.md",
+    "Backus-Naur Form.md",
+    "Bayesian Program Synthesis (BPS).md",
+    "Annus Mirabilis Papers.md",
+    "Bretton Woods.md",
+    "Recognition-Primed-Decision Model.md",
     "Mental accounting bias makes people prefer dividends to capital gains.md",
     "media/中国底层访谈录 (文字版 上) by 老威（廖亦武） (z-lib.org).pdf",
+    "deepl.md",
     "freedns.md",
-    "daily/2021-08-23.md",
-    "0001 my weekly review process.md",
-    "todo.md",
-    "urbit.md",
-    "Curtis Yarvin.md"
+    "daily/2021-08-23.md"
   ]
 }

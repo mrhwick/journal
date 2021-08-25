@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mental accounting bias makes people prefer dividends to capital gains.md",
+            "file": "Cyclically Adjusted Price-to-Earnings Ratio.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental accounting bias makes people prefer dividends to capital gains.md",
+                "file": "Cyclically Adjusted Price-to-Earnings Ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mental accounting bias makes people prefer dividends to capital gains.md",
+                "file": "Cyclically Adjusted Price-to-Earnings Ratio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mental accounting bias makes people prefer dividends to capital gains.md"
+                "file": "Cyclically Adjusted Price-to-Earnings Ratio.md"
               }
             }
           },
@@ -128,6 +128,7 @@
   },
   "active": "6f1bc617731d6691",
   "lastOpenFiles": [
+    "Cyclically Adjusted Price-to-Earnings Ratio.md",
     "Mental accounting bias makes people prefer dividends to capital gains.md",
     "media/中国底层访谈录 (文字版 上) by 老威（廖亦武） (z-lib.org).pdf",
     "freedns.md",
@@ -136,7 +137,6 @@
     "todo.md",
     "urbit.md",
     "Curtis Yarvin.md",
-    "P-2-A; Build a home server NAS.md",
-    "0002 Projects.md"
+    "P-2-A; Build a home server NAS.md"
   ]
 }

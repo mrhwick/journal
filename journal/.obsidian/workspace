@@ -7,8 +7,10 @@
         "id": "a52b3ed5c857b4de",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "media/is bitcoin really untethered, 2019.pdf"
+          }
         }
       }
     ],
@@ -65,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "media/is bitcoin really untethered, 2019.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "media/is bitcoin really untethered, 2019.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "media/is bitcoin really untethered, 2019.pdf"
+              }
             }
           },
           {
@@ -121,6 +127,7 @@
   },
   "active": "a52b3ed5c857b4de",
   "lastOpenFiles": [
+    "media/is_bitcoin_really_untethered-2019.pdf",
     "media/djed-2021.pdf",
     "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
     "Greg Jensen.md",
@@ -129,7 +136,6 @@
     "parametric polymorphism.md",
     "Benford's Law.md",
     "Mental accounting bias makes people prefer dividends to capital gains.md",
-    "parrhesia.md",
-    "Augmentation Means (for human functioning).md"
+    "parrhesia.md"
   ]
 }

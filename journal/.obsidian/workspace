@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a52b3ed5c857b4de",
+        "id": "1434b8d37c284b1d",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "media/is bitcoin really untethered, 2019.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/is bitcoin really untethered, 2019.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/is bitcoin really untethered, 2019.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "media/is bitcoin really untethered, 2019.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -125,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "a52b3ed5c857b4de",
+  "active": "1434b8d37c284b1d",
   "lastOpenFiles": [
     "media/is_bitcoin_really_untethered-2019.pdf",
     "media/djed-2021.pdf",

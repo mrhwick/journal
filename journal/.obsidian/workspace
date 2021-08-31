@@ -7,8 +7,11 @@
         "id": "1434b8d37c284b1d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "0000 Reading List.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0000 Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0000 Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0000 Reading List.md"
+              }
             }
           },
           {
@@ -121,15 +128,15 @@
   },
   "active": "1434b8d37c284b1d",
   "lastOpenFiles": [
+    "0000 Reading List.md",
+    "Charcuteria, The Soul of Spain.md",
+    "0002 Projects.md",
     "media/is_bitcoin_really_untethered-2019.pdf",
     "media/djed-2021.pdf",
     "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
     "Greg Jensen.md",
-    "0002 Projects.md",
     "modafinil.md",
     "parametric polymorphism.md",
-    "Benford's Law.md",
-    "Mental accounting bias makes people prefer dividends to capital gains.md",
-    "parrhesia.md"
+    "Benford's Law.md"
   ]
 }

@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1434b8d37c284b1d",
+        "id": "31716138f3001f76",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "media/Edible Forest Gardens Ecological Design And Practice For Temperate-Climate Permaculture by Dave Jacke, Eric Toensmeier (z-lib.org).pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/Edible Forest Gardens Ecological Design And Practice For Temperate-Climate Permaculture by Dave Jacke, Eric Toensmeier (z-lib.org).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/Edible Forest Gardens Ecological Design And Practice For Temperate-Climate Permaculture by Dave Jacke, Eric Toensmeier (z-lib.org).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "media/Edible Forest Gardens Ecological Design And Practice For Temperate-Climate Permaculture by Dave Jacke, Eric Toensmeier (z-lib.org).pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -125,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "1434b8d37c284b1d",
+  "active": "31716138f3001f76",
   "lastOpenFiles": [
     "media/Edible Forest Gardens Ecological Design And Practice For Temperate-Climate Permaculture by Dave Jacke, Eric Toensmeier (z-lib.org).pdf",
     "Edible Forest Gardens.md",

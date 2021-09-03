@@ -7,10 +7,9 @@
         "id": "1434b8d37c284b1d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "0000 Reading List.md",
-            "mode": "source"
+            "file": "media/Edible Forest Gardens Ecological Design And Practice For Temperate-Climate Permaculture by Dave Jacke, Eric Toensmeier (z-lib.org).pdf"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0000 Reading List.md",
+                "file": "media/Edible Forest Gardens Ecological Design And Practice For Temperate-Climate Permaculture by Dave Jacke, Eric Toensmeier (z-lib.org).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0000 Reading List.md",
+                "file": "media/Edible Forest Gardens Ecological Design And Practice For Temperate-Climate Permaculture by Dave Jacke, Eric Toensmeier (z-lib.org).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0000 Reading List.md"
+                "file": "media/Edible Forest Gardens Ecological Design And Practice For Temperate-Climate Permaculture by Dave Jacke, Eric Toensmeier (z-lib.org).pdf"
               }
             }
           },
@@ -128,6 +127,8 @@
   },
   "active": "1434b8d37c284b1d",
   "lastOpenFiles": [
+    "media/Edible Forest Gardens Ecological Design And Practice For Temperate-Climate Permaculture by Dave Jacke, Eric Toensmeier (z-lib.org).pdf",
+    "Edible Forest Gardens.md",
     "0000 Reading List.md",
     "Charcuteria, The Soul of Spain.md",
     "0002 Projects.md",
@@ -135,8 +136,6 @@
     "media/djed-2021.pdf",
     "Is Stagflation Next A Conversation with Co-CIO Greg Jensen.md",
     "Greg Jensen.md",
-    "modafinil.md",
-    "parametric polymorphism.md",
-    "Benford's Law.md"
+    "modafinil.md"
   ]
 }

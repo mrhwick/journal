@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e63ff4de290733b4",
+        "id": "5f5292de7c86ea9b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "sentinel effect.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sentinel effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sentinel effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sentinel effect.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "e63ff4de290733b4",
+  "active": "5f5292de7c86ea9b",
   "lastOpenFiles": [
     "sentinel effect.md",
     "Untitled.md",

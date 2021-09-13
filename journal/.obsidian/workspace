@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f5292de7c86ea9b",
+        "id": "544667f3866eaf6e",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "media/Engelbart1962.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/Engelbart1962.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/Engelbart1962.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "media/Engelbart1962.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -125,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "5f5292de7c86ea9b",
+  "active": "544667f3866eaf6e",
   "lastOpenFiles": [
     "media/Engelbart1962.pdf",
     "Augmenting Human Intellect, A Conceptual Framework.md",

@@ -7,8 +7,11 @@
         "id": "e63ff4de290733b4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "sentinel effect.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sentinel effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sentinel effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sentinel effect.md"
+              }
             }
           },
           {
@@ -121,6 +128,8 @@
   },
   "active": "e63ff4de290733b4",
   "lastOpenFiles": [
+    "sentinel effect.md",
+    "Untitled.md",
     "parrhesia.md",
     "Feynman technique.md",
     "cantillon effect.md",
@@ -128,8 +137,6 @@
     "Zeno of Citium.md",
     "ponos.md",
     "Benford's Law.md",
-    "Bayesian Program Synthesis (BPS).md",
-    "arete.md",
-    "Recognition-Primed-Decision Model.md"
+    "Bayesian Program Synthesis (BPS).md"
   ]
 }

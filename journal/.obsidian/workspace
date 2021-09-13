@@ -7,8 +7,10 @@
         "id": "5f5292de7c86ea9b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "media/Engelbart1962.pdf"
+          }
         }
       }
     ],
@@ -65,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "media/Engelbart1962.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "media/Engelbart1962.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "media/Engelbart1962.pdf"
+              }
             }
           },
           {
@@ -121,15 +127,15 @@
   },
   "active": "5f5292de7c86ea9b",
   "lastOpenFiles": [
+    "media/Engelbart1962.pdf",
+    "Augmenting Human Intellect, A Conceptual Framework.md",
+    "Augmentation Means (for human functioning).md",
     "sentinel effect.md",
     "Untitled.md",
     "parrhesia.md",
     "Feynman technique.md",
     "cantillon effect.md",
     "Annus Mirabilis Papers.md",
-    "Zeno of Citium.md",
-    "ponos.md",
-    "Benford's Law.md",
-    "Bayesian Program Synthesis (BPS).md"
+    "Zeno of Citium.md"
   ]
 }

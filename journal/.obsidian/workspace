@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "544667f3866eaf6e",
+        "id": "42ec7d512ce4e0b0",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -126,17 +126,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "544667f3866eaf6e",
+  "active": "42ec7d512ce4e0b0",
   "lastOpenFiles": [
     "893 County Highway 40, Charlotteville, NY 12036.md",
+    "1921 Route 9, Stuyvesant, NY 12173.md",
+    "media/NY_Charlotteville_20190919_TM.jpeg",
     "146 Fred Williams Rd, Laurens, NY 13796.md",
     "74 Hardenburgh Rd, Ulster Park, NY 12487.md",
     "media/Engelbart1962.pdf",
     "Augmenting Human Intellect, A Conceptual Framework.md",
     "Augmentation Means (for human functioning).md",
     "sentinel effect.md",
-    "Untitled.md",
-    "parrhesia.md",
-    "Feynman technique.md"
+    "Untitled.md"
   ]
 }

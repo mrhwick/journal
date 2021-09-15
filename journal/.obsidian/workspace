@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "544667f3866eaf6e",
+        "id": "7c386e384e393039",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1921 Route 9, Stuyvesant, NY 12173.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1921 Route 9, Stuyvesant, NY 12173.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1921 Route 9, Stuyvesant, NY 12173.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1921 Route 9, Stuyvesant, NY 12173.md"
+              }
             }
           },
           {
@@ -119,17 +126,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "544667f3866eaf6e",
+  "active": "7c386e384e393039",
   "lastOpenFiles": [
-    "media/Engelbart1962.pdf",
-    "Augmenting Human Intellect, A Conceptual Framework.md",
-    "Augmentation Means (for human functioning).md",
-    "sentinel effect.md",
-    "Untitled.md",
-    "parrhesia.md",
-    "Feynman technique.md",
-    "cantillon effect.md",
-    "Annus Mirabilis Papers.md",
-    "Zeno of Citium.md"
+    "1921 Route 9, Stuyvesant, NY 12173.md",
+    "P-4-A; Develop list of prospective farmland.md",
+    "0002 Projects.md",
+    "the quiet world.md",
+    "media/Edible Forest Gardens Ecological Design And Practice For Temperate-Climate Permaculture by Dave Jacke, Eric Toensmeier (z-lib.org).pdf",
+    "Edible Forest Gardens.md",
+    "0000 Reading List.md",
+    "Charcuteria, The Soul of Spain.md",
+    "media/is_bitcoin_really_untethered-2019.pdf",
+    "media/djed-2021.pdf"
   ]
 }

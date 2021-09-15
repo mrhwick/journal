@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b847e9376db78b88",
+        "id": "7c386e384e393039",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "893 County Highway 40, Charlotteville, NY 12036.md",
-            "mode": "preview"
+            "file": "media/NY_Charlotteville_20190919_TM.jpeg"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "893 County Highway 40, Charlotteville, NY 12036.md",
+                "file": "media/NY_Charlotteville_20190919_TM.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "893 County Highway 40, Charlotteville, NY 12036.md",
+                "file": "media/NY_Charlotteville_20190919_TM.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "893 County Highway 40, Charlotteville, NY 12036.md"
+                "file": "media/NY_Charlotteville_20190919_TM.jpeg"
               }
             }
           },
@@ -126,17 +125,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "b847e9376db78b88",
+  "active": "7c386e384e393039",
   "lastOpenFiles": [
-    "893 County Highway 40, Charlotteville, NY 12036.md",
-    "media/Pasted image 20210915054745.png",
-    "1921 Route 9, Stuyvesant, NY 12173.md",
     "media/NY_Charlotteville_20190919_TM.jpeg",
+    "893 County Highway 40, Charlotteville, NY 12036.md",
+    "P-4-A; Develop list of prospective farmland.md",
     "146 Fred Williams Rd, Laurens, NY 13796.md",
     "74 Hardenburgh Rd, Ulster Park, NY 12487.md",
-    "media/Engelbart1962.pdf",
-    "Augmenting Human Intellect, A Conceptual Framework.md",
-    "Augmentation Means (for human functioning).md",
-    "sentinel effect.md"
+    "1921 Route 9, Stuyvesant, NY 12173.md",
+    "0002 Projects.md",
+    "the quiet world.md",
+    "media/Edible Forest Gardens Ecological Design And Practice For Temperate-Climate Permaculture by Dave Jacke, Eric Toensmeier (z-lib.org).pdf",
+    "Edible Forest Gardens.md"
   ]
 }

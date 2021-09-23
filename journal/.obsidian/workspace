@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e45874be49e43ea7",
+        "id": "76ba9e9afe10aab8",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "e45874be49e43ea7",
+  "active": "76ba9e9afe10aab8",
   "lastOpenFiles": [
+    "media/programming-phoenix-liveview_B5.0.pdf",
     "893 County Highway 40, Charlotteville, NY 12036.md",
-    "media/Pasted image 20210915054745.png",
-    "1921 Route 9, Stuyvesant, NY 12173.md",
-    "media/NY_Charlotteville_20190919_TM.jpeg",
-    "146 Fred Williams Rd, Laurens, NY 13796.md",
-    "74 Hardenburgh Rd, Ulster Park, NY 12487.md",
-    "media/Engelbart1962.pdf",
-    "Augmenting Human Intellect, A Conceptual Framework.md",
+    "P-2-A; Build a home server NAS.md",
+    "0002 Projects.md",
+    "nomos.md",
+    "Closing open loops.md",
     "Augmentation Means (for human functioning).md",
-    "sentinel effect.md"
+    "metacognition.md",
+    "naturalistic decision-making.md",
+    "Backus-Naur Form.md"
   ]
 }

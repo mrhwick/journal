@@ -7,9 +7,10 @@
         "id": "11f11c92974c483c",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "media/NY_Charlotteville_20190919_TM.jpeg"
+            "file": "893 County Highway 40, Charlotteville, NY 12036.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/NY_Charlotteville_20190919_TM.jpeg",
+                "file": "893 County Highway 40, Charlotteville, NY 12036.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/NY_Charlotteville_20190919_TM.jpeg",
+                "file": "893 County Highway 40, Charlotteville, NY 12036.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "media/NY_Charlotteville_20190919_TM.jpeg"
+                "file": "893 County Highway 40, Charlotteville, NY 12036.md"
               }
             }
           },
@@ -127,8 +128,8 @@
   },
   "active": "11f11c92974c483c",
   "lastOpenFiles": [
-    "media/NY_Charlotteville_20190919_TM.jpeg",
     "893 County Highway 40, Charlotteville, NY 12036.md",
+    "media/NY_Charlotteville_20190919_TM.jpeg",
     "146 Fred Williams Rd, Laurens, NY 13796.md",
     "P-4-A; Develop list of prospective farmland.md",
     "74 Hardenburgh Rd, Ulster Park, NY 12487.md",

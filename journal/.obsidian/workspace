@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "caab16ae0527b040",
+        "id": "11f11c92974c483c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Conflict-free Replicated Data Type.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conflict-free Replicated Data Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conflict-free Replicated Data Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Conflict-free Replicated Data Type.md"
+              }
             }
           },
           {
@@ -119,17 +126,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "caab16ae0527b040",
+  "active": "11f11c92974c483c",
   "lastOpenFiles": [
-    "Roderick Long's description of Ayn Rand's package deal anti-concept.md",
-    "\"Left and Right, Fourty Years Later\".md",
-    "media/programming-phoenix-liveview_B5.0.pdf",
+    "Conflict-free Replicated Data Type.md",
     "893 County Highway 40, Charlotteville, NY 12036.md",
-    "P-2-A; Build a home server NAS.md",
+    "media/NY_Charlotteville_20190919_TM.jpeg",
+    "146 Fred Williams Rd, Laurens, NY 13796.md",
+    "P-4-A; Develop list of prospective farmland.md",
+    "74 Hardenburgh Rd, Ulster Park, NY 12487.md",
+    "1921 Route 9, Stuyvesant, NY 12173.md",
     "0002 Projects.md",
-    "nomos.md",
-    "Closing open loops.md",
-    "Augmentation Means (for human functioning).md",
-    "metacognition.md"
+    "the quiet world.md",
+    "media/Edible Forest Gardens Ecological Design And Practice For Temperate-Climate Permaculture by Dave Jacke, Eric Toensmeier (z-lib.org).pdf"
   ]
 }

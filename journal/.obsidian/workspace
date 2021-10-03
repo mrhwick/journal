@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "11f11c92974c483c",
+        "id": "bbf8d13ae180193b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conflict-free Replicated Data Type.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conflict-free Replicated Data Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conflict-free Replicated Data Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Conflict-free Replicated Data Type.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "11f11c92974c483c",
+  "active": "bbf8d13ae180193b",
   "lastOpenFiles": [
-    "Conflict-free Replicated Data Type.md",
-    "893 County Highway 40, Charlotteville, NY 12036.md",
-    "media/NY_Charlotteville_20190919_TM.jpeg",
-    "146 Fred Williams Rd, Laurens, NY 13796.md",
-    "P-4-A; Develop list of prospective farmland.md",
-    "74 Hardenburgh Rd, Ulster Park, NY 12487.md",
-    "1921 Route 9, Stuyvesant, NY 12173.md",
-    "0002 Projects.md",
-    "the quiet world.md",
-    "media/Edible Forest Gardens Ecological Design And Practice For Temperate-Climate Permaculture by Dave Jacke, Eric Toensmeier (z-lib.org).pdf"
+    "recursion.md",
+    "Mental accounting bias makes people prefer dividends to capital gains.md",
+    "Recognition-Primed-Decision Model.md",
+    "p-zombie.md",
+    "currying.md",
+    "spoudaiogeloion.md",
+    "Bicameralism.md",
+    "transmissionism.md",
+    "nomos.md",
+    "Closing open loops.md"
   ]
 }

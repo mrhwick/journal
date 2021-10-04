@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0002 Projects.md",
+            "file": "0000 Reading List.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0002 Projects.md",
+                "file": "0000 Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0002 Projects.md",
+                "file": "0000 Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0002 Projects.md"
+                "file": "0000 Reading List.md"
               }
             }
           },
@@ -128,15 +128,15 @@
   },
   "active": "f39e541c4e4fddf0",
   "lastOpenFiles": [
+    "0000 Reading List.md",
+    "0003 Areas.md",
     "0002 Projects.md",
+    "\"Left and Right, Fourty Years Later\".md",
+    "0001 my weekly review process.md",
     "Adam Haney.md",
     "New York City.md",
     "2021.md",
     "recursion.md",
-    "Mental accounting bias makes people prefer dividends to capital gains.md",
-    "Recognition-Primed-Decision Model.md",
-    "p-zombie.md",
-    "currying.md",
-    "spoudaiogeloion.md"
+    "Mental accounting bias makes people prefer dividends to capital gains.md"
   ]
 }

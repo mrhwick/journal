@@ -7,8 +7,11 @@
         "id": "f39e541c4e4fddf0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "0002 Projects.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0002 Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0002 Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0002 Projects.md"
+              }
             }
           },
           {
@@ -121,6 +128,7 @@
   },
   "active": "f39e541c4e4fddf0",
   "lastOpenFiles": [
+    "0002 Projects.md",
     "Adam Haney.md",
     "New York City.md",
     "2021.md",
@@ -129,7 +137,6 @@
     "Recognition-Primed-Decision Model.md",
     "p-zombie.md",
     "currying.md",
-    "spoudaiogeloion.md",
-    "Bicameralism.md"
+    "spoudaiogeloion.md"
   ]
 }

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bbf8d13ae180193b",
+        "id": "f39e541c4e4fddf0",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "bbf8d13ae180193b",
+  "active": "f39e541c4e4fddf0",
   "lastOpenFiles": [
+    "Adam Haney.md",
+    "New York City.md",
+    "2021.md",
     "recursion.md",
     "Mental accounting bias makes people prefer dividends to capital gains.md",
     "Recognition-Primed-Decision Model.md",
     "p-zombie.md",
     "currying.md",
     "spoudaiogeloion.md",
-    "Bicameralism.md",
-    "transmissionism.md",
-    "nomos.md",
-    "Closing open loops.md"
+    "Bicameralism.md"
   ]
 }

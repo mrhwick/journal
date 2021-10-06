@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f39e541c4e4fddf0",
+        "id": "e2fc5e5c290ed38e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "0000 Reading List.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0000 Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0000 Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0000 Reading List.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "f39e541c4e4fddf0",
+  "active": "e2fc5e5c290ed38e",
   "lastOpenFiles": [
     "0000 Reading List.md",
     "0003 Areas.md",

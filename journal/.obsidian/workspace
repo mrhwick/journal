@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1efa3b4920fd4651",
+        "id": "04ff82086bf21d49",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Concurrency-Oriented Programming Language.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concurrency-Oriented Programming Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concurrency-Oriented Programming Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Concurrency-Oriented Programming Language.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "1efa3b4920fd4651",
+  "active": "04ff82086bf21d49",
   "lastOpenFiles": [
     "Concurrency-Oriented Programming Language.md",
     "media/armstrong_thesis_2003.pdf",

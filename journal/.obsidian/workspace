@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e2fc5e5c290ed38e",
+        "id": "5c4a22bd3adf96b8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "media/armstrong_thesis_2003.pdf"
+          }
         }
       }
     ],
@@ -65,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "media/armstrong_thesis_2003.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "media/armstrong_thesis_2003.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "media/armstrong_thesis_2003.pdf"
+              }
             }
           },
           {
@@ -119,8 +125,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "e2fc5e5c290ed38e",
+  "active": "5c4a22bd3adf96b8",
   "lastOpenFiles": [
+    "media/armstrong_thesis_2003.pdf",
     "0000 Reading List.md",
     "0003 Areas.md",
     "0002 Projects.md",
@@ -129,7 +136,6 @@
     "Adam Haney.md",
     "New York City.md",
     "2021.md",
-    "recursion.md",
-    "Mental accounting bias makes people prefer dividends to capital gains.md"
+    "recursion.md"
   ]
 }

@@ -7,8 +7,11 @@
         "id": "86b26264fcb1f04f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "但是有一点就是, dan shi you yi dian jiu shi.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "但是有一点就是, dan shi you yi dian jiu shi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "但是有一点就是, dan shi you yi dian jiu shi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "但是有一点就是, dan shi you yi dian jiu shi.md"
+              }
             }
           },
           {
@@ -121,6 +128,7 @@
   },
   "active": "86b26264fcb1f04f",
   "lastOpenFiles": [
+    "但是有一点就是, dan shi you yi dian jiu shi.md",
     "ad hoc polymorphism.md",
     "Conflict-free Replicated Data Type.md",
     "Continuation-Passing Style.md",
@@ -129,7 +137,6 @@
     "0003 Areas.md",
     "0002 Projects.md",
     "\"Left and Right, Fourty Years Later\".md",
-    "0001 my weekly review process.md",
-    "Adam Haney.md"
+    "0001 my weekly review process.md"
   ]
 }

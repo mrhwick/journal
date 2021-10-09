@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "04ff82086bf21d49",
+        "id": "86b26264fcb1f04f",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "04ff82086bf21d49",
+  "active": "86b26264fcb1f04f",
   "lastOpenFiles": [
-    "Concurrency-Oriented Programming Language.md",
-    "media/armstrong_thesis_2003.pdf",
+    "ad hoc polymorphism.md",
+    "Conflict-free Replicated Data Type.md",
+    "Continuation-Passing Style.md",
+    "磨杵成针.md",
     "0000 Reading List.md",
     "0003 Areas.md",
     "0002 Projects.md",
     "\"Left and Right, Fourty Years Later\".md",
     "0001 my weekly review process.md",
-    "Adam Haney.md",
-    "New York City.md",
-    "2021.md"
+    "Adam Haney.md"
   ]
 }

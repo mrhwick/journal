@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "175894134e2c2134",
+        "id": "7201d952c23e6f82",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "麻雀虽小 五脏俱全，.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "麻雀虽小 五脏俱全，.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "麻雀虽小 五脏俱全，.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "麻雀虽小 五脏俱全，.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "175894134e2c2134",
+  "active": "7201d952c23e6f82",
   "lastOpenFiles": [
+    "磨杵成针, mo chu cheng zhen.md",
+    "但是有一点就是, dan shi you yi dian jiu shi.md",
+    "equanimity.md",
     "麻雀虽小 五脏俱全.md",
     "daily/2021-10-13.md",
     "2021.md",
     "Feynman technique.md",
     "service level objectives.md",
     "cantillon effect.md",
-    "磨杵成针, mo chu cheng zhen.md",
-    "但是有一点就是, dan shi you yi dian jiu shi.md",
-    "Concurrency-Oriented Programming Language.md",
-    "ad hoc polymorphism.md"
+    "Concurrency-Oriented Programming Language.md"
   ]
 }

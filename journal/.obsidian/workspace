@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc20431f74fb2ac8",
+        "id": "d94ee16792c3eeb4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "When a technical system surprises us, usually it is our mental model that is incorrect.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "When a technical system surprises us, usually it is our mental model that is incorrect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "When a technical system surprises us, usually it is our mental model that is incorrect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "When a technical system surprises us, usually it is our mental model that is incorrect.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "dc20431f74fb2ac8",
+  "active": "d94ee16792c3eeb4",
   "lastOpenFiles": [
     "When a technical system surprises us, usually it is our mental model that is incorrect.md",
     "Recognition-Primed-Decision Model.md",

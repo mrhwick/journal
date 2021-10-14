@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7201d952c23e6f82",
+        "id": "dc20431f74fb2ac8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Recognition-Primed-Decision Model.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Recognition-Primed-Decision Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Recognition-Primed-Decision Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Recognition-Primed-Decision Model.md"
+              }
             }
           },
           {
@@ -119,17 +126,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "7201d952c23e6f82",
+  "active": "dc20431f74fb2ac8",
   "lastOpenFiles": [
-    "磨杵成针, mo chu cheng zhen.md",
-    "但是有一点就是, dan shi you yi dian jiu shi.md",
-    "equanimity.md",
-    "麻雀虽小 五脏俱全.md",
-    "daily/2021-10-13.md",
-    "2021.md",
+    "Recognition-Primed-Decision Model.md",
     "Feynman technique.md",
     "service level objectives.md",
     "cantillon effect.md",
-    "Concurrency-Oriented Programming Language.md"
+    "磨杵成针, mo chu cheng zhen.md",
+    "但是有一点就是, dan shi you yi dian jiu shi.md",
+    "Concurrency-Oriented Programming Language.md",
+    "ad hoc polymorphism.md",
+    "Conflict-free Replicated Data Type.md",
+    "Continuation-Passing Style.md"
   ]
 }

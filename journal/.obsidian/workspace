@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "dc20431f74fb2ac8",
+        "id": "175894134e2c2134",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,8 +119,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "dc20431f74fb2ac8",
+  "active": "175894134e2c2134",
   "lastOpenFiles": [
+    "daily/2021-10-13.md",
+    "2021.md",
     "Feynman technique.md",
     "service level objectives.md",
     "cantillon effect.md",
@@ -128,8 +130,6 @@
     "但是有一点就是, dan shi you yi dian jiu shi.md",
     "Concurrency-Oriented Programming Language.md",
     "ad hoc polymorphism.md",
-    "Conflict-free Replicated Data Type.md",
-    "Continuation-Passing Style.md",
-    "磨杵成针.md"
+    "Conflict-free Replicated Data Type.md"
   ]
 }

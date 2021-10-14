@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Recognition-Primed-Decision Model.md",
+            "file": "When a technical system surprises us, usually it is our mental model that is incorrect.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recognition-Primed-Decision Model.md",
+                "file": "When a technical system surprises us, usually it is our mental model that is incorrect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recognition-Primed-Decision Model.md",
+                "file": "When a technical system surprises us, usually it is our mental model that is incorrect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recognition-Primed-Decision Model.md"
+                "file": "When a technical system surprises us, usually it is our mental model that is incorrect.md"
               }
             }
           },
@@ -128,6 +128,7 @@
   },
   "active": "dc20431f74fb2ac8",
   "lastOpenFiles": [
+    "When a technical system surprises us, usually it is our mental model that is incorrect.md",
     "Recognition-Primed-Decision Model.md",
     "Feynman technique.md",
     "service level objectives.md",
@@ -136,7 +137,6 @@
     "但是有一点就是, dan shi you yi dian jiu shi.md",
     "Concurrency-Oriented Programming Language.md",
     "ad hoc polymorphism.md",
-    "Conflict-free Replicated Data Type.md",
-    "Continuation-Passing Style.md"
+    "Conflict-free Replicated Data Type.md"
   ]
 }

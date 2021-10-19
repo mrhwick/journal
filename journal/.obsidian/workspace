@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d43d2000306711e1",
+        "id": "d94ee16792c3eeb4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Left and Right, Fourty Years Later.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Left and Right, Fourty Years Later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Left and Right, Fourty Years Later.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Left and Right, Fourty Years Later.md"
+              }
             }
           },
           {
@@ -119,17 +126,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "d43d2000306711e1",
+  "active": "d94ee16792c3eeb4",
   "lastOpenFiles": [
-    "media/cidr07p15.pdf",
-    "74 Hardenburgh Rd, Ulster Park, NY 12487.md",
-    "2020.md",
-    "Benford's Law.md",
-    "modafinil.md",
+    "Left and Right, Fourty Years Later.md",
+    "media/In the Charcuterie Making Sausage, Salumi, Pates, Roasts, Confits, and Other Meaty Goods by Taylor BoetticherToponia Miller (z-lib.org).pdf",
+    "When a technical system surprises us, usually it is our mental model that is incorrect.md",
+    "Recognition-Primed-Decision Model.md",
+    "Feynman technique.md",
+    "service level objectives.md",
+    "cantillon effect.md",
     "磨杵成针, mo chu cheng zhen.md",
     "但是有一点就是, dan shi you yi dian jiu shi.md",
-    "麻雀虽小 五脏俱全, ma2 que4 sui1 xiao3 wu3 zang4 ju4 quan2.md",
-    "macrocognition.md",
-    "equanimity.md"
+    "Concurrency-Oriented Programming Language.md"
   ]
 }

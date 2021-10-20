@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f19bbf70ee7527d",
+        "id": "be340ad43c7d0b65",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "cantillon effect.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cantillon effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cantillon effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cantillon effect.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "2f19bbf70ee7527d",
+  "active": "be340ad43c7d0b65",
   "lastOpenFiles": [
     "cantillon effect.md",
     "Left and Right, Fourty Years Later.md",

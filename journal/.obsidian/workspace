@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "de58645c135c5141",
+    "id": "24c12de021e293d3",
     "type": "split",
     "children": [
       {
-        "id": "be340ad43c7d0b65",
+        "id": "396ddc69c8e3bb32",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "5e890321048f22e4",
+            "id": "7f31ffa6e8e4ed18",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "be340ad43c7d0b65",
+  "active": "396ddc69c8e3bb32",
   "lastOpenFiles": [
+    "0000 Reading List.md",
+    "media/djed-2021.pdf",
+    "media/armstrong_thesis_2003.pdf",
     "cantillon effect.md",
     "Left and Right, Fourty Years Later.md",
     "media/In the Charcuterie Making Sausage, Salumi, Pates, Roasts, Confits, and Other Meaty Goods by Taylor BoetticherToponia Miller (z-lib.org).pdf",
     "When a technical system surprises us, usually it is our mental model that is incorrect.md",
     "Recognition-Primed-Decision Model.md",
     "Feynman technique.md",
-    "service level objectives.md",
-    "磨杵成针, mo chu cheng zhen.md",
-    "但是有一点就是, dan shi you yi dian jiu shi.md",
-    "Concurrency-Oriented Programming Language.md"
+    "service level objectives.md"
   ]
 }

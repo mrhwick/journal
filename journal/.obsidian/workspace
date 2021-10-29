@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f08607b442c88640",
+        "id": "d1b6c94d6cb80da0",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,8 +119,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "f08607b442c88640",
+  "active": "d1b6c94d6cb80da0",
   "lastOpenFiles": [
+    "Hunter S. Thompson.md",
     "media/armstrong_thesis_2003.pdf",
     "0000 Reading List.md",
     "media/djed-2021.pdf",
@@ -129,7 +130,6 @@
     "media/In the Charcuterie Making Sausage, Salumi, Pates, Roasts, Confits, and Other Meaty Goods by Taylor BoetticherToponia Miller (z-lib.org).pdf",
     "When a technical system surprises us, usually it is our mental model that is incorrect.md",
     "Recognition-Primed-Decision Model.md",
-    "Feynman technique.md",
-    "service level objectives.md"
+    "Feynman technique.md"
   ]
 }

@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5288e48d5ed16fb9",
+        "id": "ceba7da396cb34d6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Hunter S. Thompson.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hunter S. Thompson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hunter S. Thompson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hunter S. Thompson.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "5288e48d5ed16fb9",
+  "active": "ceba7da396cb34d6",
   "lastOpenFiles": [
     "Hunter S. Thompson.md",
     "media/armstrong_thesis_2003.pdf",

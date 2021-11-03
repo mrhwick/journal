@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "11428c4b14176241",
+        "id": "ad060bf7a0e0875a",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,8 +119,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "11428c4b14176241",
+  "active": "ad060bf7a0e0875a",
   "lastOpenFiles": [
+    "Most people find being on-call for unfamiliar components disproportionately stressful.md",
     "continuous integration.md",
     "parrhesia.md",
     "Bretton Woods.md",
@@ -129,7 +130,6 @@
     "p-zombie.md",
     "Bicameralism.md",
     "Bayesian Program Synthesis (BPS).md",
-    "Augmentation Means (for human functioning).md",
-    "P.A.R.A..md"
+    "Augmentation Means (for human functioning).md"
   ]
 }

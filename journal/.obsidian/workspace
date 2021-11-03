@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ceba7da396cb34d6",
+        "id": "11428c4b14176241",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "ceba7da396cb34d6",
+  "active": "11428c4b14176241",
   "lastOpenFiles": [
-    "Hunter S. Thompson.md",
-    "media/armstrong_thesis_2003.pdf",
-    "0000 Reading List.md",
-    "media/djed-2021.pdf",
-    "cantillon effect.md",
-    "Left and Right, Fourty Years Later.md",
-    "media/In the Charcuterie Making Sausage, Salumi, Pates, Roasts, Confits, and Other Meaty Goods by Taylor BoetticherToponia Miller (z-lib.org).pdf",
-    "When a technical system surprises us, usually it is our mental model that is incorrect.md",
-    "Recognition-Primed-Decision Model.md",
-    "Feynman technique.md"
+    "continuous integration.md",
+    "parrhesia.md",
+    "Bretton Woods.md",
+    "Annus Mirabilis Papers.md",
+    "Conflict-free Replicated Data Type.md",
+    "p-zombie.md",
+    "Bicameralism.md",
+    "Bayesian Program Synthesis (BPS).md",
+    "Augmentation Means (for human functioning).md",
+    "P.A.R.A..md"
   ]
 }

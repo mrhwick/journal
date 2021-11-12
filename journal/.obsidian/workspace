@@ -7,8 +7,11 @@
         "id": "4e83cf9f3c2214c0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "daily/2021-11-12.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2021-11-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2021-11-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2021-11-12.md"
+              }
             }
           },
           {
@@ -121,6 +128,7 @@
   },
   "active": "4e83cf9f3c2214c0",
   "lastOpenFiles": [
+    "daily/2021-11-12.md",
     "Most people find being on-call for unfamiliar components disproportionately stressful.md",
     "continuous integration.md",
     "parrhesia.md",
@@ -129,7 +137,6 @@
     "Conflict-free Replicated Data Type.md",
     "p-zombie.md",
     "Bicameralism.md",
-    "Bayesian Program Synthesis (BPS).md",
-    "Augmentation Means (for human functioning).md"
+    "Bayesian Program Synthesis (BPS).md"
   ]
 }

@@ -1,14 +1,25 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "8052f6cfeb18853b",
     "type": "split",
     "children": [
       {
         "id": "e550d1bad9e986d7",
+=======
+    "id": "de58645c135c5141",
+    "type": "split",
+    "children": [
+      {
+        "id": "d43d2000306711e1",
+>>>>>>> 0bb7d0b102603f13964e0735634f19cddeba41e2
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "constraint programming.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "constraint programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "constraint programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,11 +115,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "constraint programming.md"
+              }
             }
           },
           {
-            "id": "7f31ffa6e8e4ed18",
+            "id": "5e890321048f22e4",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -119,17 +134,21 @@
     "direction": "horizontal",
     "width": 313
   },
+<<<<<<< HEAD
   "active": "e550d1bad9e986d7",
+=======
+  "active": "d43d2000306711e1",
+>>>>>>> 0bb7d0b102603f13964e0735634f19cddeba41e2
   "lastOpenFiles": [
-    "daily/2021-11-12.md",
-    "Most people find being on-call for unfamiliar components disproportionately stressful.md",
-    "continuous integration.md",
-    "parrhesia.md",
-    "Bretton Woods.md",
-    "Annus Mirabilis Papers.md",
-    "Conflict-free Replicated Data Type.md",
-    "p-zombie.md",
-    "Bicameralism.md",
-    "Bayesian Program Synthesis (BPS).md"
+    "constraint programming.md",
+    "media/cidr07p15.pdf",
+    "74 Hardenburgh Rd, Ulster Park, NY 12487.md",
+    "2020.md",
+    "Benford's Law.md",
+    "modafinil.md",
+    "磨杵成针, mo chu cheng zhen.md",
+    "但是有一点就是, dan shi you yi dian jiu shi.md",
+    "麻雀虽小 五脏俱全, ma2 que4 sui1 xiao3 wu3 zang4 ju4 quan2.md",
+    "macrocognition.md"
   ]
 }

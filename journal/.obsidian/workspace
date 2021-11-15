@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "22a287a0b4aa7cba",
+        "id": "e550d1bad9e986d7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "daily/2021-11-12.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-11-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2021-11-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/2021-11-12.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "22a287a0b4aa7cba",
+  "active": "e550d1bad9e986d7",
   "lastOpenFiles": [
     "daily/2021-11-12.md",
     "Most people find being on-call for unfamiliar components disproportionately stressful.md",

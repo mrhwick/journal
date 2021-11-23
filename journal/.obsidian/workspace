@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "de58645c135c5141",
+    "id": "8052f6cfeb18853b",
     "type": "split",
     "children": [
       {
-        "id": "7c0e7da1608b7423",
+        "id": "9fe39cf75ffbe324",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "5e890321048f22e4",
+            "id": "7f31ffa6e8e4ed18",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "7c0e7da1608b7423",
+  "active": "9fe39cf75ffbe324",
   "lastOpenFiles": [
-    "constraint programming.md",
-    "media/cidr07p15.pdf",
-    "74 Hardenburgh Rd, Ulster Park, NY 12487.md",
-    "2020.md",
-    "Benford's Law.md",
-    "modafinil.md",
-    "磨杵成针, mo chu cheng zhen.md",
-    "但是有一点就是, dan shi you yi dian jiu shi.md",
-    "麻雀虽小 五脏俱全, ma2 que4 sui1 xiao3 wu3 zang4 ju4 quan2.md",
-    "macrocognition.md"
+    "Permissionless or Gatekeeperless change leads to innovation.md",
+    "Permissionless /Gatekeeperless changes produce innovation.md",
+    "daily/2021-11-12.md",
+    "Most people find being on-call for unfamiliar components disproportionately stressful.md",
+    "continuous integration.md",
+    "parrhesia.md",
+    "Bretton Woods.md",
+    "Annus Mirabilis Papers.md",
+    "Conflict-free Replicated Data Type.md",
+    "p-zombie.md"
   ]
 }

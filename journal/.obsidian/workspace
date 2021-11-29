@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "8052f6cfeb18853b",
+    "id": "b43971234b19afaf",
     "type": "split",
     "children": [
       {
-        "id": "9fe39cf75ffbe324",
+        "id": "a32e6e5a33d1e9f7",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "9fe39cf75ffbe324",
+  "active": "a32e6e5a33d1e9f7",
   "lastOpenFiles": [
     "Permissionless or Gatekeeperless change leads to innovation.md",
     "Permissionless /Gatekeeperless changes produce innovation.md",

@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "612a136f6d5a88f9",
+        "id": "7aad13d53a84e410",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Baphomet.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Baphomet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Baphomet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Baphomet.md"
+              }
             }
           },
           {
@@ -119,17 +126,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "612a136f6d5a88f9",
+  "active": "7aad13d53a84e410",
   "lastOpenFiles": [
+    "Baphomet.md",
+    "media/Baphomet1856.png",
+    "occultism.md",
+    "media/Butchering Poultry, Rabbit, Lamb, Goat, and Pork The Comprehensive Photographic Guide to Humane Slaughtering and Butchering by Adam Danforth, Joel Salatin (z-lib.org).pdf",
+    "Eliphas Levi.md",
+    "Hermes Trismegistus.md",
     "A Thousand Plateaus, Capitalism and Schizophrenia.md",
     "Permissionless or Gatekeeperless change leads to innovation.md",
     "Permissionless /Gatekeeperless changes produce innovation.md",
-    "daily/2021-11-12.md",
-    "Most people find being on-call for unfamiliar components disproportionately stressful.md",
-    "continuous integration.md",
-    "parrhesia.md",
-    "Bretton Woods.md",
-    "Annus Mirabilis Papers.md",
-    "Conflict-free Replicated Data Type.md"
+    "daily/2021-11-12.md"
   ]
 }

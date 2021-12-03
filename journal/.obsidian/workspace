@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7aad13d53a84e410",
+        "id": "ae49be5a5f15285e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Baphomet.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baphomet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baphomet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Baphomet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,8 +119,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "7aad13d53a84e410",
+  "active": "ae49be5a5f15285e",
   "lastOpenFiles": [
+    "Arrian of Nicomedia.md",
     "Baphomet.md",
     "media/Baphomet1856.png",
     "occultism.md",
@@ -136,7 +130,6 @@
     "Hermes Trismegistus.md",
     "A Thousand Plateaus, Capitalism and Schizophrenia.md",
     "Permissionless or Gatekeeperless change leads to innovation.md",
-    "Permissionless /Gatekeeperless changes produce innovation.md",
-    "daily/2021-11-12.md"
+    "Permissionless /Gatekeeperless changes produce innovation.md"
   ]
 }

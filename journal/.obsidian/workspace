@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ae49be5a5f15285e",
+        "id": "3b909335534ab302",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,8 +119,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "ae49be5a5f15285e",
+  "active": "3b909335534ab302",
   "lastOpenFiles": [
+    "Josh Marlow.md",
     "Arrian of Nicomedia.md",
     "Baphomet.md",
     "media/Baphomet1856.png",
@@ -129,7 +130,6 @@
     "Eliphas Levi.md",
     "Hermes Trismegistus.md",
     "A Thousand Plateaus, Capitalism and Schizophrenia.md",
-    "Permissionless or Gatekeeperless change leads to innovation.md",
-    "Permissionless /Gatekeeperless changes produce innovation.md"
+    "Permissionless or Gatekeeperless change leads to innovation.md"
   ]
 }

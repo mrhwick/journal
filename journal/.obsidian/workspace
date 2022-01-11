@@ -1,13 +1,13 @@
 {
   "main": {
-    "id": "b43971234b19afaf",
+    "id": "de58645c135c5141",
     "type": "split",
     "children": [
       {
-        "id": "3b909335534ab302",
+        "id": "7c0e7da1608b7423",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "7f31ffa6e8e4ed18",
+            "id": "5e890321048f22e4",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "3b909335534ab302",
+  "active": "7c0e7da1608b7423",
   "lastOpenFiles": [
-    "Josh Marlow.md",
-    "Arrian of Nicomedia.md",
-    "Baphomet.md",
-    "media/Baphomet1856.png",
-    "occultism.md",
-    "media/Butchering Poultry, Rabbit, Lamb, Goat, and Pork The Comprehensive Photographic Guide to Humane Slaughtering and Butchering by Adam Danforth, Joel Salatin (z-lib.org).pdf",
-    "Eliphas Levi.md",
-    "Hermes Trismegistus.md",
-    "A Thousand Plateaus, Capitalism and Schizophrenia.md",
-    "Permissionless or Gatekeeperless change leads to innovation.md"
+    "Augmenting Human Intellect, A Conceptual Framework.md",
+    "media/Engelbart1962.pdf",
+    "0000 Reading List.md",
+    "constraint programming.md",
+    "media/cidr07p15.pdf",
+    "74 Hardenburgh Rd, Ulster Park, NY 12487.md",
+    "2020.md",
+    "Benford's Law.md",
+    "modafinil.md",
+    "磨杵成针, mo chu cheng zhen.md"
   ]
 }

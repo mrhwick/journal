@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7c0e7da1608b7423",
+        "id": "aa6050c7d2391ae1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0002 Projects.md",
+            "file": "daily/2022-01-19.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0002 Projects.md",
+                "file": "daily/2022-01-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0002 Projects.md",
+                "file": "daily/2022-01-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0002 Projects.md"
+                "file": "daily/2022-01-19.md"
               }
             }
           },
@@ -126,8 +126,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "7c0e7da1608b7423",
+  "active": "aa6050c7d2391ae1",
   "lastOpenFiles": [
+    "daily/2022-01-19.md",
     "0002 Projects.md",
     "Augmenting Human Intellect, A Conceptual Framework.md",
     "media/Engelbart1962.pdf",
@@ -136,7 +137,6 @@
     "media/cidr07p15.pdf",
     "74 Hardenburgh Rd, Ulster Park, NY 12487.md",
     "2020.md",
-    "Benford's Law.md",
-    "modafinil.md"
+    "Benford's Law.md"
   ]
 }

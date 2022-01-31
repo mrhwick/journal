@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d3c6f9a75c46c92b",
+        "id": "37134a1eabff1316",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SNAFUcatchers.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SNAFUcatchers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SNAFUcatchers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SNAFUcatchers.md"
+              }
             }
           },
           {
@@ -119,8 +126,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "d3c6f9a75c46c92b",
+  "active": "37134a1eabff1316",
   "lastOpenFiles": [
+    "SNAFUcatchers.md",
+    "Shadow Deployments.md",
     "media/Book Review_ Origin Of Consciousness In The Breakdown Of The Bicameral Mind _ Slate Star Codex.pdf",
     "media/Baphomet1856.png",
     "Referent Power.md",
@@ -128,8 +137,6 @@
     "0002 Projects.md",
     "Augmenting Human Intellect, A Conceptual Framework.md",
     "media/Engelbart1962.pdf",
-    "0000 Reading List.md",
-    "constraint programming.md",
-    "media/cidr07p15.pdf"
+    "0000 Reading List.md"
   ]
 }

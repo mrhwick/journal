@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "37134a1eabff1316",
+        "id": "075d64e573b526d5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SNAFUcatchers.md",
+            "file": "New York City.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SNAFUcatchers.md",
+                "file": "New York City.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SNAFUcatchers.md",
+                "file": "New York City.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SNAFUcatchers.md"
+                "file": "New York City.md"
               }
             }
           },
@@ -126,8 +126,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "37134a1eabff1316",
+  "active": "075d64e573b526d5",
   "lastOpenFiles": [
+    "New York City.md",
     "SNAFUcatchers.md",
     "Shadow Deployments.md",
     "media/Book Review_ Origin Of Consciousness In The Breakdown Of The Bicameral Mind _ Slate Star Codex.pdf",
@@ -136,7 +137,6 @@
     "daily/2022-01-19.md",
     "0002 Projects.md",
     "Augmenting Human Intellect, A Conceptual Framework.md",
-    "media/Engelbart1962.pdf",
-    "0000 Reading List.md"
+    "media/Engelbart1962.pdf"
   ]
 }

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4f63ecade487acd7",
+        "id": "67f694643d54a4a9",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,8 +119,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "4f63ecade487acd7",
+  "active": "67f694643d54a4a9",
   "lastOpenFiles": [
+    "media/HowComplexSystemsFail.pdf",
     "Wernher von Braun.md",
     "nomos.md",
     "arete.md",
@@ -129,7 +130,6 @@
     "Augmentation Means (for human functioning).md",
     "compatibilism.md",
     "Memory System.md",
-    "Conflict-free Replicated Data Type.md",
-    "Zeno of Citium.md"
+    "Conflict-free Replicated Data Type.md"
   ]
 }

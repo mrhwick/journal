@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-03-31.md",
+            "file": "daily/2022-04-13.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-03-31.md",
+                "file": "daily/2022-04-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-03-31.md",
+                "file": "daily/2022-04-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-03-31.md"
+                "file": "daily/2022-04-13.md"
               }
             }
           },
@@ -128,6 +128,7 @@
   },
   "active": "67f694643d54a4a9",
   "lastOpenFiles": [
+    "daily/2022-04-13.md",
     "daily/2022-03-31.md",
     "weekly/2022-W14.md",
     "media/HowComplexSystemsFail.pdf",
@@ -136,7 +137,6 @@
     "arete.md",
     "Continuation-Passing Style.md",
     "Feynman technique.md",
-    "Augmentation Means (for human functioning).md",
-    "compatibilism.md"
+    "Augmentation Means (for human functioning).md"
   ]
 }

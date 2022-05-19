@@ -7,8 +7,11 @@
         "id": "d7778818fd379b21",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "evergreen notes.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "evergreen notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "evergreen notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "evergreen notes.md"
+              }
             }
           },
           {
@@ -121,15 +128,15 @@
   },
   "active": "d7778818fd379b21",
   "lastOpenFiles": [
+    "evergreen notes.md",
+    "Write notes in your own words instead of summarizing others.md",
+    "collecting information is an incentive trap.md",
     "daily/2022-04-14.md",
     "daily/2022-04-13.md",
     "daily/2022-03-31.md",
     "weekly/2022-W14.md",
     "media/HowComplexSystemsFail.pdf",
     "Wernher von Braun.md",
-    "nomos.md",
-    "arete.md",
-    "Continuation-Passing Style.md",
-    "Feynman technique.md"
+    "nomos.md"
   ]
 }

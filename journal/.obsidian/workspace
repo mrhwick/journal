@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d7778818fd379b21",
+        "id": "ccb06c25651f2982",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "evergreen notes.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "evergreen notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "evergreen notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "evergreen notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "d7778818fd379b21",
+  "active": "ccb06c25651f2982",
   "lastOpenFiles": [
     "evergreen notes.md",
     "Write notes in your own words instead of summarizing others.md",

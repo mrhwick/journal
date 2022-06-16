@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ccb06c25651f2982",
+        "id": "14315e19f9363cab",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "ccb06c25651f2982",
+  "active": "14315e19f9363cab",
   "lastOpenFiles": [
+    "daily/2022-06-13.md",
+    "sheng ji - 升级.md",
+    "daily/2022-06-08.md",
     "evergreen notes.md",
     "Write notes in your own words instead of summarizing others.md",
     "collecting information is an incentive trap.md",
     "daily/2022-04-14.md",
     "daily/2022-04-13.md",
     "daily/2022-03-31.md",
-    "weekly/2022-W14.md",
-    "media/HowComplexSystemsFail.pdf",
-    "Wernher von Braun.md",
-    "nomos.md"
+    "weekly/2022-W14.md"
   ]
 }

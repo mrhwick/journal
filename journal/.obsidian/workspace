@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "14315e19f9363cab",
+        "id": "fa040ed1c31c6319",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "14315e19f9363cab",
+  "active": "fa040ed1c31c6319",
   "lastOpenFiles": [
     "daily/2022-06-13.md",
     "sheng ji - 升级.md",

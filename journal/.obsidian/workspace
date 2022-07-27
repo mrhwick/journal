@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Creativity, Inc -- Notes.md",
+            "file": "weekly/2022-W31.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creativity, Inc -- Notes.md",
+                "file": "weekly/2022-W31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creativity, Inc -- Notes.md",
+                "file": "weekly/2022-W31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creativity, Inc -- Notes.md"
+                "file": "weekly/2022-W31.md"
               }
             }
           },
@@ -129,8 +129,8 @@
   },
   "active": "cbac965e5ba1de3f",
   "lastOpenFiles": [
-    "Lucas.md",
     "Creativity, Inc -- Notes.md",
+    "Lucas.md",
     "George Lucas.md",
     "media/Butchering Poultry, Rabbit, Lamb, Goat, and Pork The Comprehensive Photographic Guide to Humane Slaughtering and Butchering by Adam Danforth, Joel Salatin (z-lib.org).pdf",
     "Creativity, Inc.md",

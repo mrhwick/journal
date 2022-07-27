@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cbac965e5ba1de3f",
+        "id": "10a158a426394944",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "weekly/2022-W31.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/2022-W31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/2022-W31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "weekly/2022-W31.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,8 +119,9 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "cbac965e5ba1de3f",
+  "active": "10a158a426394944",
   "lastOpenFiles": [
+    "weekly/2022-W31.md",
     "Creativity, Inc -- Notes.md",
     "Lucas.md",
     "George Lucas.md",
@@ -137,7 +130,6 @@
     "Freddish.md",
     "daily/2022-06-13.md",
     "sheng ji - 升级.md",
-    "daily/2022-06-08.md",
-    "evergreen notes.md"
+    "daily/2022-06-08.md"
   ]
 }

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0f24632f823e8180",
+        "id": "12ac97695c411ed7",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,7 +119,7 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "0f24632f823e8180",
+  "active": "12ac97695c411ed7",
   "lastOpenFiles": [
     "media/making sense of stream processing by Martin Kleppmann (z-lib.org).pdf",
     "media/Designing Event-Driven Systems Concepts and Patterns for Streaming Services with Apache Kafka by Ben Stopford (z-lib.org).pdf",

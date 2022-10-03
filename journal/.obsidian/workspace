@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "12ac97695c411ed7",
+        "id": "49309016d56f1a46",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -119,8 +119,10 @@
     "direction": "horizontal",
     "width": 313
   },
-  "active": "12ac97695c411ed7",
+  "active": "49309016d56f1a46",
   "lastOpenFiles": [
+    "engineeringladders.com.md",
+    "Career Ladder Frameworks.md",
     "media/making sense of stream processing by Martin Kleppmann (z-lib.org).pdf",
     "media/Designing Event-Driven Systems Concepts and Patterns for Streaming Services with Apache Kafka by Ben Stopford (z-lib.org).pdf",
     "Putting Apache Kafka To Use. A Practical Guide to Building an Event Streaming Platform (Part 2).md",
@@ -128,8 +130,6 @@
     "weekly/2022-W31.md",
     "Creativity, Inc -- Notes.md",
     "Lucas.md",
-    "George Lucas.md",
-    "media/Butchering Poultry, Rabbit, Lamb, Goat, and Pork The Comprehensive Photographic Guide to Humane Slaughtering and Butchering by Adam Danforth, Joel Salatin (z-lib.org).pdf",
-    "Creativity, Inc.md"
+    "George Lucas.md"
   ]
 }

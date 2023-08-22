@@ -1,5 +1,5 @@
 cd PLACEHOLDER
-export PATH="/usr/local/bin:$PATH"
+export PATH="/opt/homebrew/bin/git-crypt:$PATH"
 
 date
 echo " syncing journal repo to github.."
